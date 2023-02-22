@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño 2d.md",
+                "file": "Programación C Sharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "436ea96a59123609",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño 2d.md",
+                "file": "Programación C Sharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño 2d.md",
+                "file": "Programación C Sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diseño 2d.md"
+                "file": "Programación C Sharp.md"
               }
             }
           },
@@ -159,6 +158,7 @@
   },
   "active": "41ddbec4316fc65f",
   "lastOpenFiles": [
+    "Diseño 2d.md",
     "Ingles/2023-02-22.md",
     "Ingles/2023-02-20.md",
     "Untitled.md",
@@ -167,7 +167,6 @@
     "Ingles/2023-02-01.md",
     "Ingles/2023-02-06.md",
     "Presentación de la asignatura.md",
-    "Diseño 2d.md",
     "Untitled.canvas"
   ]
 }
