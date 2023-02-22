@@ -51,6 +51,12 @@ definidas por puntos de control; interpolacion o aproximacion
 ### Continuidad
 Es la forma de unirse que tienen dos curvas, el tipo de continuidad determina la suavidad de la unión.
 #### Continuidad paramétrica
-C<sup>0</sup>
-C<sup>0</sup>
+C<sup>0</sup>: Coinciden los extremos. Curva continua de posición
+C<sup>1</sup>: Coinciden los extremos y la primera derivada. Curva continua en tangente
+C<sup>2</sup>: Coinciden los extremos y hasta lan-esima derivada. Curva continua en curvatura
+#### Continuidad geométrica
+C<sup>0</sup>:
+C<sup>1</sup>:
+C<sup>2</sup>:
+C<sup>n</sup>:
 
