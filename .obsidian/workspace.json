@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "1ff7d9b2ffb27979",
+    "type": "split",
+    "children": [
+      {
+        "id": "51dfa3fdbcf28776",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41ddbec4316fc65f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diseño 2d.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d2eb8444fb0665e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0637651d1c898e32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ffd916c643b34fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c28a3ba44d0760ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab053b4203611a9e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "436ea96a59123609",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e2a5fdea7ff6b5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ad4c44085139ff5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diseño 2d.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc1ab0f1bd27c4f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diseño 2d.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f327884d9343744f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "391b6dbb31ab85ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diseño 2d.md"
+              }
+            }
+          },
+          {
+            "id": "6fc863e13379f25d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "41ddbec4316fc65f",
+  "lastOpenFiles": [
+    "Ingles/2023-02-22.md",
+    "Ingles/2023-02-20.md",
+    "Untitled.md",
+    "Programación C Sharp.md",
+    "Teco/Teco.md",
+    "Ingles/2023-02-01.md",
+    "Ingles/2023-02-06.md",
+    "Presentación de la asignatura.md",
+    "Diseño 2d.md",
+    "Untitled.canvas"
+  ]
+}
