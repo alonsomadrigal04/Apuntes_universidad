@@ -46,5 +46,11 @@ P' =T(0, 2) * R(45º) * T(2, -2) * P(-2, 2)
 ---
 ### Gráficos vectoriales (primitivas vectoriales)
 #### Curvas Sinteticas
-definidas por puntos de control; interpolacion o aproximac
+definidas por puntos de control; interpolacion o aproximacion
+
+### Continuidad
+Es la forma de unirse que tienen dos curvas, el tipo de continuidad determina la suavidad de la unión.
+#### Continuidad paramétrica
+C<sup>0</sup>
+C<sup>0</sup>
 
