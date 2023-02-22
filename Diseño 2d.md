@@ -45,4 +45,6 @@ P' =T(0, 2) * R(45º) * T(2, -2) * P(-2, 2)
 - Para tratar escalar, rotar y trasladar de la misma manera sencilla. Multiplicando matrices
 ---
 ### Gráficos vectoriales (primitivas vectoriales)
+#### Curvas Sinteticas
+definidas por puntos de control; interpolacion o aproximac
 
