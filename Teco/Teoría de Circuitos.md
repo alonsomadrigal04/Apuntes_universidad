@@ -54,4 +54,5 @@ $$ I = I_1 + I_2 = \frac{V_{out}}{R_1} + \frac{V_{out}}{R_2} $$
 ### Leyes de Kirchhoff
 - 1ª Ley, ley de corrientes; para un nodo la suma de las corrientes que entran y salen del mismo es nula.![[Ley de corrientes.png]]
 $$ I = +I_1 + I_3 + (-I_2) + (-I_4) + (-I_5) $$
-- 2ª Ley, ley de tensiones
+- 2ª Ley, ley de tensiones; la suma algebraica de las caídas de potencial en un lazo cerrado es nula.![[Ley de tensiones.png]]
+$$ \triangle V_1 + \triangle V_2 + \triangle V_3 + \triangle V_4 + (-V_{out}) = 0 $$
