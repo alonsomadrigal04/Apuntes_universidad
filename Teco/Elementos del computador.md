@@ -63,4 +63,6 @@ Permiten:
 
 #### Organización de la memoria
 - 2 tipos de memoria, Instrucciones y otra de datos
-- 
+#### Codificación de datos
+-  Instrucciones en lenguaje máquina = "1" "0"
+	- Numeros en
