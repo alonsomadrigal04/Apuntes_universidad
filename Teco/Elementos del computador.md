@@ -72,7 +72,18 @@ Permiten:
 - Existen circunstancias especiales que requieren acciones inmediatas. Para tener que solucionarlas.
 #### Gestión de Entrada y salida (NO ENTRA)
 - La interacción se utiliza a dos niveles; <u>prioridad</u> (se establece el orden de ejecución de los dispositivos) <u>sincronización</u> (sincronizar el procesador y las instrucciones de entrada y salida).
-- Consulta de estada (comprobar todo el rato a ver si han enviado una instrucción de entrada y salida) menos útil y las interrupciones (mas util) . 
+- Consulta de estada (comprobar todo el rato a ver si han enviado una instrucción de entrada y salida) menos útil y las interrupciones (más útil). 
 - Librar al procesador con dispositivos como DMA.
 
 ### Procesador ARM
+- Instrucciones sencillas, pero muy potentes. 
+#### El lenguaje de la máquina
+- La estructura del procesador condiciona el tipo del lenguaje máquina que utilizará. Son parecidos, pero hay diferencias puntuales
+- Sus objetivos son:
+	- Bueno, bonito, barato
+	- Simplificar la estructura del hardware
+	- Simplificar la estructura del compilador.
+	- Obtener un elevado rendimiento del hardware.
+	- Conseguir un coste reducido.
+
+- 
