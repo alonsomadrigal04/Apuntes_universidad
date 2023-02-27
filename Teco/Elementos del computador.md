@@ -38,4 +38,10 @@
 | Comparaciones           |     |
 | Saltos                  |     |
 | Interacción con la pila |     |
-- Cada lenguaje ensamblador tendrá sus propias instrucciones
+
+#### Formatos de instrucción
+- Cada lenguaje ensamblador tendrá sus propias instrucciones. Se pretende optimizar el código, todas del mismo tamaño y que ocupen el menor espacio posible. 
+
+####  Modos de direccionamiento
+- Como acceder a cada uno de sus operandos de la instrucción.
+- 
