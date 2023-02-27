@@ -47,3 +47,5 @@ $$ V_{out} = V_1 + V_2 = I \cdot R_1 + I \cdot R_2 $$
 <center>La cantidad de corriente siempre será la misma</center>
 #### Asociación en paralelo
 
+![[Asociacion en paralelo.png]]
+$$ 
