@@ -118,5 +118,6 @@ _Ejercicio 1_
 .data
 word: .word 3
 byte1: .byte 0x10
-.baling 4
+.baling 4 (.aling 2)
+espacio: .space 4
 ```
