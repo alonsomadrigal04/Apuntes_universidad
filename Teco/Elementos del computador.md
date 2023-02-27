@@ -96,3 +96,13 @@ Permiten:
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Etiqueta. Permite referenciar la línea para realizar un salto a la misma. | Instrucción. Mnemónico de una instrucción reconocida por el procesador. | Operandos. Argumentos de la operación. Su número puede variar entre ninguno y tres |
 
+#### Directivas
+Permiten definir ciertos aspectos que le indican al programa ensamblador cómo debe traducir el código.
+Directivas de inicio:
+- .data (dirección): Indica el comienzo de la zona de datos. Si no se especifica la dirección se toma la dirección por defecto 0x2007 0000. A continuación se encuentran las directivas de reserva de espacio.
+- .text (dirección): Indica el comienzo de la zona de código. Si no se especifica la dirección se toma la dirección por defecto 0x0001 0000. A continuación se encuentran las instrucciones del programa ensamblador.
+Directivas de reserva de espacio
+- .byte b1 [, b2…]: Reserva e inicializa los bytes indicados en el argumento.
+- .hword h1 [, h2…]: Reserva e inicializa las medias palabras (16 bits) indicadas en el argumento (en direcciones pares).
+-.word w1 [, w2…]: Reserva e inicializa las palabras (32 bits) indicadas en el argumento (en direcciones múltiplos de 4).
+.quad d1 [, d2…]: Reserva e inicializa las dobles palabras (64 bits) indicadas en el argumento (en direcciones múltiplos de 8).
