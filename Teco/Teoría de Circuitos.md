@@ -52,4 +52,6 @@ $$ I = I_1 + I_2 = \frac{V_{out}}{R_1} + \frac{V_{out}}{R_2} $$
 <center>¡La cantidad de corriente siempre será la misma!</center>
 
 ### Leyes de Kirchhoff
-- 1ª Ley, ley de corrientes; 
+- 1ª Ley, ley de corrientes; para un nodo la suma de las corrientes que entran y salen del mismo es nula.![[Ley de corrientes.png]]
+$$ I = +I_1 + I_3 + (-I_2) + (-I_4) + (-I_5) $$
+- 2ª Ley, ley de tensiones
