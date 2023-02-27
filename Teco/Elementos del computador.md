@@ -65,4 +65,10 @@ Permiten:
 - 2 tipos de memoria, Instrucciones y otra de datos
 #### Codificación de datos
 -  Instrucciones en lenguaje máquina = "1" "0"
-	- Numeros en
+	- Numeros enteros; Binario natural...
+	- Nemueros reales; mantisa-exponente
+	- Caracter alfanumericso; ASCII UNICODE
+### Manejo de excepciones
+- Existen circunstancias especiales que requieren acciones inmediatas. Para tener que solucionarlas.
+#### Gestión de Entrada y salida (NO ENTRA)
+- La intereaccion se utiliza a dos niveles; prioridad (se establece el orden de ejecucion de los dispositivos) 
