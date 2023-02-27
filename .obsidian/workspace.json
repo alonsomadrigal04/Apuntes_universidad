@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación C Sharp.md",
+                "file": "Teco/Teco.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "436ea96a59123609",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación C Sharp.md",
+                "file": "Teco/Teco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación C Sharp.md",
+                "file": "Teco/Teco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación C Sharp.md"
+                "file": "Teco/Teco.md"
               }
             }
           },
@@ -172,11 +171,11 @@
   },
   "active": "bb8210ce9787b86c",
   "lastOpenFiles": [
+    "Programación C Sharp.md",
     "Diseño 2d.md",
     "Ingles/2023-02-22.md",
     "Ingles/2023-02-20.md",
     "Untitled.md",
-    "Programación C Sharp.md",
     "Teco/Teco.md",
     "Ingles/2023-02-01.md",
     "Ingles/2023-02-06.md",
