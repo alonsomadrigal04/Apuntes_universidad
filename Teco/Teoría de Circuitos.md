@@ -1,7 +1,7 @@
 > [!SUMMARY]
 > -> [[#Estructura Electrónica de la materia]]
 > -> [[#Ley de Ohm]]
-> -> Asociación de resistencias
+> -> [[#Asociaciones]]
 > -> Leyes de Kirchhoff
 > -> [[#Ley de Watt
 
@@ -31,9 +31,7 @@ El número de <u>electrones</u> de su capa externa determina las <u>propiedades<
 - Semiconductores, superconductores (casos particulares)
 
 El <u>desplazamiento</u> de electrones en un material conductor, se denomina, "**corriente eléctrica**".
-- Para <u>conseguir la corriente
-- 
-- </u> se necesita una fuerza electromotriz o dif. Potencial. (Voltaje - Voltios V)
+- Para <u>conseguir la corriente</u> se necesita una fuerza electromotriz o dif. Potencial. (Voltaje - Voltios V)
 - La <u>cantidad de neta de carga eléctrica</u>, se denomina carga (Culombios - C)
 - La <u>cantidad de carga que atraviesa un punto</u> por unidad de tiempo es la corriente (Amperios - A)
 - La <u>oposición del paso de la corriente</u> se llama, "resistencia" (Ohmios - Ω )
@@ -41,3 +39,6 @@ El <u>desplazamiento</u> de electrones en un material conductor, se denomina, "*
 ### Ley de Ohm
 - Esta misma establece "la diferencia de potencial producida por una corriente al atravesar una resistencia".
 $$ V = I \cdot R $$
+### Asociaciones
+#### Asociación en serie
+![[Asociacion en serie.png]]
