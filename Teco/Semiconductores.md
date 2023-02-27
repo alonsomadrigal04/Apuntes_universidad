@@ -10,4 +10,10 @@
 ![[Semiconductores.png]]
 
 #### Estructura cristalina (monocristales)
-- Cada atomo comparte con sus "Vecinos" los electrones más extern
+- Cada átomo comparte con sus "Vecinos" los electrones más externos, formando <u>enlaces covalentes</u>
+- La estructura se repite indefinidamente por tres direcciones.
+
+
+![[Estructura cristalina sicilio.png]]
+#### Portadores de corriente
+
