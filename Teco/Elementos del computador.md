@@ -92,6 +92,7 @@ Permiten:
 #### Thumb de ARM
 <center>(Instrucciones de 16 bits sobre CPU de 32 bits)</center>
 
-|   etiq:  |  add   |   a  |
-| --- | --- | --- |
-|     |     |     |
+| etiq:                                                                     | add                                                                     | a, b, c                                                                            |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| Etiqueta. Permite referenciar la línea para realizar un salto a la misma. | Instrucción. Mnemónico de una instrucción reconocida por el procesador. | Operandos. Argumentos de la operación. Su número puede variar entre ninguno y tres |
+
