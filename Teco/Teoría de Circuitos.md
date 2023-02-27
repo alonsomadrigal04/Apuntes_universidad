@@ -32,4 +32,5 @@ El número de <u>electrones</u> de su capa externa determina las <u>propiedades<
 
 El <u>desplazamiento</u> de electrones en un material conductor, se denomina, "**corriente eléctrica**".
 - Para conseguir la corriente se necesita una fuerza electromotriz o dif. Potencial. (Voltaje - Voltios V)
-- La cantidad de carga 
+- La cantidad de neta de carga eléctrica, se denomina carga (Culombios - C)
+- La cantidad de carga que atraviesa un punto por unidad de tiempo es la corriente (Amperios - A)
