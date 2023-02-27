@@ -40,5 +40,5 @@ El <u>desplazamiento</u> de electrones en un material conductor, se denomina, "*
 - Esta misma establece "la diferencia de potencial producida por una corriente al atravesar una resistencia".
 $$ V = I \cdot R $$
 ### Asociaciones
-#### Asociación en serie
-![[Asociacion en serie.png]]
+#### Asociación en serie![[Asociacion en serie.png]]
+$$ V_out = V_1 + V_2 = I \cdot R_1 + I \cdot R_2 $$
