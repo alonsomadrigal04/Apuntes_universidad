@@ -51,8 +51,12 @@
             "id": "44790b506790e345",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Teco/Semiconductores.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -122,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teco/Semiconductores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teco/Semiconductores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Teco/Semiconductores.md"
+              }
             }
           },
           {
@@ -195,18 +203,20 @@
     "Teco/Teco.md",
     "Teco/Semiconductores.md",
     "Untitled.canvas",
+    "Images/Teco/Asociacion en paralelo.png",
+    "Images/Teco/Ley de corrientes.png",
+    "Programación C Sharp.md",
+    "Images/Teco",
+    "Images",
+    "z.md",
     "Ingles/Inglés.md",
     "Ingles/2023-02-01.md",
     "Ingles/2023-02-06.md",
     "Ingles/2023-02-20.md",
     "Ingles/2023-02-22.md",
-    "Ley de tensiones.png",
-    "Ley de corrientes.png",
-    "Asociacion en paralelo.png",
-    "Asociacion en serie.png",
-    "Programación C Sharp.md",
+    "Images/Teco/Ley de tensiones.png",
+    "Images/Teco/Asociacion en serie.png",
     "Diseño 2d.md",
-    "Untitled.md",
     "Presentación de la asignatura.md"
   ]
 }
