@@ -86,4 +86,12 @@ Permiten:
 	- Obtener un elevado rendimiento del hardware.
 	- Conseguir un coste reducido.
 
-- 
+- Compiladores y ensambladores facilitan la programación traduciendo los lenguajes de alto nivel al lenguaje de la máquina:
+	- De LAN -> compilador -> lenguaje ensamblador -> ensamblador -> código máquina
+
+#### Thumb de ARM
+<center>(Instrucciones de 16 bits sobre CPU de 32 bits)</center>
+
+|   etiq:  |  add   |   a  |
+| --- | --- | --- |
+|     |     |     |
