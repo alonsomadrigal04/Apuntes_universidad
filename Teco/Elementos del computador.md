@@ -48,3 +48,16 @@ Permiten:
 - Ahorrar espacio en el código.
 - Facilitar las operaciones con estructuras de datos.
 - Reubicar fácilmente el código.
+
+#### Ruta de datos
+| Pc                 |     |
+| ------------------ | --- |
+| IR                 |     |
+| ALU                |     |
+| MUX                |     |
+| Unidad de Control  |     |
+| MBR                |     |
+| Banco de Registros |     |
+| MAR                |     |
+| Memoria            |     |
+
