@@ -2,7 +2,7 @@
 > [!SUMMARY]
 > -> [[#Elementos del computador]]
 > -> [[#Arquitectura del procesador]]
-> -> Introuccion al procesador ARM
+> -> [[#Procesador ARM]]
 > -> Directivas del ensamblador
 
 ### Elementos del computador
@@ -66,9 +66,13 @@ Permiten:
 #### Codificación de datos
 -  Instrucciones en lenguaje máquina = "1" "0"
 	- Numeros enteros; Binario natural...
-	- Nemueros reales; mantisa-exponente
-	- Caracter alfanumericso; ASCII UNICODE
+	- Números reales; mantisa-exponente
+	- Carácter alfanumérico; ASCII UNICODE
 ### Manejo de excepciones
 - Existen circunstancias especiales que requieren acciones inmediatas. Para tener que solucionarlas.
 #### Gestión de Entrada y salida (NO ENTRA)
-- La intereaccion se utiliza a dos niveles; prioridad (se establece el orden de ejecucion de los dispositivos) 
+- La interacción se utiliza a dos niveles; <u>prioridad</u> (se establece el orden de ejecución de los dispositivos) <u>sincronización</u> (sincronizar el procesador y las instrucciones de entrada y salida).
+- Consulta de estada (comprobar todo el rato a ver si han enviado una instrucción de entrada y salida) menos útil y las interrupciones (mas util) . 
+- Librar al procesador con dispositivos como DMA.
+
+### Procesador ARM
