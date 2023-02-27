@@ -44,4 +44,7 @@
 
 ####  Modos de direccionamiento
 - Como acceder a cada uno de sus operandos de la instrucción.
-- 
+Permiten:
+- Ahorrar espacio en el código.
+- Facilitar las operaciones con estructuras de datos.
+- Reubicar fácilmente el código.
