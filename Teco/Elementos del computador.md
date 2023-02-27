@@ -116,6 +116,7 @@ Directivas de inicio:
 _Ejercicio 1_
 ```
 .data
+word: .word 3
 
 
 ```
