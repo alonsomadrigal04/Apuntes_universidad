@@ -18,7 +18,7 @@
 - Los átomos son las partículas más pequeñas, conservan las propiedades de las sustancias que forman
 - Los materiales formados por los <u>átomos</u> son los elementos
 - 118 elementos diferentes
-- 
+
 Un <u>átomo</u> se forma por su:
 - **Núcleo**: Se encuentra en el centro, la mayor parte de la masa. En él se encuentran los protones y los neutrones.
 - **Corteza**: Contienen los electrones. 
@@ -26,4 +26,9 @@ Un <u>átomo</u> se forma por su:
 >Los <u>átomos</u> tienen (num protones = num neutrones) carga neta nula.
 >- Número de cargas positivas: número atómico "Z" (determina el elemento)
 
-El número de electrones de su capa 
+El número de <u>electrones</u> de su capa externa determina las <u>propiedades</u> del elemento:
+- Pocas cargas negativas (Conductor). Metales
+- capa externa completa (Aislante)
+- Semiconductores, superconductores (casos particulares)
+
+El <u>desplazamiento</u> de electrones en un material conductor, se denomina, "**corrienteléctricaca**"
