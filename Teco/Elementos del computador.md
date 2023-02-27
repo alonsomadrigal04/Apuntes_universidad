@@ -61,3 +61,6 @@ Permiten:
 | MAR                |     |
 | Memoria            |     |
 
+#### Organización de la memoria
+- 2 tipos de memoria, Instrucciones y otra de datos
+- 
