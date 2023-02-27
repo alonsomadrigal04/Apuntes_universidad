@@ -6,11 +6,11 @@
 > -> [[#Ley de Watt
 
 **Variables:**
-| V   | Voltaje, Voltio, Tensión       |
-| --- | ------------------------------ |
-| A   | Amperio, Intensidad, Corriente |
-| R   | Ohmnios, resistencia           |
-| C   | Culombios, Carga               |
+| V     | Voltaje, Voltio, Tensión       |
+| ----- | ------------------------------ |
+| A - I | Amperio, Intensidad, Corriente |
+| R     | Ohmnios, resistencia           |
+| C     | Culombios, Carga               |
 
 ---
 ### Estructura Electrónica de la materia
