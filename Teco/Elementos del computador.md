@@ -23,8 +23,14 @@
 - Consisten en grupos de bits de TAMAÑO FIJO
 - Expresado en código máquina
 - Lo entendemos gracias al lenguaje ensamblador.
-| sub             | r0       | r1  | r2  |                  |
-| --------------- | -------- | --- | --- | ---------------- |
-| significa resta | el valor |     |     |                  |
-| 0 0 0 1 1       |          |     |     | Lenguage máquina |
-|                 |          |     |     |                  |
+| sub             | r0                             | r1                           | r2                                             |                  |
+| --------------- | ------------------------------ | ---------------------------- | ---------------------------------------------- | ---------------- |
+| significa resta | el valor x en el registro "r0" | el valor y en el registro r1 | pon el valor del resultado en el registro "r2" |                  |
+| 0 0 0 1 1       |                                |                              |                                                | Lenguage máquina |
+|                 |                                |                              |                                                |                  |
+
+- Cada instrucción en el lenguaje ensamblador equivale a una instrucción en código máquina
+- Se dividen en categorías:
+| carga |     |     |     |
+| ----- | --- | --- | --- |
+| aritmeticas y       |     |     |     |
