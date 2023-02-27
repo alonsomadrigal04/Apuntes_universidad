@@ -112,3 +112,8 @@ Directivas de inicio:
 - .space n: Reserva n bytes y los inicializa a 0.
 - .ascii cadena1 (, cadena2…): Almacena en memoria las cadenas de caracteres que se le pasan como argumento. Las cadenas deben estar entrecomilladas (por ejemplo: “¡Hola, mundo!”).
 - .asciiz cadena1 (, cadena2…): Igual que la anterior, pero reserva un byte adicional al final de cada cadena y le asigna el valor 0 (determina el final de la cadena).
+
+_Ejercicio 1_
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     |     |     |     |
