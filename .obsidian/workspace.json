@@ -63,12 +63,8 @@
             "id": "71c53daf0b61def8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teco/Elementos del computador.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -138,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Elementos del computador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Elementos del computador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Teco/Elementos del computador.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,8 +202,9 @@
   },
   "active": "71c53daf0b61def8",
   "lastOpenFiles": [
-    "Teco/Semiconductores.md",
+    "Ingles/Inglés.md",
     "Teco/Elementos del computador.md",
+    "Teco/Semiconductores.md",
     "Teco/Teco.md",
     "Teco/Teoría de Circuitos.md",
     "Images/Teco/Estructura cristalina sicilio.png",
@@ -223,7 +216,6 @@
     "Images/Teco",
     "Images",
     "z.md",
-    "Ingles/Inglés.md",
     "Ingles/2023-02-01.md",
     "Ingles/2023-02-06.md",
     "Ingles/2023-02-20.md",

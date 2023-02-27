@@ -8,7 +8,7 @@
 ### Elementos del computador
 - Un ordenador o computador es una máquina electrónica capaz de realizar diferentes acciones en función del programa
 - Para cumplir con esta funcionalidad, un computador necesita un procesador y una memoria.
-- Para comunicarse con el mundo exterior el PC debe tener periféricos
+- Para comunicarse con el mundo exterior, el PC debe tener periféricos
 - Y los periféricos se conectan al PC a través de la unidad entrada/salida
 ### Arquitectura del procesador
 - Lo necesario para codificar y ejecutar un programa en código máquina.
@@ -96,7 +96,7 @@ Permiten:
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | Etiqueta. Permite referenciar la línea para realizar un salto a la misma. | Instrucción. Mnemónico de una instrucción reconocida por el procesador. | Operandos. Argumentos de la operación. Su número puede variar entre ninguno y tres |
 
-#### Directivas
+#### <font color="#c00000">Directivas</font>
 Permiten definir ciertos aspectos que le indican al programa ensamblador cómo debe traducir el código.
 Directivas de inicio:
 - .data (dirección): Indica el comienzo de la zona de datos. Si no se especifica la dirección se toma la dirección por defecto 0x2007 0000. A continuación se encuentran las directivas de reserva de espacio.
