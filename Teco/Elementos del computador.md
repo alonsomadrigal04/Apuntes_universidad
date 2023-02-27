@@ -124,3 +124,9 @@ byte2: .byte 20
 
 
 ```
+_Ejercicio 2_
+```
+.dato
+a: .byte 0x40, 0x30, 0x20, 0x10
+b: .hword 0x7080, 0x5060
+```
