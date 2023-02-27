@@ -3,7 +3,7 @@
 > -> [[#Ley de Ohm]]
 > -> [[#Asociaciones]]
 > -> [[#Leyes de Kirchhoff]]
-> -> [[#Ley de Watt
+> -> [[#Ley de Watt]]
 
 **Variables:**
 | V     | Voltaje, Voltio, Tensión       |
