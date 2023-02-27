@@ -120,4 +120,7 @@ word: .word 3
 byte1: .byte 0x10
 .baling 4 (.aling 2)
 espacio: .space 4
+byte2: .byte 20
+
+
 ```
