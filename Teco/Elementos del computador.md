@@ -27,10 +27,15 @@
 | --------------- | ------------------------------ | ---------------------------- | ---------------------------------------------- | ---------------- |
 | significa resta | el valor x en el registro "r0" | el valor y en el registro r1 | pon el valor del resultado en el registro "r2" |                  |
 | 0 0 0 1 1       |                                |                              |                                                | Lenguage máquina |
-|                 |                                |                              |                                                |                  |
+
 
 - Cada instrucción en el lenguaje ensamblador equivale a una instrucción en código máquina
 - Se dividen en categorías:
-| carga |     |     |     |
-| ----- | --- | --- | --- |
-| aritmeticas y       |     |     |     |
+| carga                   |     |
+| ----------------------- | --- |
+| aritméticas y lógicas   |     |
+| Desplazamiento          |     |
+| Comparaciones           |     |
+| Saltos                  |     |
+| Interacción con la pila |     |
+- Cada lenguaje ensamblador tendrá sus propias instrucciones
