@@ -1,3 +1,4 @@
+# Teco
 > [!SUMMARY]
 > -> [[#Estructura Electrónica de la materia]]
 > -> [[#Ley de Ohm]]
