@@ -118,5 +118,5 @@ _Ejercicio 1_
 .data
 word: .word 3
 byte1: .byte 0x10
-
+.baling 4
 ```
