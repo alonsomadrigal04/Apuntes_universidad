@@ -20,4 +20,11 @@
 
 #### Repertorio de instrucciones
 - Conjunto de instrucciones elementales que es capaz de ejecutar el procesador.
-- Consisten en grupos de bi
+- Consisten en grupos de bits de TAMAÑO FIJO
+- Expresado en código máquina
+- Lo entendemos gracias al lenguaje ensamblador.
+| sub             | r0       | r1  | r2  |                  |
+| --------------- | -------- | --- | --- | ---------------- |
+| significa resta | el valor |     |     |                  |
+| 0 0 0 1 1       |          |     |     | Lenguage máquina |
+|                 |          |     |     |                  |
