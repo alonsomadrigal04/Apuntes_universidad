@@ -16,4 +16,5 @@
 
 ![[Estructura cristalina sicilio.png]]
 #### Portadores de corriente
-
+- Cuando un electrón recibe un cuanto de energía, puede escapar del enlace covalente, dejando un hueco de carga positiva.
+- Si en el cristal hay una diferencia de potencial, los electrones libres constituyen una corriente.
