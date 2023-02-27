@@ -44,8 +44,10 @@ $$ V = I \cdot R $$
 
 ![[Asociacion en serie.png]]
 $$ V_{out} = V_1 + V_2 = I \cdot R_1 + I \cdot R_2 $$
-<center>La cantidad de corriente siempre será la misma</center>
+<center>¡La cantidad de corriente siempre será la misma!</center>
 #### Asociación en paralelo
 
 ![[Asociacion en paralelo.png]]
-$$ 
+$$ I = I_1 + I_2 = \frac{V_{out}}{R_1} + \frac{V_{out}}{R_2} $$
+<center>¡La cantidad de corriente siempre será la misma!</center>
+
