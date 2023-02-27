@@ -58,9 +58,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71c53daf0b61def8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teco/Elementos del computador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -110,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "436ea96a59123609",
@@ -127,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Elementos del computador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Elementos del computador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Semiconductores.md"
+                "file": "Teco/Elementos del computador.md"
               }
             }
           },
@@ -198,13 +209,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44790b506790e345",
+  "active": "71c53daf0b61def8",
   "lastOpenFiles": [
-    "Estructura cristalina sicilio.png",
-    "Images/Teco/Semiconductores.png",
     "Teco/Teco.md",
     "Teco/Teoría de Circuitos.md",
+    "Teco/Elementos del computador.md",
     "Teco/Semiconductores.md",
+    "Estructura cristalina sicilio.png",
+    "Images/Teco/Semiconductores.png",
     "Untitled.canvas",
     "Images/Teco/Asociacion en paralelo.png",
     "Images/Teco/Ley de corrientes.png",
