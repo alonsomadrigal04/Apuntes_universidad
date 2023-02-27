@@ -114,6 +114,8 @@ Directivas de inicio:
 - .asciiz cadena1 (, cadena2…): Igual que la anterior, pero reserva un byte adicional al final de cada cadena y le asigna el valor 0 (determina el final de la cadena).
 
 _Ejercicio 1_
-|     |     |     |     |
-| --- | --- | --- | --- |
-|     |     |     |     |
+```
+.data
+
+
+```
