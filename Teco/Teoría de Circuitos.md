@@ -2,7 +2,7 @@
 > -> [[#Estructura Electrónica de la materia]]
 > -> [[#Ley de Ohm]]
 > -> [[#Asociaciones]]
-> -> Leyes de Kirchhoff
+> -> [[#Leyes de Kirchhoff]]
 > -> [[#Ley de Watt
 
 **Variables:**
@@ -51,3 +51,5 @@ $$ V_{out} = V_1 + V_2 = I \cdot R_1 + I \cdot R_2 $$
 $$ I = I_1 + I_2 = \frac{V_{out}}{R_1} + \frac{V_{out}}{R_2} $$
 <center>¡La cantidad de corriente siempre será la misma!</center>
 
+### Leyes de Kirchhoff
+- 1ª Ley, ley de corrientes; 
