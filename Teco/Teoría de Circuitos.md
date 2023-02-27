@@ -56,3 +56,7 @@ $$ I = I_1 + I_2 = \frac{V_{out}}{R_1} + \frac{V_{out}}{R_2} $$
 $$ I = +I_1 + I_3 + (-I_2) + (-I_4) + (-I_5) $$
 - 2ª Ley, ley de tensiones; la suma algebraica de las caídas de potencial en un lazo cerrado es nula.![[Ley de tensiones.png]]
 $$ \triangle V_1 + \triangle V_2 + \triangle V_3 + \triangle V_4 + (-V_{out}) = 0 $$
+### Ley de Watt
+- La potencia generada o consumida por un dispositivo eléctrico es la tensión que soporta por la corriente que lo recorre:
+$$ P = V \cdot I $$
+<center>La potencia se mide en Watios (W)</center>
