@@ -1,6 +1,6 @@
 > [!SUMMARY]
 > -> [[#Estructura Electrónica de la materia]]
-> -> Ley de Ohm
+> -> [[#Ley de Ohm]]
 > -> Asociación de resistencias
 > -> Leyes de Kirchhoff
 > -> [[#Ley de Watt
@@ -39,3 +39,5 @@ El <u>desplazamiento</u> de electrones en un material conductor, se denomina, "*
 - La <u>oposición del paso de la corriente</u> se llama, "resistencia" (Ohmios - Ω )
 
 ### Ley de Ohm
+- Esta misma establece "la diferencia de potencial producida por una corriente al atravesar una resistencia".
+$$ V = I \cdot R $$
