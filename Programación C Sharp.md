@@ -90,3 +90,12 @@ int ultimo = v.Length()
 }
 ```
 
+
+
+
+```
+public static int (int a, int b)
+{ 
+	
+}
+```
