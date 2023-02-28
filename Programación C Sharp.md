@@ -129,7 +129,8 @@ public int Fibonacci(int x)
 {
 	if(x < 3)
 	{
-		
+		return 1
 	}
+	return Fibonacci(x-1) + Fibonacci(p-2);
 }
 ```
