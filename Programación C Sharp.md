@@ -93,9 +93,20 @@ int ultimo = v.Length()
 
 
 
-```
+```cs
 public static int (int a, int b)
-{ 
-	
+{
+	if(a == b)
+	{
+		return a
+	}
+	else if( a < b )
+	{
+		
+	}
+	else
+	{
+		
+	}
 }
 ```
