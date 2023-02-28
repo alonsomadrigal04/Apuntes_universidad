@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Elementos del computador.md",
+                "file": "Programación C Sharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Elementos del computador.md",
+                "file": "Programación C Sharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Elementos del computador.md",
+                "file": "Programación C Sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Elementos del computador.md"
+                "file": "Programación C Sharp.md"
               }
             }
           },
@@ -210,11 +210,11 @@
   },
   "active": "71c53daf0b61def8",
   "lastOpenFiles": [
+    "Teco/Elementos del computador.md",
     "Teco/Semiconductores.md",
     "Teco/Teoría de Circuitos.md",
     "Teco/Teco.md",
     "Ingles/Inglés.md",
-    "Teco/Elementos del computador.md",
     "Images/Teco/Estructura cristalina sicilio.png",
     "Images/Teco/Semiconductores.png",
     "Untitled.canvas",
