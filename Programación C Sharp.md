@@ -118,6 +118,9 @@ public bool palindromo(string s)
 	{
 		return true
 	}
-	if()
+	if(S[0 != s[s.Length -1]) {
+		return false
+	}
+	return Palindromo()
 }
 ```
