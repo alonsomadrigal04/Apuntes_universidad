@@ -114,6 +114,10 @@ public static int mcd(int a, int b)
 ```cs
 public bool palindromo(string s)
 {
-	
+	if(s.Length <= 1)
+	{
+		return true
+	}
+	if()
 }
 ```
