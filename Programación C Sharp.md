@@ -124,3 +124,12 @@ public bool palindromo(string s)
 	return Palindromo()
 }
 ```
+```cs
+public int Fibonacci(int x)
+{
+	if(x < 3)
+	{
+		
+	}
+}
+```
