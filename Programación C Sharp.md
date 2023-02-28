@@ -102,7 +102,7 @@ public static int (int a, int b)
 	}
 	else if( a < b )
 	{
-		
+		b -
 	}
 	else
 	{
