@@ -92,9 +92,9 @@ int ultimo = v.Length()
 
 
 
-
+<u>Recursividad 7</u>
 ```cs
-public static int (int a, int b)
+public static int mcd(int a, int b)
 {
 	if(a == b)
 	{
@@ -102,11 +102,14 @@ public static int (int a, int b)
 	}
 	else if( a < b )
 	{
-		b -
+		return mdc(a, b-a)
 	}
 	else
 	{
-		
+		return mdc(a-b, b)
 	}
 }
+```
+<u>Recursividad 8</u>
+```cs
 ```
