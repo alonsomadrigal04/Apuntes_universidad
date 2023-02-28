@@ -112,7 +112,7 @@ public static int mcd(int a, int b)
 ```
 <u>Recursividad 8</u>
 ```cs
-public static bool palindromo()
+public bool palindromo(string s)
 {
 	
 }
