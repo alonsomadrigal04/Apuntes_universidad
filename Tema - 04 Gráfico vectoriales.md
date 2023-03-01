@@ -4,4 +4,7 @@ Rasterización: proceso por el que una imagen descrita en formato gráfico vecto
 El punto, 
 
 .
+¿Consideraciones que debe cumplir un buen algoritmo de dibujado de líneas rectas?
+- La secuencia de píxeles debe ser lo más recta posible.
+- Las líneas deben dibujarse con el mismo grosor e intensidad independientemente de su inclinación.
 - 
