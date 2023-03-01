@@ -7,4 +7,4 @@ El punto,
 ¿Consideraciones que debe cumplir un buen algoritmo de dibujado de líneas rectas?
 - La secuencia de píxeles debe ser lo más recta posible.
 - Las líneas deben dibujarse con el mismo grosor e intensidad independientemente de su inclinación.
-- 
+- • Las líneas deben dibujarse lo más rápido posible.
