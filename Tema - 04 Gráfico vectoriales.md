@@ -9,5 +9,8 @@ El punto,
 - Las líneas deben dibujarse con el mismo grosor e intensidad, independientemente de su inclinación.
 - • Las líneas deben dibujarse lo más rápido posible.
 _Ejercicio 1_
-- Pi(20, 10) Pf(30, 18). 
-|k|y|(X<sub>i</sub>, y<sub></sub>)
+- Pi(20, 10) Pf(30, 18). (valor de barrido es la X)
+| k   | y   | (X<sub>i</sub>, y<sub>i</sub>) |
+| --- | --- | ------------------------------ |
+| 0   |     |                                |
+|     |     |                                |
