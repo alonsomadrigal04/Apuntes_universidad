@@ -10,3 +10,4 @@ El punto,
 - • Las líneas deben dibujarse lo más rápido posible.
 _Ejercicio 1_
 - Pi(20, 10) Pf(30, 18). 
+|k|y|(X<sub>i</sub>, y<sub></sub>)
