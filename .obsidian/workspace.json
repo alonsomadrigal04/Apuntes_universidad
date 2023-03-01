@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación C Sharp.md",
+                "file": "Diseño 2d.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programación C Sharp.md",
+                "file": "Diseño 2d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programación C Sharp.md",
+                "file": "Diseño 2d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programación C Sharp.md"
+                "file": "Diseño 2d.md"
               }
             }
           },
@@ -210,6 +210,7 @@
   },
   "active": "71c53daf0b61def8",
   "lastOpenFiles": [
+    "Programación C Sharp.md",
     "Teco/Elementos del computador.md",
     "Teco/Semiconductores.md",
     "Teco/Teoría de Circuitos.md",
@@ -220,7 +221,6 @@
     "Untitled.canvas",
     "Images/Teco/Asociacion en paralelo.png",
     "Images/Teco/Ley de corrientes.png",
-    "Programación C Sharp.md",
     "Images/Teco",
     "Images",
     "z.md",
