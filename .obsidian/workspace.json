@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Teoría de Circuitos.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "436ea96a59123609",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Teoría de Circuitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Teoría de Circuitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Semiconductores.md"
+                "file": "Teco/Teoría de Circuitos.md"
               }
             }
           },
@@ -159,16 +158,16 @@
   },
   "active": "bbf5e58e59c56ec9",
   "lastOpenFiles": [
+    "Teco/Teco.md",
+    "Teco/Teoría de Circuitos.md",
+    "Teco/Semiconductores.md",
+    "Teco/Elementos del computador.md",
     "Dopaje de tipo P.png",
     "Dopaje de tipo N.png",
     "Niveles de energia.png",
     "Tema - 04 Gráfico vectoriales.md",
     "Diseño 2d.md",
     "Programación C Sharp.md",
-    "Teco/Elementos del computador.md",
-    "Teco/Semiconductores.md",
-    "Teco/Teoría de Circuitos.md",
-    "Teco/Teco.md",
     "Ingles/Inglés.md",
     "Images/Teco/Estructura cristalina sicilio.png",
     "Images/Teco/Semiconductores.png",
