@@ -22,3 +22,6 @@
 
 - Para "escapar" del átomo en el electrón necesita una cantidad de energía determinada. Tiene que "saltar" toda la zona llamada Gap. Debe adquirir como mínimo la energía que separa la capa de valencia de la capa de conducción.
 ![[Niveles de energia.png]]
+### Semiconductores extrínsecos
+
+Un semiconductor puro y perfectamente cristalino se denomina intrínseco.
