@@ -30,3 +30,4 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 - Tipo N: Se introducen átomos con 5 electrones en su capa externa.
 	- Los electrones excedentes están débilmente ligados a sus átomos y pueden liberarse con una pequeña cantidad de energía![[Dopaje de tipo N.png]]
 - Tipo P: Se introducen átomos con 3 electrones en su capa externa.
+	- ![[Dopaje de tipo P.png]]
