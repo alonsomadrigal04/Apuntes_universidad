@@ -24,4 +24,5 @@
 ![[Niveles de energia.png]]
 ### Semiconductores extrínsecos
 
-Un semiconductor puro y perfectamente cristalino se denomina intrínseco.
+Un semiconductor puro y perfectamente cristalino se denomina intrínseco. Sus átomos son iguales, el número de electrones libres es igual al de huecos.
+Dopar:
