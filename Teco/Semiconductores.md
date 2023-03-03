@@ -20,4 +20,5 @@
 - Si en el cristal hay una diferencia de potencial, los electrones libres constituyen una corriente.
 #### Los niveles de energía
 
-- Para "escapar" del átomo en el electron necesita una cantidad de
+- Para "escapar" del átomo en el electrón necesita una cantidad de energía determinada. Tiene que "saltar" toda la zona llamada Gap. Debe adquirir como mínimo la energía que separa la capa de valencia de la capa de conducción.
+![[Niveles de energia.png]]
