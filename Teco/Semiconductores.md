@@ -20,3 +20,4 @@
 - Si en el cristal hay una diferencia de potencial, los electrones libres constituyen una corriente.
 #### Los niveles de energía
 
+- Para "escapar" del átomo en el electron necesita una cantidad de
