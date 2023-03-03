@@ -26,6 +26,7 @@
 
 Un semiconductor puro y perfectamente cristalino se denomina intrínseco. Sus átomos son iguales, el número de electrones libres es igual al de huecos.
 
-Dopar: Introducir átomos diferentes a los propios del semiconductor y da como resultado un semiconductor extrínseco.
+Dopar: Introducir átomos diferentes a los propios del semiconductor, da como resultado un semiconductor extrínseco.
 - Tipo N: Se introducen átomos con 5 electrones en su capa externa.
+- 
 - Tipo P: Se introducen átomos con 3 electrones en su capa externa.
