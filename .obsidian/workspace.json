@@ -23,12 +23,8 @@
             "id": "82060722d880a054",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diseño 2d/Apuntes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño 2d/Apuntes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño 2d/Apuntes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diseño 2d/Apuntes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,8 +163,8 @@
   },
   "active": "82060722d880a054",
   "lastOpenFiles": [
-    "Diseño 2d/Diseño 2d.md",
     "Diseño 2d/Apuntes.md",
+    "Diseño 2d/Diseño 2d.md",
     "Diseño 2d/Tema - 04 Gráfico vectoriales.md",
     "Teco/Elementos del computador.md",
     "Ingles/Inglés.md",
