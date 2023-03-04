@@ -31,3 +31,9 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 	- Los electrones excedentes están débilmente ligados a sus átomos y pueden liberarse con una pequeña cantidad de energía![[Dopaje de tipo N.png]]
 - Tipo P: Se introducen átomos con 3 electrones en su capa externa.
 	- ![[Dopaje de tipo P.png]]
+
+
+- Unión PN: rectificación.
+	- Con una pequeña cantidad de energía, los electrones del enlace covalente se enlazarán al hueco.
+	- Una vez realizado seto, se
+
