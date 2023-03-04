@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Diseño 2d/Apuntes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82060722d880a054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diseño 2d/Apuntes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Diseño 2d/Apuntes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Diseño 2d/Apuntes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Semiconductores.md"
+                "file": "Diseño 2d/Apuntes.md"
               }
             }
           },
@@ -156,19 +169,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bbf5e58e59c56ec9",
+  "active": "82060722d880a054",
   "lastOpenFiles": [
+    "Diseño 2d/Diseño 2d.md",
+    "Diseño 2d/Apuntes.md",
+    "Diseño 2d/Tema - 04 Gráfico vectoriales.md",
+    "Teco/Elementos del computador.md",
+    "Ingles/Inglés.md",
+    "Diseño 2d",
+    "Images/Teco/Dopaje de tipo N.png",
+    "Images/Teco/Niveles de energia.png",
+    "Images/Teco/Dopaje de tipo P.png",
+    "Teco/Semiconductores.md",
     "Teco/Teco.md",
     "Teco/Teoría de Circuitos.md",
-    "Teco/Semiconductores.md",
-    "Teco/Elementos del computador.md",
-    "Dopaje de tipo P.png",
-    "Dopaje de tipo N.png",
-    "Niveles de energia.png",
-    "Tema - 04 Gráfico vectoriales.md",
-    "Diseño 2d.md",
     "Programación C Sharp.md",
-    "Ingles/Inglés.md",
     "Images/Teco/Estructura cristalina sicilio.png",
     "Images/Teco/Semiconductores.png",
     "Untitled.canvas",

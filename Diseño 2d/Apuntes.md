@@ -1,3 +1,5 @@
+# Diseño 2d
+
 <font color="#c00000">¿Qué relación hay entre el tamaño en píxeles de una imagen y su tamaño de impresión? </font>
 <font color="#548dd4">La relación entre tamaño de pixel y de impresión depende de la resolución de la imagen. La cual se expresa en píxeles por pulgada se refiere a la cantidad de píxeles que se imprimirán por pulgada de papel.</font>
 

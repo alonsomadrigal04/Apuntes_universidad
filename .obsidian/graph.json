@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "Diseño 2d",
+      "color": {
+        "a": 1,
+        "rgb": 16711901
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
-  "close": true
+  "scale": 1.0000000000000009,
+  "close": false
 }
