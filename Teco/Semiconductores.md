@@ -35,5 +35,7 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 
 - Unión PN: rectificación.
 	- Con una pequeña cantidad de energía, los electrones del enlace covalente se enlazarán al hueco.
-	- Una vez realizado seto, se
+	- Una vez realizado, aparece una zona alrededor de la unión llamada "agotamiento", donde se forma una diferencia de potencial.
+	- Al conectar una fuente de tensión, comenzará un circuito de electrones que tiene que superar la unión para poder pasar de la zona N a P.
+	- Esto invertirá la poralidad aumentando la zona de agotamiento y haciendo una fuente vacia tanto en P como en N 
 
