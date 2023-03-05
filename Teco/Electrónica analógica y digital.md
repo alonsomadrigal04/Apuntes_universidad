@@ -23,5 +23,9 @@
 - Por lo que para no perder información útil debe mantenerse por debajo de un valor máximo.
 
 ### Conversor A/D y D/A
-- Dispositivo de señal mixta (entrada analógica, - salida digital). Utiliza un voltaje de referencia para devolver la fraccion a la cual corresponda un voltaje nuevo.
+- Dispositivo de señal mixta (entrada analógica, - salida digital). Utiliza un voltaje de referencia para devolver la fracción a la cual corresponda un voltaje nuevo.
 $$ Salida = 2^n \cdot G \cdot \frac{V_{in}}{V_{ref}} $$
+#### Parámetros de un conversor
+- Resolución: número de bits del calor numérico entregado por el conversor.
+- En la entrega A/D hay dos bits muy importantes: LSB (1) y MSB
+- 
