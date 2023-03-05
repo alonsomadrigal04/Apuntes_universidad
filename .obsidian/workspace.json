@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b906792b913c00e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teco/Electrónica analógica y digital.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Electrónica analógica y digital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Electrónica analógica y digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Semiconductores.md"
+                "file": "Teco/Electrónica analógica y digital.md"
               }
             }
           },
@@ -169,16 +181,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "82060722d880a054",
+  "active": "6b906792b913c00e",
   "lastOpenFiles": [
+    "Teco/Elementos del computador.md",
+    "Teco/Electrónica analógica y digital.md",
+    "Teco/Semiconductores.md",
     "Teco/Teco.md",
     "Images/Teco/Dopaje de tipo N.png",
     "Images/Teco/Diodo_real.png",
     "Images/Teco/Transistor_BJT.png",
-    "Teco/Semiconductores.md",
     "Images/Teco/Diferentes_regiones_BJT.png",
     "Teco/Teoría de Circuitos.md",
-    "Teco/Elementos del computador.md",
     "Images/Teco/Caracteristicas_VI.png",
     "Diseño 2d/Apuntes.md",
     "Diseño 2d/Diseño 2d.md",

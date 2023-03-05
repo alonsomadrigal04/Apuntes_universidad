@@ -2,6 +2,7 @@
 > [!SUMMARY]
 > -> [[#Los Semiconductores]]
 > -> [[#Diodos]]
+> -> [[#El transistor]]
 
 ---
 ### Los Semiconductores
