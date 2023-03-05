@@ -61,7 +61,8 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 	- Consiste en que la corriente que atraviesa el recolector y el emisor, se puede regular mediante la corriente base.
 	- Dependiendo de la relación: Corte, conducción y saturación.
 		- Corte: el diodo base-emisor, no llega a PD y no conduce.
-		- Conducción: el colector-emisor, proporcional a la base. 
+		- Conducción: el colector-emisor, proporcional a la base. la constante de proporcionalidad es: β.
+		- Saturación: a partir de cierto valor el transistor se satura y la corriente de colector pasa a ser constante. 
 
 - Transistor FET:
 - 
