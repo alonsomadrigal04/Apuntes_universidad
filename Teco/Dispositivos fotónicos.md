@@ -51,4 +51,6 @@ Consiste en el proceso inverso a la absorción. Un electrón produce un fotón a
 
 ### Receptores de radiación
 #### Fotoconductores
-- Son materiales semiconductores cuya conductividad aumenta como consecuencia de la <font color="#92cddc">fotogenreación</font> de portadores.
+- Son materiales semiconductores cuya conductividad aumenta como consecuencia de la <font color="#92cddc">fotogeneración</font> de portadores. Se define <font color="#92cddc">ganancia</font> como el cociente entre la corriente que los recorre y el número de <u>portadores</u> generados por unidad de tiempo.
+#### La unión PN iluminada
+- Cuando la luz alcanza el interior del semiconductor en una unión PN produce pares electrón-hueco. Como consecuencia parece una foto corrientee.Dee sentido contrario
