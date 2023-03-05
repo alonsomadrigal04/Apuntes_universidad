@@ -65,5 +65,6 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 		- Saturación: a partir de cierto valor el transistor se satura y la corriente de colector pasa a ser constante. 
 
 - Transistor FET:
-	- Se basa en el fenomeno, efecto de campo. (Fuente, drenador y puerta)
-	- 
+	- Se basa en el fenómeno, efecto de campo. (Fuente, drenador y puerta)
+	- La corriente principal se modula a través de una tensión y no una corriente. 
+		- Al no tener que darle carga constante a la base, es más barato. Pero hay que cargar y descargar la puerta en cada conmutación. (frecuencia de trabajo- consumo)
