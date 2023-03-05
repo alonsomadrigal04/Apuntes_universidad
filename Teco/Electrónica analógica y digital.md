@@ -33,4 +33,4 @@ $$ Salida = 2^n \cdot G \cdot \frac{V_{in}}{V_{ref}} $$
 - Es decir, los más importantes son el primero y el último.
 
 #### Conversión A/D
-- 
+- Siempre sonsiste en un proceso 
