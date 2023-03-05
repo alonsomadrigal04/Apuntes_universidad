@@ -51,4 +51,4 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 - A la hroa de PD, el diodo presenta una resistencia reducida, pero no nula. En PI:
 	- Los pares electrón-hueco, a ambos lados de la unión, presentan una ligera corriente (corriente inversa de saturación)
 	- Los átomos de la superficie no tienen sus enlaces cubiertos y permite el paso de una corriente superficial de fuga.
-	- 
+	- Cuando se llega a cierto voltaje (ruptura), la resistencia de PI se reduce drásticamente, y si se sigue aumentando la tensión el diodo se destruye.
