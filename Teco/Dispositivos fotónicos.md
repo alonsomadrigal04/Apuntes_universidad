@@ -50,3 +50,5 @@ Consiste en el proceso inverso a la absorción. Un electrón produce un fotón a
 
 
 ### Receptores de radiación
+#### Fotoconductores
+- Son materiales semiconductores cuya conductividad aumenta como consecuencia de la <font color="#92cddc">fotogenreación</font> de portadores.
