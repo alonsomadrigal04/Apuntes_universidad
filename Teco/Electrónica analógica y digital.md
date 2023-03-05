@@ -18,4 +18,6 @@
 - El dispositivo encargado de ello (Sistema de Monitorización y Retención) <u>S/H</u>. posee una entrada de bloqueo, que mantiene constante el valor de su salida cuando se activa.![[S_H.png]]
 #### Cuantificación
 - Es la asignación de la señal a uno de varios grupos disponibles. El encargado de hacer la función es el conversor analógico/digital. 
-- Para entendernos, es el que ajusta el resultado para uno más homogeneo.
+- Para entendernos, es el que ajusta el resultado para uno más homogéneo.
+- Esto puede desencadenar en un error, al dar un valor aproximado, da un valor entre el original y el convertido.
+- Por lo que para no perder información util debe mantenerse por debajo de un valor máximo.
