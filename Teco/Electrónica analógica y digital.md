@@ -14,4 +14,7 @@
 #### Formalización matemática del muestreo
 - Se requiere la función delta dirac o función impulso. Función impulso consiste en un rectángulo de duración nula y amplitud infinita cuya superficie es igual a la unidad.
 ### Obtención de la señal digital
-- La conversion de señal requiere 
+- La conversion de señal requiere que se mantenga constante entre los instantes de muestreo. 
+- El dispositivo encargado de ello (Sistema de Monitorización y Retención) <u>S/H</u>. posee una entrada de bloqueo, que mantiene constante el valor de su salida cuando se activa.![[S_H.png]]
+#### Cuantificación
+- 
