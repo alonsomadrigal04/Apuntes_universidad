@@ -21,3 +21,6 @@
 - Para entendernos, es el que ajusta el resultado para uno más homogéneo.
 - Esto puede desencadenar en un error, al dar un valor aproximado, da un valor entre el original y el convertido.
 - Por lo que para no perder información útil debe mantenerse por debajo de un valor máximo.
+
+### Conversor A/D y D/A
+- Dispositivo de señal mixta (entrada analógica, - salida digital). Utiliza un voltaje de referencia y devue
