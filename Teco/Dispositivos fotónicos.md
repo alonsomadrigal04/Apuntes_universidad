@@ -53,10 +53,12 @@ Consiste en el proceso inverso a la absorción. Un electrón produce un fotón a
 #### Fotoconductores
 - Son materiales semiconductores cuya conductividad aumenta como consecuencia de la <font color="#92cddc">fotogeneración</font> de portadores. Se define <font color="#92cddc">ganancia</font> como el cociente entre la corriente que los recorre y el número de <u>portadores</u> generados por unidad de tiempo.
 
-#### La unión PN iluminada
+##### La unión PN iluminada
 - Cuando la luz alcanza el interior del semiconductor en una unión PN produce par electrón-hueco. Como consecuencia parece una foto corriente. <font color="#92cddc">De sentido contrario</font>, es decir, de P a N.
 - Utilizando este fenómeno se obtienen los <font color="#92cddc">fotodiodos</font> y las células <font color="#92cddc">fotovoltaicas</font>
-#### Fotodiodo
+##### Fotodiodo
 - En el fotodiodo, la característica I-V se ve alterada por una corriente de <font color="#92cddc">sentido inverso</font> que se suma a la del diodo normal.
-#### Célula fotovoltaica
+##### Célula fotovoltaica
 - Cuando un <font color="#92cddc">fotodiodo</font> trabaja en el c<u>uarto cuadrante del diagrama</u> V-I (V>0, I<0) se convierte en un generador (proporciona potencia al circuito).
+- La producción de <u>electricidad a partir de la luz</u> se denomina <font color="#92cddc">efecto fotovoltaico</font> y el dispositivo que lo realiza <font color="#92cddc">célula fotovoltaica</font>.
+- Una <font color="#92cddc">célula fotovoltaica</font> se diseña para optimizar la producción de electricidad, relegando a un segundo plano otros parámetros, como la velocidad de respuesta.
