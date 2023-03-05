@@ -58,7 +58,7 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 - Transistor BJT:
 	- Es un dispositivo de tres terminales (colector, base y emisor) y puede ser de tipo PNP o NPN![[Transistor_BJT.png]]
 	- El efecto del transistor aparece cuando las distancias entre las dos uniones es menor a un valor dado.
-	- 
+	- Consiste en que la corriente que atraviesa el recolector y el emisor, se puede 
 
 - Transistor FET:
 - 
