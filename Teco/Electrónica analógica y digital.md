@@ -7,6 +7,7 @@
 - Un muestreo inadecuado puede provocar la perdida de información o exceso de la misma.
 #### Teorema de muestreo
 - El muestreo inadecuado tiene como consecuencia la pérdida de información.
-- Por otro lado, un muestreo demasiado frecuenteocasiona un exceso de datos que complica el almacenaje, análisis y uso de los mismos.
+- Por otro lado, un muestreo demasiado frecuente ocasiona un exceso de datos que complica el almacenaje, análisis y uso de los mismos.
 - <font color="#0070c0"> El teorema de Nyquist </font>dice que una señal cuya máxima frecuencia es **f** se debe muestrear como mínimo a una frecuencia **2f**.
+- Cuando se muestra una señal con una frecuencia inferior a la indicada por el teorema, aparece un <u>**aliasing**</u>.
 - 
