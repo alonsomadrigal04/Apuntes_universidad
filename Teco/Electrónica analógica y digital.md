@@ -59,4 +59,4 @@ A/D Basado en PWM
 	Es el método empleado habitualmente en los microcontroladores que incorporan conversión A/D.
 	más lenta y más económica, su precisión depende de la calidad del condensador y la señal PWM empleados.
 A/D basado en RAS
-	REalizacion de la conversio
+	Realización de la conversión mediante búsquedas dicotómicas. Requiere un circuito secuencial o un microttronador para actuar sobre lso diferentes módulos.
