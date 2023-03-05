@@ -52,5 +52,10 @@ Consiste en el proceso inverso a la absorción. Un electrón produce un fotón a
 ### Receptores de radiación
 #### Fotoconductores
 - Son materiales semiconductores cuya conductividad aumenta como consecuencia de la <font color="#92cddc">fotogeneración</font> de portadores. Se define <font color="#92cddc">ganancia</font> como el cociente entre la corriente que los recorre y el número de <u>portadores</u> generados por unidad de tiempo.
+
 #### La unión PN iluminada
-- Cuando la luz alcanza el interior del semiconductor en una unión PN produce pares electrón-hueco. Como consecuencia parece una foto corrientee.Dee sentido contrario
+- Cuando la luz alcanza el interior del semiconductor en una unión PN produce par electrón-hueco. Como consecuencia parece una foto corriente. <font color="#92cddc">De sentido contrario</font>, es decir, de P a N.
+- Utilizando este fenómeno se obtienen los <font color="#92cddc">fotodiodos</font> y las células <font color="#92cddc">fotovoltaicas</font>
+#### Fotodiodo
+- En el fotodiodo, la característica I-V se ve alterada por una corriente de <font color="#92cddc">sentido inverso</font> que se suma a la del diodo normal.
+#### Celula fotovoltaica
