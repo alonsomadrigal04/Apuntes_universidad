@@ -49,5 +49,6 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 
 #### El diodo real
 - A la hroa de PD, el diodo presenta una resistencia reducida, pero no nula. En PI:
-	- Los pares electrón-hueco, 
-- 
+	- Los pares electrón-hueco, a ambos lados de la unión, presentan una ligera corriente (corriente inversa de saturación)
+	- Los átomos de la superficie no tienen sus enlaces cubiertos y permite el paso de una corriente superficial de fuga.
+	- 
