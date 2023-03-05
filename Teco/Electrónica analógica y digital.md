@@ -24,4 +24,4 @@
 
 ### Conversor A/D y D/A
 - Dispositivo de señal mixta (entrada analógica, - salida digital). Utiliza un voltaje de referencia para devolver la fraccion a la cual corresponda un voltaje nuevo.
-$$ Salida = 
+$$ Salida = 2^n \cdot G \cdot \frac{V_{in}}{V_{ref}} $$
