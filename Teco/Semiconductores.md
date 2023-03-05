@@ -52,3 +52,8 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 	- Los pares electrón-hueco, a ambos lados de la unión, presentan una ligera corriente (corriente inversa de saturación)
 	- Los átomos de la superficie no tienen sus enlaces cubiertos y permite el paso de una corriente superficial de fuga.
 	- Cuando se llega a cierto voltaje (ruptura), la resistencia de PI se reduce drásticamente, y si se sigue aumentando la tensión el diodo se destruye.
+
+### El transistor
+- Es el dispositivo más común. Se comporta como una resistencia variable. Hay dos tipos: (BJT, FET)
+- Transistor BJT:
+	- Es un dispositivo de tres terminales (colector, base y emisor) y puede ser de tipo PNP o NPN
