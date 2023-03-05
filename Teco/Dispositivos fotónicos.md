@@ -45,3 +45,5 @@ $$ P_λ = \frac{dP}{dλ}(\frac{W}{cm^2\cdotµm}) $$
 
 ### Emisión de luz
 Consiste en el proceso inverso a la absorción. Un electrón produce un fotón al regresar a la banda de valencia.
+- Normalmente, los electrones que vuelven de la banda de conducción no poseen excedentes de energía y no suelen ser muy energéticos. Estas transiciones son muy improbables en los <font color="#92cddc">semiconductores de banda prohibida indirecta</font>, ya que precisan de <u>fonones</u>.
+- Una alternativa consiste en un paso intermedio en la banda prohibida en<font color="#92cddc"> niveles de trampa</font> producidos por impurezas.
