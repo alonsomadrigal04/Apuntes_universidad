@@ -1,6 +1,8 @@
 # Teco
 > [!SUMMARY]
 > -> [[#Muestreo]]
+> -> [[#Obtención de la señal digital]]
+> -> [[#Conversor A/D y D/A]]
 
 ### Muestreo
 - Se trata de establecer un intervalo de tiempo entre mediciones. ![[muestreo.png]]
