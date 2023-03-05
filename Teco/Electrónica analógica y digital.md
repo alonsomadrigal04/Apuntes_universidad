@@ -33,4 +33,8 @@ $$ Salida = 2^n \cdot G \cdot \frac{V_{in}}{V_{ref}} $$
 - Es decir, los más importantes son el primero y el último.
 
 #### Conversión A/D
-- Siempre sonsiste en un proceso 
+- Siempre consiste en un proceso de comparación de un voltaje referencial y el voltaje a convertir.
+- Por lo que un conversor A/D, siempre consistirá en un D/A más un comparador.
+##### Conversor D/A
+- Un conversor D/A consiste siempre en convertir un valor numérico en una tensión o corriente proporcional a dicho valor.
+- 
