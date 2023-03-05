@@ -49,4 +49,6 @@ D/A de 1 bit
 
 
 Tipos de conversores A/D:
-Un conversor A/D siempre consta de un conversor D/A y un comparador 
+Un conversor A/D siempre consta de un conversor D/A y un comparador emplea la táctica de ensayo y error para encontrar el valor de la conversión deseada.
+A/D lazo abierto
+	Consiste en generar todos los voltajes posibles en paralelo simultáneamente y compararlos con el de entrada. Se compone de un divisor de tensión de 2<sup>n</sup> etapas y 2<sup>n</sup> comparadores. Un codificador de preioridad devuelve el resultado de la coneversión.
