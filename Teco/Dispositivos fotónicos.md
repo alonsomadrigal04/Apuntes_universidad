@@ -33,4 +33,7 @@ $$ P_λ = \frac{dP}{dλ}(\frac{W}{cm^2\cdotµm}) $$
 - <font color="#92cddc">Emision de luz</font>: Un electrón cede un fotón al pasar de la banda de conducción a la de valencia.
 
 ### Absorción de luz
-- Para que un semiconductor absorba un fotón producciendo un hueco, este debe poseer más enegia que la que supone la banda prohibida (GA)
+- Para que un semiconductor absorba un fotón produciendo un hueco, este debe poseer más energía que la que supone la banda prohibida (GAP):
+- Por lo que hay determinados semiconductores más adecuados que otros para el tipo de luz que se vaya a emplear.
+- La red cristalina puede intercambiar la energía y el momento de las vibraciones de sus átomos con electrones y fotones. 
+	- Estas vibraciones pro
