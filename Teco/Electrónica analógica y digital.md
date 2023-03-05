@@ -45,6 +45,7 @@ D/A paralelo
 	- Consigue la conversión empleando un juego de resistencias calibradas, cada una permite el paso a una corriente proporcional al peso del bit que representa. El resultado de la conversión es la suma de las corrientes de las resistencias que lo integran.
 D/A PWM
 	Consigue la conversión variando el ciclo de un trabajo de una señal cuadrada aplicada a un condensador. Acepta una señal cuadrada, Y el voltaje de salida será proporcional al tiempo que la señal permanezca en el nivel alto.
+	La principla ventaja es que es facil de implementar
 D/A de 1 bit
 	Acepta como valor de entrada un valor binario que representa si el voltaje de salida a de incrementarse o reducirse.
 	Son mu complejos y mu raros. Pero son muy fiables y rápidos
@@ -55,7 +56,6 @@ Un conversor A/D siempre consta de un conversor D/A y un comparador emplea la t�
 A/D lazo abierto
 	Consiste en generar todos los voltajes posibles en paralelo simultáneamente y compararlos con el de entrada. Se compone de un divisor de tensión de 2<sup>n</sup> etapas y 2<sup>n</sup> comparadores. Un codificador de prioridad devuelve el resultado de la conversión.
 	La mas costosa y rapida, pero no siempre la más precisa.
-
 A/D Basado en PWM
 	Un conversor D/A PWM y un comparador. Creación de una rampa de voltaje
 	Es el método empleado habitualmente en los microcontroladores que incorporan conversión A/D.
