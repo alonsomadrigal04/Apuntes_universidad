@@ -33,7 +33,11 @@ $$ P_λ = \frac{dP}{dλ}(\frac{W}{cm^2\cdotµm}) $$
 - <font color="#92cddc">Emision de luz</font>: Un electrón cede un fotón al pasar de la banda de conducción a la de valencia.
 
 ### Absorción de luz
-- Para que un semiconductor absorba un fotón produciendo un hueco, este debe poseer más energía que la que supone la banda prohibida (GAP):
-- Por lo que hay determinados semiconductores más adecuados que otros para el tipo de luz que se vaya a emplear.
-- La red cristalina puede intercambiar la energía y el momento de las vibraciones de sus átomos con electrones y fotones. 
-	- Estas vibraciones pro
+- Para que un semiconductor absorba un fotón produciendo un hueco, este debe poseer <u>más energía</u> que la que supone la banda prohibida (GAP), si un foton tiene una energia superior a la banda prohiubida, se generan fotones que se adentran en la region de conduccion y se denominan p
+- Por lo que hay determinados semiconductores <u>más adecuados que otros</u> para el tipo de luz que se vaya a emplear.
+- La red cristalina puede intercambiar la energía y el <u>momento de las vibraciones</u> de sus átomos con electrones y fotones. 
+	- Estas vibraciones producen "<u>Fonones</u>"
+	- El "Fonón" se comporta como una partícula capaz de intercambiar energía y momento con los electrones.
+	- Los fonones pueden aportar suficiente momento como para posibilitar las <u>transiciones indirectas</u>.
+	- Las directas son más comunes
+
