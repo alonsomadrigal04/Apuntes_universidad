@@ -48,3 +48,6 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 
 
 #### El diodo real
+- A la hroa de PD, el diodo presenta una resistencia reducida, pero no nula. En PI:
+	- Los pares electrón-hueco, 
+- 
