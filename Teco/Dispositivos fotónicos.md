@@ -22,4 +22,5 @@ $$ n = \frac{c}{v}$$
 - La energía transportada por un haz de luz se mide en W/cm<sup>2</sup>. 
 - La radiación total es la superposición de contribuciones de las diferentes longitudes de onda que componen el haz luminoso.
 $$ P_λ = \frac{dP}{dλ}(\frac{W}{cm^2\cdotµm}) $$
-- la unidad de potencia luminosa es el <font color="#92cddc">lumen</font>. A su vez, un lumen por metro cuadrado proporciona una densidad de iluminación (luminancia) equivalente a un lux.
+- la unidad de potencia luminosa es el <font color="#92cddc">lumen</font>. A su vez, un lumen por metro cuadrado proporciona una densidad de iluminación (luminancia) equivalente a un <font color="#92cddc">lux</font>.
+- 
