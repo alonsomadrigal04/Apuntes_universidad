@@ -25,4 +25,8 @@ $$ n = \frac{c}{v}$$
 $$ P_λ = \frac{dP}{dλ}(\frac{W}{cm^2\cdotµm}) $$
 - la unidad de potencia luminosa es el <font color="#92cddc">lumen</font>. A su vez, un lumen por metro cuadrado proporciona una densidad de iluminación (luminancia) equivalente a un <font color="#92cddc">lux</font>.
 #### La luz como partícula
-El caracter corpuscular de la lz se manifiesta en fenomenos como la 
+- El carácter corpuscular de la luz se manifiesta en fenómenos como la absorción y la emisión de la luz por la materia. Las partículas invisibles (<u>cuantos</u>) que componen la luz se denominan (<u>fotones</u>). 
+- Una partícula de materia en movimiento posee una propiedad que es el <u>momento</u>.
+
+#### Interacción con semiconductores
+- Absorción de luz: 
