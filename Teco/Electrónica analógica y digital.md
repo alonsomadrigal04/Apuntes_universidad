@@ -20,4 +20,4 @@
 - Es la asignación de la señal a uno de varios grupos disponibles. El encargado de hacer la función es el conversor analógico/digital. 
 - Para entendernos, es el que ajusta el resultado para uno más homogéneo.
 - Esto puede desencadenar en un error, al dar un valor aproximado, da un valor entre el original y el convertido.
-- Por lo que para no perder información util debe mantenerse por debajo de un valor máximo.
+- Por lo que para no perder información útil debe mantenerse por debajo de un valor máximo.
