@@ -37,4 +37,6 @@ $$ Salida = 2^n \cdot G \cdot \frac{V_{in}}{V_{ref}} $$
 - Por lo que un conversor A/D, siempre consistirá en un D/A más un comparador.
 ##### Conversor D/A
 - Un conversor D/A consiste siempre en convertir un valor numérico en una tensión o corriente proporcional a dicho valor.
-- 
+
+D/A paralelo
+	- Consigue la conversión empleando un juego de resistencias calibradas, cada una permite el paso a una corriente proporcional al peso del bit que representa. El resultado de la conversión es la suma de las corrientes de las resistencias que lo integran
