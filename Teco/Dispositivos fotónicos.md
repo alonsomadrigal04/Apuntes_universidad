@@ -29,4 +29,8 @@ $$ P_λ = \frac{dP}{dλ}(\frac{W}{cm^2\cdotµm}) $$
 - Una partícula de materia en movimiento posee una propiedad que es el <u>momento</u>.
 
 #### Interacción con semiconductores
-- Absorción de luz: 
+- <font color="#92cddc">Absorción de luz</font>: Un fotón proporciona la energía suficiente para pasar de la banda de valencia a la banda de conducción.
+- <font color="#92cddc">Emision de luz</font>: Un electrón cede un fotón al pasar de la banda de conducción a la de valencia.
+
+### Absorción de luz
+- Para que un semiconductor absorba un fotón producciendo un hueco, este debe poseer más enegia que la que supone la banda prohibida (GA)
