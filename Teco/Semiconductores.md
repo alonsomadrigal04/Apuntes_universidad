@@ -59,10 +59,11 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 	- Es un dispositivo de tres terminales (colector, base y emisor) y puede ser de tipo PNP o NPN![[Transistor_BJT.png]]
 	- El efecto del transistor aparece cuando las distancias entre las dos uniones es menor a un valor dado.
 	- Consiste en que la corriente que atraviesa el recolector y el emisor, se puede regular mediante la corriente base.
-	- Dependiendo de la relación: Corte, conducción y saturación.
+	- Dependiendo de la relación (corriente): Corte, conducción y saturación.
 		- Corte: el diodo base-emisor, no llega a PD y no conduce.
-		- Conducción: el colector-emisor, proporcional a la base. la constante de proporcionalidad es: β.
+		- Conducción: el colector-emisor, proporcional a la base. La constante de proporcionalidad es: β.
 		- Saturación: a partir de cierto valor el transistor se satura y la corriente de colector pasa a ser constante. 
 
 - Transistor FET:
-- 
+	- Se basa en el fenomeno, efecto de campo. (Fuente, drenador y puerta)
+	- 
