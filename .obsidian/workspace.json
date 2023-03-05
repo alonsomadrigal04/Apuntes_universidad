@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Electrónica analógica y digital.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -52,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Teco/Dispositivos fotónicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Teco/Dispositivos fotónicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Teco/Dispositivos fotónicos.md"
+              }
             }
           },
           {
@@ -185,14 +189,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3dda053f31fbed2",
+  "active": "6b906792b913c00e",
   "lastOpenFiles": [
+    "Teco/Teoría de Circuitos.md",
+    "Teco/Dispositivos fotónicos.md",
+    "Teco/Electrónica analógica y digital.md",
     "Teco/Teco.md",
     "Teco/Semiconductores.md",
     "Teco/Elementos del computador.md",
-    "Teco/Electrónica analógica y digital.md",
-    "Teco/Dispositivos fotónicos.md",
-    "Teco/Teoría de Circuitos.md",
     "Images/Teco/S_H.png",
     "Images/Teco/muestreo.png",
     "Images/Teco/Dopaje de tipo N.png",

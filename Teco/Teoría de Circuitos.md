@@ -6,7 +6,7 @@
 > -> [[#Leyes de Kirchhoff]]
 > -> [[#Ley de Watt]]
 
-**Variables:**
+**Parametros:**
 | V     | Voltaje, Voltio, Tensión       |
 | ----- | ------------------------------ |
 | A - I | Amperio, Intensidad, Corriente |
