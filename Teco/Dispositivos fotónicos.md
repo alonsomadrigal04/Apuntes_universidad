@@ -13,7 +13,8 @@
 
 
 ---
-### La luz como onda
+### Comportamientos de la luz
+#### La luz como onda
 - En el vacío la relación entre e λ y f es la velocidad de la luz.
 $$ λ = \frac{c}{f} $$
 - En un medio material, la velocidad de la luz incidente depende del índice de refracción (n).
@@ -23,4 +24,5 @@ $$ n = \frac{c}{v}$$
 - La radiación total es la superposición de contribuciones de las diferentes longitudes de onda que componen el haz luminoso.
 $$ P_λ = \frac{dP}{dλ}(\frac{W}{cm^2\cdotµm}) $$
 - la unidad de potencia luminosa es el <font color="#92cddc">lumen</font>. A su vez, un lumen por metro cuadrado proporciona una densidad de iluminación (luminancia) equivalente a un <font color="#92cddc">lux</font>.
-- 
+#### La luz como partícula
+El caracter corpuscular de la lz se manifiesta en fenomenos como la 
