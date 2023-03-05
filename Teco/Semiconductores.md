@@ -56,4 +56,9 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 ### El transistor
 - Es el dispositivo más común. Se comporta como una resistencia variable. Hay dos tipos: (BJT, FET)
 - Transistor BJT:
-	- Es un dispositivo de tres terminales (colector, base y emisor) y puede ser de tipo PNP o NPN
+	- Es un dispositivo de tres terminales (colector, base y emisor) y puede ser de tipo PNP o NPN![[Transistor_BJT.png]]
+	- El efecto del transistor aparece cuando las distancias entre las dos uniones es menor a un valor dado.
+	- 
+
+- Transistor FET:
+- 
