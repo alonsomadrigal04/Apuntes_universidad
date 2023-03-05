@@ -1,8 +1,8 @@
 # Teco
 > [!SUMMARY]
-> -> 
-> -> 
-> -> 
+> -> [[#Comportamientos de la luz]]
+> -> [[#Interacción con semiconductores]]
+> -> [[#Receptores de radiación]]
 
 **Parámetros:**
 | Longitud de onda                         | λ   |
@@ -32,7 +32,7 @@ $$ P_λ = \frac{dP}{dλ}(\frac{W}{cm^2\cdotµm}) $$
 - <font color="#92cddc">Absorción de luz</font>: Un fotón proporciona la energía suficiente para pasar de la banda de valencia a la banda de conducción.
 - <font color="#92cddc">Emision de luz</font>: Un electrón cede un fotón al pasar de la banda de conducción a la de valencia.
 
-### Absorción de luz
+##### Absorción de luz
 - Para que un semiconductor absorba un fotón produciendo un hueco, este debe poseer <u>más energía</u> que la que supone la banda prohibida (GAP). Si un fotón tiene una energía <u>superior a la banda prohibida</u>, se generan fotones que se adentran en la región de conducción y se denominan <font color="#92cddc">portadores calientes</font>.
 - Por lo que hay determinados semiconductores <u>más adecuados que otros</u> para el tipo de luz que se vaya a emplear.
 - La red cristalina puede intercambiar la energía y el <u>momento de las vibraciones</u> de sus átomos con electrones y fotones. 
@@ -43,7 +43,10 @@ $$ P_λ = \frac{dP}{dλ}(\frac{W}{cm^2\cdotµm}) $$
 
 - Cuando estan <u>calientes</u> (**Literalmente**) empiezan a chocarse con todo y cuando se casan cenden sus electrones.
 
-### Emisión de luz
+##### Emisión de luz
 Consiste en el proceso inverso a la absorción. Un electrón produce un fotón al regresar a la banda de valencia.
 - Normalmente, los electrones que vuelven de la banda de conducción no poseen excedentes de energía y no suelen ser muy energéticos. Estas transiciones son muy improbables en los <font color="#92cddc">semiconductores de banda prohibida indirecta</font>, ya que precisan de <u>fonones</u>.
 - Una alternativa consiste en un paso intermedio en la banda prohibida en<font color="#92cddc"> niveles de trampa</font> producidos por impurezas.
+
+
+### Receptores de radiación
