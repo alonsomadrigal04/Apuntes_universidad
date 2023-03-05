@@ -40,4 +40,4 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 	- Al conectar una fuente de tensión, comenzará un circuito de electrones que tiene que superar la unión para poder pasar de la zona N a P.
 	- Esto invertirá la polaridad aumentando la zona de agotamiento y haciendo una fuente vacía tanto en P como en N y no hay conducción.
 
-
+### El diodo ideal
