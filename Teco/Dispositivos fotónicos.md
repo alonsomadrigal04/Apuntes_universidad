@@ -17,4 +17,4 @@
 - En el vacío la relación entre e λ y f es la velocidad de la luz.
 $$ λ = \frac{c}{f} $$
 - En un medio material, la velocidad de la luz incidente depende del índice de refracción (n).
-- $$ n = \frac{c}{v}$$
+$$ n = \frac{c}{v}$$
