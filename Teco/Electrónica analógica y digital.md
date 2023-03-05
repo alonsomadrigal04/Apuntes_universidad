@@ -12,4 +12,6 @@
 - Cuando se muestra una señal con una frecuencia inferior a la indicada por el teorema, aparece un <u>**aliasing**</u>.
 	- Para evitar el aliasing, se somete a la señal a un filtrado previo (filtro pasa-bajo) donde se eliminan todas las frecuencias superiores a la considerada máxima.
 #### Formalización matemática del muestreo
-- Se requiere la función delta dirac o función impulso. Función impulso consiste en un rectángulo de duración nula y amplitud infinita cuya superficie es igual a la
+- Se requiere la función delta dirac o función impulso. Función impulso consiste en un rectángulo de duración nula y amplitud infinita cuya superficie es igual a la unidad.
+### Obtención de la señal digital
+- La conversion de señal requiere 
