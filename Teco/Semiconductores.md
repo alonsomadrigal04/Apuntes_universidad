@@ -1,7 +1,7 @@
 # Teco
 > [!SUMMARY]
 > -> [[#Los Semiconductores]]
-> -> [[#diodo]]
+> -> [[#Diodos]]
 
 ---
 ### Los Semiconductores
@@ -40,6 +40,11 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 	- Al conectar una fuente de tensión, comenzará un circuito de electrones que tiene que superar la unión para poder pasar de la zona N a P.
 	- Esto invertirá la polaridad aumentando la zona de agotamiento y haciendo una fuente vacía tanto en P como en N y no hay conducción.
 
-### El diodo ideal
+### Diodos
+#### El diodo ideal
 - Cuando creas una unión PN, creas un dispositivo electrónico llamado diodo. P (ánodo) N (cátodo).
-- Diodo ideal: PD (Paralización directa, equivale a un escalón de potencial) PI (Paralización inversa, resistencia infinita
+- Diodo ideal: PD (Poralización directa, equivale a un escalón de potencial) PI (Poralización inversa, resistencia infinita.
+	![[Caracteristicas_VI.png]]
+
+
+#### El diodo real
