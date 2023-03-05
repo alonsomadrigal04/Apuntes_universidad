@@ -41,3 +41,5 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 	- Esto invertirá la polaridad aumentando la zona de agotamiento y haciendo una fuente vacía tanto en P como en N y no hay conducción.
 
 ### El diodo ideal
+- Cuando creas una unión PN, creas un dispositivo electrónico llamado diodo. P (ánodo) N (cátodo).
+- 
