@@ -24,13 +24,14 @@
 ![[Niveles de energia.png]]
 ### Semiconductores extrínsecos
 
-Un semiconductor puro y perfectamente cristalino se denomina intrínseco. Sus átomos son iguales, el número de electrones libres es igual al de huecos.
+Un semiconductor puro y perfectamente cristalino se denomina <u>intrínseco</u>. Sus átomos son iguales, el número de electrones libres es igual al de huecos.
 
 Dopar: Introducir átomos diferentes a los propios del semiconductor, da como resultado un semiconductor extrínseco.
 - Tipo N: Se introducen átomos con 5 electrones en su capa externa.
 	- Los electrones excedentes están débilmente ligados a sus átomos y pueden liberarse con una pequeña cantidad de energía![[Dopaje de tipo N.png]]
 - Tipo P: Se introducen átomos con 3 electrones en su capa externa.
-	- ![[Dopaje de tipo P.png]]
+	- Los electrones de los enlaces covalentes próximos a un hueco pueden ocuparlo con una pequeña cantidad de energía
+	![[Dopaje de tipo P.png]]
 
 
 - Unión PN: rectificación.
