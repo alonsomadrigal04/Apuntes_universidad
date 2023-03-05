@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Teoría de Circuitos.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Teoría de Circuitos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Teoría de Circuitos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Semiconductores.md"
+                "file": "Teco/Teoría de Circuitos.md"
               }
             }
           },
@@ -171,12 +171,12 @@
   },
   "active": "82060722d880a054",
   "lastOpenFiles": [
-    "Transistor_BJT.png",
     "Teco/Teco.md",
-    "Teco/Teoría de Circuitos.md",
-    "Teco/Semiconductores.md",
-    "Caracteristicas_VI.png",
     "Teco/Elementos del computador.md",
+    "Teco/Semiconductores.md",
+    "Transistor_BJT.png",
+    "Teco/Teoría de Circuitos.md",
+    "Caracteristicas_VI.png",
     "Diseño 2d/Apuntes.md",
     "Diseño 2d/Diseño 2d.md",
     "Diseño 2d/Tema - 04 Gráfico vectoriales.md",
@@ -199,7 +199,6 @@
     "Ingles/2023-02-20.md",
     "Ingles/2023-02-22.md",
     "Images/Teco/Ley de tensiones.png",
-    "Images/Teco/Asociacion en serie.png",
     "Presentación de la asignatura.md"
   ]
 }
