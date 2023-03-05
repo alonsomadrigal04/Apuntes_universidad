@@ -68,4 +68,6 @@ Consiste en el proceso inverso a la absorción. Un electrón produce un fotón a
 - La longitud de onda depende de la diferencia entre los niveles de energía y, por tanto, el color de la luz emitida.
 - Para producir luminiscencia hay que proveer al nivel alto de energía con una concentración de electrones mayor que la que le corresponde en equilibrio térmico.
 #### Diodos electroluminiscentes
-- Llamados LED. Unión PN fabricada con semiconductores que presentan una banda prohibida directa. La unión s
+- Llamados LED. Unión PN fabricada con semiconductores que presentan una banda prohibida directa. La unión se <font color="#92cddc">poraliza directamente</font> de forma que existe una intensa recombinación de <u>portadores minoritarios</u>.
+#### La emisión láser
+- En cualquier material con una banda prohibida puede producirse emisión luminosa cuando los electrones pierden energía (emision espo)
