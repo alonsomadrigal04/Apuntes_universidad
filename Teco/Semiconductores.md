@@ -42,4 +42,4 @@ Dopar: Introducir átomos diferentes a los propios del semiconductor, da como re
 
 ### El diodo ideal
 - Cuando creas una unión PN, creas un dispositivo electrónico llamado diodo. P (ánodo) N (cátodo).
-- 
+- Diodo ideal: PD (Poralizacion directa, equivale a un escalón de potencial)
