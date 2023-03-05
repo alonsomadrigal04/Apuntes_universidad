@@ -58,4 +58,5 @@ Consiste en el proceso inverso a la absorción. Un electrón produce un fotón a
 - Utilizando este fenómeno se obtienen los <font color="#92cddc">fotodiodos</font> y las células <font color="#92cddc">fotovoltaicas</font>
 #### Fotodiodo
 - En el fotodiodo, la característica I-V se ve alterada por una corriente de <font color="#92cddc">sentido inverso</font> que se suma a la del diodo normal.
-#### Celula fotovoltaica
+#### Célula fotovoltaica
+- Cuando un <font color="#92cddc">fotodiodo</font> trabaja en el c<u>uarto cuadrante del diagrama</u> V-I (V>0, I<0) se convierte en un generador (proporciona potencia al circuito).
