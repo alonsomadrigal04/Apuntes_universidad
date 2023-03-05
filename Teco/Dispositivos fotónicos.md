@@ -62,3 +62,10 @@ Consiste en el proceso inverso a la absorción. Un electrón produce un fotón a
 - Cuando un <font color="#92cddc">fotodiodo</font> trabaja en el c<u>uarto cuadrante del diagrama</u> V-I (V>0, I<0) se convierte en un generador (proporciona potencia al circuito).
 - La producción de <u>electricidad a partir de la luz</u> se denomina <font color="#92cddc">efecto fotovoltaico</font> y el dispositivo que lo realiza <font color="#92cddc">célula fotovoltaica</font>.
 - Una <font color="#92cddc">célula fotovoltaica</font> se diseña para optimizar la producción de electricidad, relegando a un segundo plano otros parámetros, como la velocidad de respuesta.
+
+### Emisores de radiación
+- La <font color="#92cddc">luminiscencia</font> es la emisión de luz ante la pérdida de energía de un electrón.
+- La longitud de onda depende de la diferencia entre los niveles de energía y, por tanto, el color de la luz emitida.
+- Para producir luminiscencia hay que proveer al nivel alto de energía con una concentración de electrones mayor que la que le corresponde en equilibrio térmico.
+#### Diodos electroluminiscentes
+- Llamados LED. Unión PN fabricada con semiconductores que presentan una banda prohibida directa. La unión s
