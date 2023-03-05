@@ -26,6 +26,11 @@
 - Dispositivo de señal mixta (entrada analógica, - salida digital). Utiliza un voltaje de referencia para devolver la fracción a la cual corresponda un voltaje nuevo.
 $$ Salida = 2^n \cdot G \cdot \frac{V_{in}}{V_{ref}} $$
 #### Parámetros de un conversor
-- Resolución: número de bits del calor numérico entregado por el conversor.
-- En la entrega A/D hay dos bits muy importantes: LSB (1) y MSB
+- **Resolución:** número de bits del calor numérico entregado por el conversor.
+- En la entrega A/D hay **dos bits muy importantes**: LSB y MSB
+- LSB siempre pesa 1 (2<sup>0</sup>)
+- Si la palabra posee n bits el peso de MSB será 2<sup>n - 1</sup>.
+- Es decir, los más importantes son el primero y el último.
+
+#### Conversión A/D
 - 
