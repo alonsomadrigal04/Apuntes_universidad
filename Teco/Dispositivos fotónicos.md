@@ -33,7 +33,7 @@ $$ P_λ = \frac{dP}{dλ}(\frac{W}{cm^2\cdotµm}) $$
 - <font color="#92cddc">Emision de luz</font>: Un electrón cede un fotón al pasar de la banda de conducción a la de valencia.
 
 ### Absorción de luz
-- Para que un semiconductor absorba un fotón produciendo un hueco, este debe poseer <u>más energía</u> que la que supone la banda prohibida (GAP), si un foton tiene una energia superior a la banda prohiubida, se generan fotones que se adentran en la region de conduccion y se denominan p
+- Para que un semiconductor absorba un fotón produciendo un hueco, este debe poseer <u>más energía</u> que la que supone la banda prohibida (GAP). Si un fotón tiene una energía <u>superior a la banda prohibida</u>, se generan fotones que se adentran en la región de conducción y se denominan <font color="#92cddc">portadores calientes</font>.
 - Por lo que hay determinados semiconductores <u>más adecuados que otros</u> para el tipo de luz que se vaya a emplear.
 - La red cristalina puede intercambiar la energía y el <u>momento de las vibraciones</u> de sus átomos con electrones y fotones. 
 	- Estas vibraciones producen "<u>Fonones</u>"
@@ -41,3 +41,7 @@ $$ P_λ = \frac{dP}{dλ}(\frac{W}{cm^2\cdotµm}) $$
 	- Los fonones pueden aportar suficiente momento como para posibilitar las <u>transiciones indirectas</u>.
 	- Las directas son más comunes
 
+- Cuando estan <u>calientes</u> (**Literalmente**) empiezan a chocarse con todo y cuando se casan cenden sus electrones.
+
+### Emisión de luz
+Consiste en el proceso inverso a la absorción. Un electrón produce un fotón al regresar a la banda de valencia.
