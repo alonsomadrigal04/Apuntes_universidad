@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/El procesador operaciones básicas.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/El procesador operaciones básicas.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/El procesador operaciones básicas.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/El procesador operaciones básicas.md"
+                "file": "Teco/Dispositivos fotónicos.md"
               }
             }
           },
@@ -158,14 +158,14 @@
   },
   "active": "3b21a3d05d6f8f20",
   "lastOpenFiles": [
+    "Teco/El procesador operaciones básicas.md",
+    "Teco/Electrónica analógica y digital.md",
+    "Teco/Elementos del computador.md",
+    "Teco/Semiconductores.md",
     "Vector_memoria.png",
     "Desplazamiento aritmetico (derecha).png",
     "Teco/Dispositivos fotónicos.md",
-    "Teco/El procesador operaciones básicas.md",
-    "Teco/Electrónica analógica y digital.md",
     "Teco/Teoría de Circuitos.md",
-    "Teco/Elementos del computador.md",
-    "Teco/Semiconductores.md",
     "Teco/Teco.md",
     "Images/Teco/S_H.png",
     "Images/Teco/muestreo.png",
@@ -180,7 +180,6 @@
     "Ingles/Inglés.md",
     "Diseño 2d",
     "Images/Teco/Niveles de energia.png",
-    "Images/Teco/Dopaje de tipo P.png",
     "Programación C Sharp.md",
     "Untitled.canvas",
     "Images/Teco",
