@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Electrónica analógica y digital.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Electrónica analógica y digital.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Electrónica analógica y digital.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Electrónica analógica y digital.md"
+                "file": "Teco/Dispositivos fotónicos.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "6b906792b913c00e",
   "lastOpenFiles": [
-    "Teco/Elementos del computador.md",
     "Teco/Electrónica analógica y digital.md",
+    "Teco/Elementos del computador.md",
     "Teco/Semiconductores.md",
     "Teco/Dispositivos fotónicos.md",
     "Teco/Teoría de Circuitos.md",
