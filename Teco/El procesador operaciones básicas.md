@@ -1,5 +1,5 @@
 # Teco
-### Operaciones elementales. 
+#### Operaciones elementales. 
 Supongamos la forma elemental de indicar a un procesador que realice una suma: 
 add a, b, c  @ a <- (b + c)
 | categoria  | instrucción    | Ejemplo     | significado | Comentario  |
@@ -43,3 +43,5 @@ Desplazamiento <u>aritmético a la derecha</u>:
 	![[Desplazamiento aritmetico (derecha).png]]
 
 
+### almacenamiento ARM
+2<sup>30</sup> palabras de memoria accedidas solo por instrucciones de transferencia
