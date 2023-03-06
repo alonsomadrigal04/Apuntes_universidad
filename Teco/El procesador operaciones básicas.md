@@ -11,8 +11,9 @@ add a, b, c  @ a <- (b + c)
 
 ---
 · El procesador dispone de una cantidad limitada de posiciones especiales denominadas registros: 
-· ARM Thumb posee 16 registros (r0 … r15) para números enteros de 32 bits cada uno. <u>16 registros</u>.
-
+· ARM Thumb posee <u>16 registros</u> (r0 … r15) para números enteros de 32 bits cada uno.
+r0 a r7 -> registros bajos
+r8 - r15 -> registros altos
 #### Operaciones aritméticas elementales
 - f = (g + h) – (i + k) =
 - <font color="#548dd4">add r5, r1, r2</font> <font color="#b2a2c7">@ r5=g + h</font>
