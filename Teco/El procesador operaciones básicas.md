@@ -22,4 +22,4 @@ add a, b, c  @ a <- (b + c)
 
 #### Instrucciones lógicas
 Operación lógica AND (Y):
-and r0
+<font color="#548dd4">and</font> <font color="#548dd4">r0, r3</font> <font color="#b2a2c7">@ r0 = r0 AND r3</font>
