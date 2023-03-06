@@ -26,6 +26,11 @@ Operación lógica <u>AND</u> (Y):
 - Si en la máscara hay un 1, el valor se mantendrá con respecto al registro.
 Operación lógica <u>OR</u> (O):
 <font color="#548dd4">orr r0, r3</font> <font color="#b2a2c7">@ r0 = r0 OR r3</font>
-- Si en la mascara hay un 1, el valor resultado será 1, y dejan como esta si pone 0. (¿?¿?)
+- Si en la máscara hay un 1, el valor resultado será 1, y dejan como esta si pone 0. (¿?¿?)
 Desplazamiento lógico a la izquierda:
-lsl r0, r0, #3 @ r0 <<font color="#b2a2c7">-</font>r0 << 3
+<font color="#548dd4">lsl r0, r0, #3</font> <font color="#b2a2c7">@ r0 = r0 << 3 </font> Se desplaza 3 unidades a la izquierda
+- Equivale a multiplicar por 2<sup>n</sup>.
+- Los 3 bits más significativos se desechan.
+Desplazamiento lógico a la derecha:
+<font color="#548dd4">lsr r0, r0, #4</font> <font color="#b2a2c7">@ r0 = r0 >> 4</font> Se desplaza 4 unidades hacia la derecha
+- Equivale a dividir por 2<sup>n</sup>
