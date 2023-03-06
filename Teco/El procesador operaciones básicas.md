@@ -48,7 +48,7 @@ Desplazamiento <u>aritmético a la derecha</u>:
 #### Acceso de memoria
 - Podemos ver la memoria como si fuese un vector, llamando ‘memoria’ a este vector, podemos referirnos a la segunda posición como: memoria[1]
 ![[Vector_memoria.png]]
-| ldr                                | r0,              | [r1                      | #2]             |
+| ldr                                | r0,              | <font color="#76923c">[r1   </font>                   | #2]             |
 | ---------------------------------- | ---------------- | ------------------------ | --------------- |
-| Instruccion de carga desde memoria | registro destino | contenido de un registro | valor inmediato |
+| Instruccion de carga desde memoria | registro destino | <font color="#76923c">contenido de un registro</font> | valor inmediato |
 
