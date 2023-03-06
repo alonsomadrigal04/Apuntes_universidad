@@ -21,5 +21,8 @@ add a, b, c  @ a <- (b + c)
 ¡Multiplicación! -> <font color="#548dd4">"mul" r0, r0, r1</font> o <font color="#548dd4">"mul" r0, r1</font>
 
 #### Instrucciones lógicas
-Operación lógica AND (Y):
+Operación lógica <u>AND</u> (Y):
 <font color="#548dd4">and</font> <font color="#548dd4">r0, r3</font> <font color="#b2a2c7">@ r0 = r0 AND r3</font>
+- Si en la máscara hay un 1, el valor se mantendrá con respecto al registro.
+Operación lógica <u>OR</u> (O):
+<font color="#548dd4">orr r0, r3</font> <font color="#b2a2c7">@ r0 = r0 OR r3</font>
