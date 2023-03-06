@@ -43,5 +43,9 @@ Desplazamiento <u>aritmético a la derecha</u>:
 	![[Desplazamiento aritmetico (derecha).png]]
 
 
-### almacenamiento ARM
-2<sup>30</sup> palabras de memoria accedidas solo por instrucciones de transferencia
+### Almacenamiento ARM
+2<sup>30</sup> palabras de memoria accedidas solo por instrucciones de transferencia.
+#### Acceso de memoria
+- Podemos ver la memoria como si fuese un vector, llamando ‘memoria’ a este vector, podemos referirnos a la segunda posición como: memoria[1]
+![[Vector_memoria.png]]
+|ldr|||
