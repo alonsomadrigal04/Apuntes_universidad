@@ -6,3 +6,8 @@ add a, b, c  @ a <- (b + c)
 | ---------- | ----------- | ----------- | ----------- | ----------- |
 | Aritmetica | resta       | sub a, b, c | a <- b - c  | 3 operandos |
 |            |             |             |             |             |
+
+---
+· l procesador dispone de una cantidad limitada de posiciones especiales denominadas registros: 
+· ARM Thumb posee 16 registros (r0 … r15) para números enteros de 32 bits cada uno. <u>16 registros</u>.
+- 
