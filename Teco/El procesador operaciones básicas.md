@@ -2,10 +2,12 @@
 ### Operaciones elementales. 
 Supongamos la forma elemental de indicar a un procesador que realice una suma: 
 add a, b, c  @ a <- (b + c)
-| categoria  | instrucción | Ejemplo     | significado | Comentario  |
-| ---------- | ----------- | ----------- | ----------- | ----------- |
-| Aritmetica | resta       | sub a, b, c | a <- b - c  | 3 operandos |
-|            |          multiplicación   |             |             |             |
+| categoria  | instrucción    | Ejemplo     | significado | Comentario  |
+| ---------- | -------------- | ----------- | ----------- | ----------- |
+| Aritmetica | resta          | sub a, b, c | a <- b - c  | 3 operandos |
+|            | multiplicación | mul a, b    | a <- a * b  | 2 operandos |
+|            | suma           | add a, b, c | a <- b + c  | 3 operandos |
+
 
 ---
 · l procesador dispone de una cantidad limitada de posiciones especiales denominadas registros: 
@@ -17,3 +19,7 @@ add a, b, c  @ a <- (b + c)
 - <font color="#548dd4">add r6, r3, r4</font> <font color="#b2a2c7">@ r6= i + k</font>
 - <font color="#548dd4">sub r0, r5, r6</font> <font color="#b2a2c7">@ f = (g + h) - (i + k)</font>
 ¡Multiplicación! -> <font color="#548dd4">"mul" r0, r0, r1</font> o <font color="#548dd4">"mul" r0, r1</font>
+
+#### Instrucciones lógicas
+Operación lógica AND (Y):
+and r0
