@@ -53,4 +53,7 @@ Desplazamiento <u>aritmético a la derecha</u>:
 | Instruccion de carga desde memoria | registro destino | <font color="#76923c">contenido de un registro</font> | valor inmediato |
 | str                                   |     r0             |    [r3                                                   |                 |
 
-	ldr 
+```
+ldr r0, [r3, #32] @Pues las palabras han de ser multiplos de 4
+add r3, r0, 
+```
