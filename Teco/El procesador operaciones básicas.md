@@ -33,4 +33,9 @@ Desplazamiento lógico a la izquierda:
 - Los 3 bits más significativos se desechan.
 Desplazamiento lógico a la derecha:
 <font color="#548dd4">lsr r0, r0, #4</font> <font color="#b2a2c7">@ r0 = r0 >> 4</font> Se desplaza 4 unidades hacia la derecha
+- Equivale a dividir por 2<sup>n</sup>.
+- los 4 bits menos significativos se deshechan.
+Desplazamiento aritmético a la derecha:
+<font color="#548dd4">asr r0, r0, #5</font> <font color="#b2a2c7">@ r0 = r0 >> 5</font>
 - Equivale a dividir por 2<sup>n</sup>
+- El bit más significativo se replica el número de veces (5 en este caso).
