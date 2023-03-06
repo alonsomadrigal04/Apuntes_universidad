@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "3b21a3d05d6f8f20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teco/El procesador operaciones báscias.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d3dda053f31fbed2",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Dispositivos fotónicos.md",
+                "file": "Teco/El procesador operaciones báscias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Dispositivos fotónicos.md",
+                "file": "Teco/El procesador operaciones báscias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Dispositivos fotónicos.md"
+                "file": "Teco/El procesador operaciones báscias.md"
               }
             }
           },
@@ -188,11 +200,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dc1ab0f1bd27c4f1",
+  "active": "3b21a3d05d6f8f20",
   "lastOpenFiles": [
+    "Teco/Dispositivos fotónicos.md",
+    "Teco/El procesador operaciones báscias.md",
     "Teco/Electrónica analógica y digital.md",
     "Teco/Teoría de Circuitos.md",
-    "Teco/Dispositivos fotónicos.md",
     "Teco/Elementos del computador.md",
     "Teco/Semiconductores.md",
     "Teco/Teco.md",
