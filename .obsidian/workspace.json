@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Dispositivos fotónicos.md",
+                "file": "Programación C Sharp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98d0f3ccd959ae58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clases y objetos.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Dispositivos fotónicos.md",
+                "file": "Clases y objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Dispositivos fotónicos.md",
+                "file": "Clases y objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Dispositivos fotónicos.md"
+                "file": "Clases y objetos.md"
               }
             }
           },
@@ -156,15 +169,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b21a3d05d6f8f20",
+  "active": "5ffd916c643b34fe",
   "lastOpenFiles": [
+    "C#",
+    "Programación C Sharp.md",
+    "Clases y objetos.md",
+    "Teco/Dispositivos fotónicos.md",
     "Teco/El procesador operaciones básicas.md",
     "Teco/Electrónica analógica y digital.md",
     "Teco/Elementos del computador.md",
     "Teco/Semiconductores.md",
     "Vector_memoria.png",
     "Desplazamiento aritmetico (derecha).png",
-    "Teco/Dispositivos fotónicos.md",
     "Teco/Teoría de Circuitos.md",
     "Teco/Teco.md",
     "Images/Teco/S_H.png",
@@ -180,7 +196,6 @@
     "Ingles/Inglés.md",
     "Diseño 2d",
     "Images/Teco/Niveles de energia.png",
-    "Programación C Sharp.md",
     "Untitled.canvas",
     "Images/Teco",
     "Images",
