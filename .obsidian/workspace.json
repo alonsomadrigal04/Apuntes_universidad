@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programación C Sharp.md",
+                "file": "C#/Programación C Sharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clases y objetos.md",
+                "file": "C#/Clases y objetos.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "da9c5fbba980b6d4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Teco/Desplazamiento aritmetico (derecha).png"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clases y objetos.md",
+                "file": "Images/Teco/Desplazamiento aritmetico (derecha).png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clases y objetos.md",
+                "file": "Images/Teco/Desplazamiento aritmetico (derecha).png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clases y objetos.md"
+                "file": "Images/Teco/Desplazamiento aritmetico (derecha).png"
               }
             }
           },
@@ -171,16 +181,17 @@
   },
   "active": "5ffd916c643b34fe",
   "lastOpenFiles": [
+    "C#/C sharp.md",
+    "C#/Clases y objetos.md",
+    "C#/Programación C Sharp.md",
     "C#",
-    "Programación C Sharp.md",
-    "Clases y objetos.md",
     "Teco/Dispositivos fotónicos.md",
     "Teco/El procesador operaciones básicas.md",
     "Teco/Electrónica analógica y digital.md",
     "Teco/Elementos del computador.md",
     "Teco/Semiconductores.md",
-    "Vector_memoria.png",
-    "Desplazamiento aritmetico (derecha).png",
+    "Images/Teco/Vector_memoria.png",
+    "Images/Teco/Desplazamiento aritmetico (derecha).png",
     "Teco/Teoría de Circuitos.md",
     "Teco/Teco.md",
     "Images/Teco/S_H.png",
