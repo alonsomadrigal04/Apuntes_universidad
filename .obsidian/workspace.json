@@ -35,9 +35,11 @@
             "id": "da9c5fbba980b6d4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Teco/Desplazamiento aritmetico (derecha).png"
+                "file": "C#/C sharp.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Teco/Desplazamiento aritmetico (derecha).png",
+                "file": "C#/C sharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Teco/Desplazamiento aritmetico (derecha).png",
+                "file": "C#/C sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Teco/Desplazamiento aritmetico (derecha).png"
+                "file": "C#/C sharp.md"
               }
             }
           },
@@ -179,8 +181,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ffd916c643b34fe",
+  "active": "da9c5fbba980b6d4",
   "lastOpenFiles": [
+    "Images/Teco/Desplazamiento aritmetico (derecha).png",
     "C#/C sharp.md",
     "C#/Clases y objetos.md",
     "C#/Programación C Sharp.md",
@@ -191,7 +194,6 @@
     "Teco/Elementos del computador.md",
     "Teco/Semiconductores.md",
     "Images/Teco/Vector_memoria.png",
-    "Images/Teco/Desplazamiento aritmetico (derecha).png",
     "Teco/Teoría de Circuitos.md",
     "Teco/Teco.md",
     "Images/Teco/S_H.png",
