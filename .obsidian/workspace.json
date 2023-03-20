@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Clases y objetos.md",
+                "file": "Teco/El procesador operaciones básicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Clases y objetos.md",
+                "file": "Teco/El procesador operaciones básicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Clases y objetos.md",
+                "file": "Teco/El procesador operaciones básicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Clases y objetos.md"
+                "file": "Teco/El procesador operaciones básicas.md"
               }
             }
           },
@@ -182,6 +182,9 @@
   },
   "active": "98d0f3ccd959ae58",
   "lastOpenFiles": [
+    "Teco/Dispositivos fotónicos.md",
+    "Teco/Electrónica analógica y digital.md",
+    "C#/Clases y objetos.md",
     "Ingles/2023-03-20.md",
     "Ingles/2023-02-22.md",
     "Ingles/Inglés.md",
@@ -189,11 +192,8 @@
     "C#/Programación C Sharp.md",
     "C#/C sharp.md",
     "Images/Teco/Desplazamiento aritmetico (derecha).png",
-    "C#/Clases y objetos.md",
     "C#",
-    "Teco/Dispositivos fotónicos.md",
     "Teco/El procesador operaciones básicas.md",
-    "Teco/Electrónica analógica y digital.md",
     "Teco/Elementos del computador.md",
     "Teco/Semiconductores.md",
     "Images/Teco/Vector_memoria.png",
