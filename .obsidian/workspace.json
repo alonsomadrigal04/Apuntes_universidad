@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingles/2023-03-20.md",
+                "file": "C#/Clases y objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingles/2023-03-20.md",
+                "file": "C#/Clases y objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingles/2023-03-20.md"
+                "file": "C#/Clases y objetos.md"
               }
             }
           },
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +180,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da9c5fbba980b6d4",
+  "active": "98d0f3ccd959ae58",
   "lastOpenFiles": [
-    "Ingles/2023-02-22.md",
     "Ingles/2023-03-20.md",
+    "Ingles/2023-02-22.md",
     "Ingles/Inglés.md",
     "Ingles/2023-02-01.md",
     "C#/Programación C Sharp.md",
