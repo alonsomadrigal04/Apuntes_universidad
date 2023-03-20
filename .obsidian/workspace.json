@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Programación C Sharp.md",
+                "file": "Ingles/2023-03-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Programación C Sharp.md",
+                "file": "Ingles/2023-03-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Programación C Sharp.md",
+                "file": "Ingles/2023-03-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Programación C Sharp.md"
+                "file": "Ingles/2023-03-20.md"
               }
             }
           },
@@ -183,10 +183,14 @@
   },
   "active": "da9c5fbba980b6d4",
   "lastOpenFiles": [
+    "Ingles/2023-02-22.md",
+    "Ingles/2023-03-20.md",
+    "Ingles/Inglés.md",
+    "Ingles/2023-02-01.md",
+    "C#/Programación C Sharp.md",
     "C#/C sharp.md",
     "Images/Teco/Desplazamiento aritmetico (derecha).png",
     "C#/Clases y objetos.md",
-    "C#/Programación C Sharp.md",
     "C#",
     "Teco/Dispositivos fotónicos.md",
     "Teco/El procesador operaciones básicas.md",
@@ -206,17 +210,14 @@
     "Diseño 2d/Apuntes.md",
     "Diseño 2d/Diseño 2d.md",
     "Diseño 2d/Tema - 04 Gráfico vectoriales.md",
-    "Ingles/Inglés.md",
     "Diseño 2d",
     "Images/Teco/Niveles de energia.png",
     "Untitled.canvas",
     "Images/Teco",
     "Images",
     "z.md",
-    "Ingles/2023-02-01.md",
     "Ingles/2023-02-06.md",
     "Ingles/2023-02-20.md",
-    "Ingles/2023-02-22.md",
     "Presentación de la asignatura.md"
   ]
 }
