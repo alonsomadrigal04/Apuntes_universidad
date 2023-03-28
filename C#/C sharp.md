@@ -20,3 +20,11 @@ public class ClienteEspecial: Cliente{
 ```
 
 Ahora, ClienteEspecial, tiene todo lo que hay dentro de la clase Cliente. Ahora ClienteEspecial es la "clase heredada" o "clase hijo".
+
+De esta manera se pueden crear "Jerarquías de clases"; 
+![[Jerarquia de clases.png]]
+
+_Ejercicio_
+Forma > Ciuadr 
+Forma >
+Forma >
