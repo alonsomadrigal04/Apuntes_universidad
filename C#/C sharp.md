@@ -25,6 +25,12 @@ De esta manera se pueden crear "Jerarquías de clases";
 ![[Jerarquia de clases.png]]
 
 _Ejercicio_
-Forma > Ciuadr 
-Forma >
-Forma >
+```cs
+
+Forma -> Cuadrado 
+Forma -> Triángulo -> Escaleno 
+Forma -> Triángulo -> Agudo
+Forma -> Pentágono
+
+Animal -> 
+```
