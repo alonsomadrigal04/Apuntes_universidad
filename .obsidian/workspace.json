@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/El procesador Condicionales.md",
+                "file": "C#/C sharp.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/El procesador Condicionales.md",
+                "file": "C#/C sharp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/El procesador Condicionales.md",
+                "file": "C#/C sharp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/El procesador Condicionales.md"
+                "file": "C#/C sharp.md"
               }
             }
           },
@@ -194,10 +194,10 @@
   },
   "active": "191bb41db7780874",
   "lastOpenFiles": [
-    "C#/Clases y objetos.md",
-    "Teco/El procesador Condicionales.md",
     "C#/Programación C Sharp.md",
+    "C#/Clases y objetos.md",
     "C#/C sharp.md",
+    "Teco/El procesador Condicionales.md",
     "Teco/El procesador operaciones básicas.md",
     "Teco/Dispositivos fotónicos.md",
     "Teco/Electrónica analógica y digital.md",
