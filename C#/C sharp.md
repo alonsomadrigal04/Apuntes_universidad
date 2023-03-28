@@ -11,7 +11,7 @@ public class Cliente {
 }
 ```
 
-"Herencia": heredar todas las características que hay dentro de una clase.
+"Herencia": heredar todas las características que hay dentro de una clase. Cliente es la "clase base" o "clase padre".
 
 ```cs
 public class ClienteEspecial: Cliente{
@@ -19,4 +19,4 @@ public class ClienteEspecial: Cliente{
 }
 ```
 
-Ahora, ClienteEspecial, tiene todo lo que hay dentro de la clase Cliente.
+Ahora, ClienteEspecial, tiene todo lo que hay dentro de la clase Cliente. Ahora ClienteEspecial es la "clase heredada" o "clase hijo".
