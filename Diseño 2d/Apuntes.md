@@ -65,4 +65,6 @@ C<sup>n</sup>:
 ---
 
 _Ejercicio 2_
-- No, son simepre enteros
+1. No, son siempre utiliza operaciones con números enteros.
+2.  Efectivamente
+3. 
