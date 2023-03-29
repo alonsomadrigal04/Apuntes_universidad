@@ -69,5 +69,7 @@ _Ejercicio 2_
 2.  Efectivamente
 3. Efectivamente, porque (En el proceso de dibujo de la línea, el algoritmo de Bresenham siempre elige la coordenada de barrido (x o y) para la que el siguiente píxel es el más cercano a la línea ideal)
 4. No, la intención del propio algoritmo es que no pase este tipo de cosas.
-5. No, es o el al lado, o el de arriba del de al lado
-6. 
+5. No, es o él al lado, o el de arriba del de al lado
+6.  Si pues, ya que gracias al parámetro de decisión, se escoge un pixel u otro.
+7. Si, pues si es mayor que cero pintara el de al lado y si es menos que cero se pintara el del arriba del de al lado
+8. 
