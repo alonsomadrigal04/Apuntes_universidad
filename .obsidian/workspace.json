@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/C sharp.md",
+                "file": "Diseño 2d/Apuntes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "436ea96a59123609",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/C sharp.md",
+                "file": "Diseño 2d/Apuntes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/C sharp.md",
+                "file": "Diseño 2d/Apuntes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/C sharp.md"
+                "file": "Diseño 2d/Apuntes.md"
               }
             }
           },
@@ -196,10 +195,10 @@
   },
   "active": "191bb41db7780874",
   "lastOpenFiles": [
+    "C#/C sharp.md",
     "Jerarquia de clases.png",
     "C#/Programación C Sharp.md",
     "C#/Clases y objetos.md",
-    "C#/C sharp.md",
     "Teco/El procesador Condicionales.md",
     "Teco/El procesador operaciones básicas.md",
     "Teco/Dispositivos fotónicos.md",
@@ -226,7 +225,6 @@
     "Diseño 2d/Diseño 2d.md",
     "Diseño 2d/Tema - 04 Gráfico vectoriales.md",
     "Diseño 2d",
-    "Images/Teco/Niveles de energia.png",
     "Untitled.canvas",
     "Images/Teco",
     "Images",
