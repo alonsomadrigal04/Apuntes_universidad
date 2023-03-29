@@ -67,4 +67,6 @@ C<sup>n</sup>:
 _Ejercicio 2_
 1. No, son siempre utiliza operaciones con números enteros.
 2.  Efectivamente
-3. 
+3. Efectivamente, porque (En el proceso de dibujo de la línea, el algoritmo de Bresenham siempre elige la coordenada de barrido (x o y) para la que el siguiente píxel es el más cercano a la línea ideal)
+4. No, la intencion del propio algortimo es que no pase este tipo de cosas.
+5. 
