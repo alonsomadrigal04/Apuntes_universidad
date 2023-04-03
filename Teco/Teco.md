@@ -4,3 +4,4 @@
 - [[Elementos del computador]]
 - [[Dispositivos fotónicos]]
 - [[Electrónica analógica y digital]]
+- [[Subrutinas]]
