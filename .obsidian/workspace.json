@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño 2d/Apuntes.md",
+                "file": "Ingles/Inglés.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño 2d/Apuntes.md",
+                "file": "Ingles/Inglés.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño 2d/Apuntes.md",
+                "file": "Ingles/Inglés.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diseño 2d/Apuntes.md"
+                "file": "Ingles/Inglés.md"
               }
             }
           },
@@ -195,6 +195,8 @@
   },
   "active": "191bb41db7780874",
   "lastOpenFiles": [
+    "Ingles/2023-04-03.md",
+    "Diseño 2d/Apuntes.md",
     "C#/C sharp.md",
     "Jerarquia de clases.png",
     "C#/Programación C Sharp.md",
@@ -221,7 +223,6 @@
     "Images/Teco/Transistor_BJT.png",
     "Images/Teco/Diferentes_regiones_BJT.png",
     "Images/Teco/Caracteristicas_VI.png",
-    "Diseño 2d/Apuntes.md",
     "Diseño 2d/Diseño 2d.md",
     "Diseño 2d/Tema - 04 Gráfico vectoriales.md",
     "Diseño 2d",
