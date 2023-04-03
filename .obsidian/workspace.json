@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Subrutinas.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Subrutinas.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Subrutinas.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Subrutinas.md"
+                "file": "Teco/Dispositivos fotónicos.md"
               }
             }
           },
@@ -207,11 +207,11 @@
   },
   "active": "a0701e927226cb62",
   "lastOpenFiles": [
+    "Teco/Subrutinas.md",
     "Teco/Semiconductores.md",
     "Teco/El procesador Condicionales.md",
     "Teco/Dispositivos fotónicos.md",
     "Teco/Teco.md",
-    "Teco/Subrutinas.md",
     "Teco/Electrónica analógica y digital.md",
     "Teco/El procesador operaciones básicas.md",
     "Teco/Teoría de Circuitos.md",
