@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Subrutinas.md",
+                "file": "C#/Programación C Sharp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ce891112af445d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#/Clases y objetos.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Subrutinas.md",
+                "file": "C#/Clases y objetos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Subrutinas.md",
+                "file": "C#/Clases y objetos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Subrutinas.md"
+                "file": "C#/Clases y objetos.md"
               }
             }
           },
@@ -205,10 +217,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0701e927226cb62",
+  "active": "2ce891112af445d6",
   "lastOpenFiles": [
-    "Teco/Dispositivos fotónicos.md",
+    "C#/Untitled.md",
+    "C#/Programación C Sharp.md",
+    "C#/Clases y objetos.md",
+    "C#/C sharp.md",
     "Teco/Subrutinas.md",
+    "Teco/Dispositivos fotónicos.md",
     "Teco/Semiconductores.md",
     "Teco/El procesador Condicionales.md",
     "Teco/Teco.md",
@@ -219,10 +235,7 @@
     "Ingles/2023-04-03.md",
     "Ingles/Inglés.md",
     "Diseño 2d/Apuntes.md",
-    "C#/C sharp.md",
     "Jerarquia de clases.png",
-    "C#/Programación C Sharp.md",
-    "C#/Clases y objetos.md",
     "Ingles/2023-03-20.md",
     "Ingles/2023-02-22.md",
     "Ingles/2023-02-01.md",
