@@ -4,11 +4,16 @@ Cuando se crea una clase en c# hay que tener en cuenta que esta necesita como mi
 
 Tradicional
 ```cs
-public class MiClase{
+public class MiClase
+{
 	private int variable1;
 	private int variable2;
-	public MiClase(int variable1, int variable2){
-		
+	public MiClase(int variable1, int variable2)
+	{
+		this.variable1 = variable1
+		this.variable2 = variable2
 	}
+	public int variable1{get; set;}
+	public int 
 }
 ```
