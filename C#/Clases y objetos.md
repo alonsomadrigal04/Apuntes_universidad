@@ -13,7 +13,7 @@ public class MiClase
 		this.variable1 = variable1
 		this.variable2 = variable2
 	}
-	public int variable1{get; set;}
+	public int Getvariable1
 	public int 
 }
 ```
