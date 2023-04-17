@@ -22,7 +22,7 @@ Además los procedimientos permiten estructurar el código generando fragmentos 
 			bl cuadrados
 			wfi
 			
-	cuadrados: push {r4 -r6, lr}
+	cuadrados: push {r4 - r6, lr}
 			mov r4, #0
 			mov r6, #0
 			mov r5, #1
@@ -38,5 +38,9 @@ Además los procedimientos permiten estructurar el código generando fragmentos 
 			add r4, r4, #1
 			add r6, r6, #4
 			b bucle 
-	fin:    pop {r4 -}
+	fin:    pop {r4 - r6, pc}
+	square  mul r0, r0
+			mov pc, lr
+			
+			.end
 ```
