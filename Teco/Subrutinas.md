@@ -7,5 +7,11 @@ Además los procedimientos permiten estructurar el código generando fragmentos 
 ---
 ```arm
 			.data
-	vector: .word 
+	matriz: .word 7, 2, 1, 3
+	n:      .word 2
+	m:      .word 2
+	cuadra: .space 16
+			.text
+	main:  
+	
 ```
