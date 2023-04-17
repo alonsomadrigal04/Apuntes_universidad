@@ -6,6 +6,6 @@ Además los procedimientos permiten estructurar el código generando fragmentos 
 - Reciben parámetros, realizan su función y devuelven resultados
 ---
 ```arm
-	.data
-da
+		.data
+vector: .word 
 ```
