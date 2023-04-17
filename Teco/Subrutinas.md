@@ -22,5 +22,11 @@ Además los procedimientos permiten estructurar el código generando fragmentos 
 			bl cuadrados
 			wfi
 			
-			
+	cuadrados: push {r4 -r6, lr}
+			mov r4, #0
+			mov r6, #0
+			mov r5, #1
+			mul r5, r1
+			mul r5, r2
+	bucle
 ```
