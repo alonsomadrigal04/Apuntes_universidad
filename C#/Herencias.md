@@ -34,4 +34,18 @@ Forma -> Pentágono
 
 ### "virtual" y "override"
 ---
-Si un método de una clase es "Virtual", y después se crea hereda (hijo), se heredarán todos los metodos que estarán en la clase. Pero si en una clase que era 
+Si un método de una clase es "Virtual", y después se crea hereda (hijo), se heredarán todos los métodos que estarán en la clase. Pero si en una clase que era "virtual" en la original, pones "override", puedes modificar el método entero, como si fuera otro completamente diferente. El código original del método se borrará.
+```cs
+public class MiClase
+{
+	public MiClase()
+	{
+		 // Constructor
+	}
+	public virtual void Metodo1()
+	{
+		// Acción random
+	}
+	public void Metodo2()<
+}
+```
