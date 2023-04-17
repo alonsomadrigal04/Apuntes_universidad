@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Clases y objetos.md",
+                "file": "Ingles/2023-04-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Clases y objetos.md",
+                "file": "Ingles/2023-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Clases y objetos.md",
+                "file": "Ingles/2023-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Clases y objetos.md"
+                "file": "Ingles/2023-04-17.md"
               }
             }
           },
@@ -219,9 +219,12 @@
   },
   "active": "2ce891112af445d6",
   "lastOpenFiles": [
+    "Ingles/2023-04-03.md",
+    "Ingles/2023-04-17.md",
+    "Ingles/Inglés.md",
+    "C#/Clases y objetos.md",
     "C#/Untitled.md",
     "C#/Programación C Sharp.md",
-    "C#/Clases y objetos.md",
     "C#/C sharp.md",
     "Teco/Subrutinas.md",
     "Teco/Dispositivos fotónicos.md",
@@ -232,8 +235,6 @@
     "Teco/El procesador operaciones básicas.md",
     "Teco/Teoría de Circuitos.md",
     "Teco/Elementos del computador.md",
-    "Ingles/2023-04-03.md",
-    "Ingles/Inglés.md",
     "Diseño 2d/Apuntes.md",
     "Jerarquia de clases.png",
     "Ingles/2023-03-20.md",
