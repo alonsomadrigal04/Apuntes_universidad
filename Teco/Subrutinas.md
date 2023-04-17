@@ -28,5 +28,15 @@ Además los procedimientos permiten estructurar el código generando fragmentos 
 			mov r5, #1
 			mul r5, r1
 			mul r5, r2
-	bucle
+	bucle:  cmp r4, r5
+			bge fin
+			push {r0}
+			ldr r0, [r0, r6]
+			bl square
+			str r0, [r3, r6]
+			pop {r0}
+			add r4, r4, #1
+			add r6, r6, #4
+			b bucle 
+	fin:    pop {r4 -}
 ```
