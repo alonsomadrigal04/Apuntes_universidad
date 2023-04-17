@@ -34,3 +34,4 @@ Forma -> Pentágono
 
 ### "virtual" y "override"
 ---
+Si un método de una clase es "Virtual", y después se crea hereda (hijo), se heredarán todos los metodos que estarán en la clase. Pero si en una clase que era 
