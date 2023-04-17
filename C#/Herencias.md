@@ -26,11 +26,11 @@ De esta manera se pueden crear "Jerarquías de clases";
 
 _Ejercicio_
 ```cs
-
 Forma -> Cuadrado 
 Forma -> Triángulo -> Escaleno 
 Forma -> Triángulo -> Agudo
 Forma -> Pentágono
-
-Animal -> 
 ```
+
+### "virtual" y "override"
+---
