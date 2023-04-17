@@ -46,6 +46,18 @@ public class MiClase
 	{
 		// Acción random
 	}
-	public void Metodo2()<
+	public void Metodo2()
+	{
+		// Acción random
+	}
+}
+
+public class MiClase2 : MiClase
+{
+	// Se asume exactamente igual que Mi clase, no hace falta escribirlo
+	public override void MiMetodo1()
+	{
+			// Esta clase ahora hará otra cosa completamente distinta a "MiMetodo1" en    "MiClase1"
+	}
 }
 ```
