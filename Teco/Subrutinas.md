@@ -12,6 +12,15 @@ Además los procedimientos permiten estructurar el código generando fragmentos 
 	m:      .word 2
 	cuadra: .space 16
 			.text
-	main:  
-	
+	main:   ldr r0, =matriz
+	        ldr r1, n
+	        ldr r1, [r1]
+	        ldr r2, =m
+	        ldr r2, [r2]
+	        ldr r3, =cuadra
+			
+			bl cuadrados
+			wfi
+			
+			
 ```
