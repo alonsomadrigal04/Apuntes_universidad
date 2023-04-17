@@ -5,3 +5,7 @@ Es una herramienta para estructurar el código y facilita la comprensión y faci
 Además los procedimientos permiten estructurar el código generando fragmentos que:
 - Reciben parámetros, realizan su función y devuelven resultados
 ---
+```arm
+	.data
+da
+```
