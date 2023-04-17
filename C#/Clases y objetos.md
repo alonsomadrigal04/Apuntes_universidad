@@ -17,3 +17,11 @@ public class MiClase
 	public int 
 }
 ```
+
+El chulo
+```cs
+public class MiClase
+{
+
+}
+```
