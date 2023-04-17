@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingles/Inglés.md",
+                "file": "Ingles/2023-04-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingles/Inglés.md",
+                "file": "Ingles/2023-04-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingles/Inglés.md",
+                "file": "Ingles/2023-04-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingles/Inglés.md"
+                "file": "Ingles/2023-04-17.md"
               }
             }
           },
@@ -170,9 +170,9 @@
   },
   "active": "2ce891112af445d6",
   "lastOpenFiles": [
+    "Ingles/Inglés.md",
     "Ingles/2023-04-17.md",
     "Ingles/2023-04-03.md",
-    "Ingles/Inglés.md",
     "C#/Clases y objetos.md",
     "C#/Untitled.md",
     "C#/Programación C Sharp.md",
