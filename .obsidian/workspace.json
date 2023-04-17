@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingles/2023-04-17.md",
+                "file": "Teco/Teco.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingles/2023-04-17.md",
+                "file": "Teco/Teco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingles/2023-04-17.md",
+                "file": "Teco/Teco.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingles/2023-04-17.md"
+                "file": "Teco/Teco.md"
               }
             }
           },
@@ -170,9 +170,13 @@
   },
   "active": "2ce891112af445d6",
   "lastOpenFiles": [
+    "Teco/El procesador Condicionales.md",
+    "Teco/Teco.md",
+    "Images/C - Sharp/Jerarquia de clases.png",
+    "Images/C - Sharp",
+    "Ingles/2023-04-17.md",
     "Ingles/2023-03-20.md",
     "Ingles/2023-04-03.md",
-    "Ingles/2023-04-17.md",
     "Ingles/Inglés.md",
     "C#/Clases y objetos.md",
     "C#/Untitled.md",
@@ -181,14 +185,11 @@
     "Teco/Subrutinas.md",
     "Teco/Dispositivos fotónicos.md",
     "Teco/Semiconductores.md",
-    "Teco/El procesador Condicionales.md",
-    "Teco/Teco.md",
     "Teco/Electrónica analógica y digital.md",
     "Teco/El procesador operaciones básicas.md",
     "Teco/Teoría de Circuitos.md",
     "Teco/Elementos del computador.md",
     "Diseño 2d/Apuntes.md",
-    "Jerarquia de clases.png",
     "Ingles/2023-02-22.md",
     "Ingles/2023-02-01.md",
     "Images/Teco/Desplazamiento aritmetico (derecha).png",
@@ -209,7 +210,6 @@
     "Images",
     "z.md",
     "Ingles/2023-02-06.md",
-    "Ingles/2023-02-20.md",
-    "Presentación de la asignatura.md"
+    "Ingles/2023-02-20.md"
   ]
 }

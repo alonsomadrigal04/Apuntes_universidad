@@ -5,3 +5,5 @@
 - [[Dispositivos fotónicos]]
 - [[Electrónica analógica y digital]]
 - [[Subrutinas]]
+- [[El procesador operaciones básicas]]
+- [[el proce]]
