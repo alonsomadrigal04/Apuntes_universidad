@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4eba51f28a509fab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teco/Subrutinas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da9c5fbba980b6d4",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingles/2023-04-17.md",
+                "file": "Teco/Subrutinas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingles/2023-04-17.md",
+                "file": "Teco/Subrutinas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingles/2023-04-17.md"
+                "file": "Teco/Subrutinas.md"
               }
             }
           },
@@ -168,8 +181,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ce891112af445d6",
+  "active": "4eba51f28a509fab",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Ingles/2023-04-17.md",
     "C#/C Sharp.md",
     "C#/Herencias.md",
     "C#/Programación C Sharp.md",
@@ -178,7 +193,6 @@
     "Teco/Teco.md",
     "Images/C - Sharp/Jerarquia de clases.png",
     "Images/C - Sharp",
-    "Ingles/2023-04-17.md",
     "Ingles/2023-03-20.md",
     "Ingles/2023-04-03.md",
     "Ingles/Inglés.md",
