@@ -78,3 +78,4 @@ _Ejercicio 2_
 12. No, son o dos sumas, y en caso de que sea negativo, estas dos y una resta.
 
 # Cuestiones tema Animación
+- Preceso de generación de im
