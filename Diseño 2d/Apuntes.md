@@ -78,4 +78,6 @@ _Ejercicio 2_
 12. No, son o dos sumas, y en caso de que sea negativo, estas dos y una resta.
 
 # Cuestiones tema Animación
-- Preceso de generación de im
+- Proceso de generación de imágenes donde cada imagen es una alteración de su anterior. Y su presentación a una velocidad suficiente da la sensación de movimiento.
+- Fenomeno Phi: 
+- 
