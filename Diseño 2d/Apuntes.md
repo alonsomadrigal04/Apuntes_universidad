@@ -77,3 +77,4 @@ _Ejercicio 2_
 11. Si, la x si P es menos que 0 y ambas si es mayor que cero
 12. No, son o dos sumas, y en caso de que sea negativo, estas dos y una resta.
 
+# Cuestiones tema Animación
