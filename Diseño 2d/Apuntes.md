@@ -80,4 +80,4 @@ _Ejercicio 2_
 # Cuestiones tema Animación
 - Proceso de generación de imágenes donde cada imagen es una alteración de su anterior. Y su presentación a una velocidad suficiente da la sensación de movimiento.
 - Fenomeno Phi: 
-- 
+
