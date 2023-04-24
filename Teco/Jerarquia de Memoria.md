@@ -44,4 +44,4 @@ Ello obliga a implementar una <font color="#8db3e2">jerarquía de memoria</font>
 ![[Jerarquia de Memoria.png]]
 
 ## Memoria Cache
-Lo más próximo al procesodaro 
+Lo más próximo al procesador
