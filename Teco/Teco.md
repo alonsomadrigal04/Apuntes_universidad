@@ -7,3 +7,4 @@
 - [[Subrutinas]]
 - [[El procesador operaciones básicas]]
 - [[El procesador Condicionales]]
+- [[Jerarquia de Memoria]]

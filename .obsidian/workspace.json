@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "30842671c3c2b68a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teco/Jerarquia de Memoria.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da9c5fbba980b6d4",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño 2d/Apuntes.md",
+                "file": "Teco/Jerarquia de Memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño 2d/Apuntes.md",
+                "file": "Teco/Jerarquia de Memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diseño 2d/Apuntes.md"
+                "file": "Teco/Jerarquia de Memoria.md"
               }
             }
           },
@@ -181,8 +193,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4eba51f28a509fab",
+  "active": "30842671c3c2b68a",
   "lastOpenFiles": [
+    "Teco/Electrónica analógica y digital.md",
+    "Teco/Elementos del computador.md",
+    "Teco/Teoría de Circuitos.md",
+    "Teco/Teco.md",
+    "Teco/El procesador operaciones básicas.md",
+    "Teco/El procesador Condicionales.md",
+    "Teco/Jerarquia de Memoria.md",
+    "Diseño 2d/Apuntes.md",
     "Diseño 2d/Diseño 2d.md",
     "Diseño 2d/Tema - 04 Gráfico vectoriales.md",
     "Teco/Subrutinas.md",
@@ -192,8 +212,6 @@
     "C#/Herencias.md",
     "C#/Programación C Sharp.md",
     "C#/Clases y objetos.md",
-    "Teco/El procesador Condicionales.md",
-    "Teco/Teco.md",
     "Images/C - Sharp/Jerarquia de clases.png",
     "Images/C - Sharp",
     "Ingles/2023-03-20.md",
@@ -201,11 +219,6 @@
     "Ingles/Inglés.md",
     "Teco/Dispositivos fotónicos.md",
     "Teco/Semiconductores.md",
-    "Teco/Electrónica analógica y digital.md",
-    "Teco/El procesador operaciones básicas.md",
-    "Teco/Teoría de Circuitos.md",
-    "Teco/Elementos del computador.md",
-    "Diseño 2d/Apuntes.md",
     "Ingles/2023-02-22.md",
     "Ingles/2023-02-01.md",
     "Images/Teco/Desplazamiento aritmetico (derecha).png",
@@ -223,7 +236,6 @@
     "Images/Teco",
     "Images",
     "z.md",
-    "Ingles/2023-02-06.md",
-    "Ingles/2023-02-20.md"
+    "Ingles/2023-02-06.md"
   ]
 }
