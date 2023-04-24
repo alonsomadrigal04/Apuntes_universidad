@@ -59,3 +59,5 @@ Ello obliga a implementar una <font color="#8db3e2">jerarquía de memoria</font>
 ### Dinámica
 DRAM - Para almacenar información se usa un condensador.
 - Como los condensadores presentan pérdidas, es necesario <u>reescribir (refrescar)</u>periódicamente el contenido de las celdas de memoria
+
+
