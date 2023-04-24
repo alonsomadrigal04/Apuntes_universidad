@@ -11,4 +11,8 @@
 - Coste de bit
 - Modos de Acceso
 	- Secuencial: "recorres todos los registros de memoria hasta donde quieres"
-	- Directo: "Simplemente va direcatamente a la información"
+	- Directo: "Simplemente, va directamente la información"
+	- Aleatorio: "el mismo tiempo que tarda en coger en la información independientemente de su posición"
+	- Contenido: "tipo inteligencia artificial"
+
+## Clasificacion de las memorias
