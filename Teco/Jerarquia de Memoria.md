@@ -49,5 +49,7 @@ Ello obliga a implementar una <font color="#8db3e2">jerarquía de memoria</font>
 - Cada bit de las <font color="#8db3e2">palabras</font> de datos constituye una "COLUMNA" de la matriz de celdas de bit.
 ## Organización 3d
 - Contiene 2 decodificadores
-- Una memoria de n líneas de direcciones necesita un descodificador de n · 2<sup>n</sup>, cuyo tamaño crece exponencialemnete al incrementar el numer de lineas de direcciones.
-- Separando las líneas de direcciones en dos bloques, son necesarios dos decodificadores de n/2 x 2n/2, lo cual reduce su tamaño a la raíz cuadrada del original.  Por ejemplo, para una memoria de 1 MB haría falta un decodificador de 20 x 1048576, frente a dos decodificadores de 10 x 1024.
+- Una memoria de n líneas de direcciones necesita un descodificador de n · 2<sup>n</sup>, cuyo tamaño crece exponencialemnete al incrementar el número de líneas de direcciones.
+- Separando las líneas de direcciones en dos bloques, son necesarios dos decodificadores de n/2 x 2<sup>n/2</sup>, lo cual reduce su tamaño a la raíz cuadrada del original.  
+- Por ejemplo, para una memoria de 1 MB haría falta un decodificador de 20 x 1048576, frente a dos decodificadores de 10 x 1024.
+- Busca a través de los dos buses y cuando coincida la información en los dos buses, cogerá la columna correspondiente con la información. Mismo fin y funcionalidad que en 2d, pero en 3d. Simplifica el numero de salidas
