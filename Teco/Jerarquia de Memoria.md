@@ -43,3 +43,5 @@ No habrá en el mercado una memoria con todas las características a la vez.
 Ello obliga a implementar una <font color="#8db3e2">jerarquía de memoria</font>, que consta de diversos niveles de capacidad creciente y velocidad decreciente.
 ![[Jerarquia de Memoria.png]]
 
+## Memoria Cache
+Lo más próximo al procesodaro 
