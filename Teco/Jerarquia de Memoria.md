@@ -56,5 +56,6 @@ Ello obliga a implementar una <font color="#8db3e2">jerarquía de memoria</font>
 
 ## Memoria dinámica y estática
 - Se caracterizan por el elemento empleado para el almacenamiento de la información.
-### Dinamica
-DRAM - Para almacenar informacion 
+### Dinámica
+DRAM - Para almacenar información se usa un condensador.
+- Como los condensadores presentan pérdidas, es necesario <u>reescribir (refrescar)</u>periódicamente el contenido de las celdas de memoria
