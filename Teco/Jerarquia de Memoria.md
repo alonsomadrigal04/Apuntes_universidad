@@ -35,8 +35,11 @@
 
 ## Jerarquía de Memoria
 Parámetros que dependen entre sí dado un sistema de almacenamiento:
-- Tiempo de acceso / tasa de transferencia
-- Capacidad
-- Coste por bit
+<font color="#8db3e2">- Tiempo de acceso / tasa de transferencia</font>
+<font color="#8db3e2">- Capacidad</font>
+<font color="#8db3e2">- Coste por bit</font>
 (Bueno, bonito, barato)
-<sub>No habrá en el mercado una memoria con todas las características a la vez.</sub>
+No habrá en el mercado una memoria con todas las características a la vez.
+Ello obliga a implementar una <font color="#8db3e2">jerarquía de memoria</font>, que consta de diversos niveles de capacidad creciente y velocidad decreciente.
+![[Jerarquia de Memoria.png]]
+
