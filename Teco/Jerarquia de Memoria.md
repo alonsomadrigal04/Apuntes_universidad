@@ -43,5 +43,6 @@ No habrá en el mercado una memoria con todas las características a la vez.
 Ello obliga a implementar una <font color="#8db3e2">jerarquía de memoria</font>, que consta de diversos niveles de capacidad creciente y velocidad decreciente.
 ![[Jerarquia de Memoria.png]]
 
-## Memoria Cache
-Lo más próximo al procesador
+## Organización 2d
+- La memoria se conecta al procesador mediante <u>buses de direcciones (en que direccion estan los datos) y datos (que dato vamos a leer o escribir)</u>. 
+- 
