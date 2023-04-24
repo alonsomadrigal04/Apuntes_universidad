@@ -47,3 +47,7 @@ Ello obliga a implementar una <font color="#8db3e2">jerarquía de memoria</font>
 - La memoria se conecta al procesador mediante <u>buses de direcciones (en que direccion estan los datos) y datos (que dato vamos a leer o escribir)</u>. 
 - Esta estructura da lugar a una organización de fila y columnas. "FILA"; contiene una <font color="#8db3e2">palabra</font>.
 - Cada bit de las <font color="#8db3e2">palabras</font> de datos constituye una "COLUMNA" de la matriz de celdas de bit.
+## Organización 3d
+- Contiene 2 decodificadores
+- Una memoria de n líneas de direcciones necesita un descodificador de n · 2<sup>n</sup>, cuyo tamaño crece exponencialemnete al incrementar el numer de lineas de direcciones.
+- Separando las líneas de direcciones en dos bloques, son necesarios dos decodificadores de n/2 x 2n/2, lo cual reduce su tamaño a la raíz cuadrada del original.  Por ejemplo, para una memoria de 1 MB haría falta un decodificador de 20 x 1048576, frente a dos decodificadores de 10 x 1024.
