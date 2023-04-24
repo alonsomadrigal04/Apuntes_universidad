@@ -45,4 +45,5 @@ Ello obliga a implementar una <font color="#8db3e2">jerarquía de memoria</font>
 
 ## Organización 2d
 - La memoria se conecta al procesador mediante <u>buses de direcciones (en que direccion estan los datos) y datos (que dato vamos a leer o escribir)</u>. 
-- Esta estructura da lugar a una organización de fila y columnas. "FILA"; 
+- Esta estructura da lugar a una organización de fila y columnas. "FILA"; contiene una <font color="#8db3e2">palabra</font>.
+- Cada bit de las <font color="#8db3e2">palabras</font> de datos constituye una "COLUMNA" de la matriz de celdas de bit.
