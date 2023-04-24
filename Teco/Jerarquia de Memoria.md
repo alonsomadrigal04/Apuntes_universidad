@@ -33,4 +33,10 @@
 <font color="#92cddc">	- Escribible</font>
 <font color="#92cddc">	- ROM</font>
 
-## Jerar
+## Jerarquía de Memoria
+Parámetros que dependen entre sí dado un sistema de almacenamiento:
+- Tiempo de acceso / tasa de transferencia
+- Capacidad
+- Coste por bit
+(Bueno, bonito, barato)
+<sub>No habrá en el mercado una memoria con todas las características a la vez.</sub>
