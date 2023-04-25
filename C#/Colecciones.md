@@ -45,4 +45,9 @@ Todos los objetos que se almacenen deben ser de tipo <u>T</u>. Esto es llamado (
 List<int>  almacen = new List<int>();  // Crea una Lista vacía de int
 
 List<string> otroAlmacen = new List<string>(40); //List de 40 posiciones iniciales para strings
+
+int v = almacen[0];        // v tendrá el valor 3.
+almacen.Remove(8);         // Elimina de la Lista el entero 8
+int numElementos = almacen.Count;      // Devuelve el valor 2
 ```
+<u>Contains e IndexOf</u> funcionan de la misma manera que [[#ArrayList]]
