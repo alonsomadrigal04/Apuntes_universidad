@@ -61,4 +61,16 @@ almacen.Sort();
 // almacen contiene, por orden numérico, los elementos -21,-1,-1,3,4,15
 ```
 
-Pero sí decimos que ordene una lista de obgetos no típicos, se hace de la siguiente forma:
+Pero sí decimos que ordene una lista de objetos no típicos, se hace de la siguiente forma:
+OPCION 1:
+	La clase T especifica el criterio de cómo se ordena un objeto de tipo T con respecto a otro objeto también de tipo T.
+
+  
+
+Para ello la clase T debe implementar el interfaz IComparable<T>.
+
+  
+
+Este interfaz especifica un único método, que tiene el siguiente perfil:
+
+**
