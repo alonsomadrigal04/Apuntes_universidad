@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Jerarquia de Memoria.md",
+                "file": "C#/Herencias.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "436ea96a59123609",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Jerarquia de Memoria.md",
+                "file": "C#/Herencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Jerarquia de Memoria.md",
+                "file": "C#/Herencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Jerarquia de Memoria.md"
+                "file": "C#/Herencias.md"
               }
             }
           },
@@ -196,8 +195,9 @@
   },
   "active": "30842671c3c2b68a",
   "lastOpenFiles": [
-    "Jerarquia de Memoria.png",
+    "C#/Programación C Sharp.md",
     "Teco/Jerarquia de Memoria.md",
+    "Jerarquia de Memoria.png",
     "Teco/Electrónica analógica y digital.md",
     "Teco/Elementos del computador.md",
     "Teco/Teoría de Circuitos.md",
@@ -212,7 +212,6 @@
     "Ingles/2023-04-17.md",
     "C#/C Sharp.md",
     "C#/Herencias.md",
-    "C#/Programación C Sharp.md",
     "C#/Clases y objetos.md",
     "Images/C - Sharp/Jerarquia de clases.png",
     "Images/C - Sharp",
@@ -232,7 +231,6 @@
     "Images/Teco/Diodo_real.png",
     "Images/Teco/Transistor_BJT.png",
     "Images/Teco/Diferentes_regiones_BJT.png",
-    "Images/Teco/Caracteristicas_VI.png",
     "Diseño 2d",
     "Untitled.canvas",
     "Images/Teco",
