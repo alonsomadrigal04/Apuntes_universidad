@@ -50,4 +50,4 @@ int v = almacen[0];        // v tendrá el valor 3.
 almacen.Remove(8);         // Elimina de la Lista el entero 8
 int numElementos = almacen.Count;      // Devuelve el valor 2
 ```
-<u>Contains e IndexOf</u> funcionan de la misma manera que [[#ArrayList]]
+<u>Contains e IndexOf</u> funcionan de la misma manera que [[#ArrayList]].
