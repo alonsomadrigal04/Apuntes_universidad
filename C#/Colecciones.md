@@ -53,4 +53,12 @@ int numElementos = almacen.Count;      // Devuelve el valor 2
 <u>Contains e IndexOf</u> funcionan de la misma manera que [[#ArrayList]].
 
 ### Short
-ES UN METODO QUE PUTO ORDENA
+ES UN MÉTODO QUÉ PUTO ORDENA
+```cs
+almacen.Add(4); almacen.Add(-21); almacen.Add(15); almacen.Add(-1);
+// almacen contiene, por orden de insercción, los elementos 3,-1,4,-21,15,-1
+almacen.Sort();
+// almacen contiene, por orden numérico, los elementos -21,-1,-1,3,4,15
+```
+
+Pero sí decimos que ordene una lista de obgetos no típicos, se hace de la siguiente forma:
