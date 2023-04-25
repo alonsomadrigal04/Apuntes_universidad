@@ -19,3 +19,4 @@ almacen.Add(false);
 almacen.Add("string");
 ```
 
+<center>Casting</center>
