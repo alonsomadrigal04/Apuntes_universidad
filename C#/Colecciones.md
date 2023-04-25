@@ -20,3 +20,8 @@ almacen.Add("string");
 ```
 
 <center>Casting</center>
+```cs
+Pelota v = almacen [0] // No va ha funcionar, por que asi no es fa
+
+Pelota v = (Pelota)
+```
