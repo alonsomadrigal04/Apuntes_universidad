@@ -52,3 +52,5 @@ int numElementos = almacen.Count;      // Devuelve el valor 2
 ```
 <u>Contains e IndexOf</u> funcionan de la misma manera que [[#ArrayList]].
 
+### Short
+ES UN METODO QUE PUTO ORDENA
