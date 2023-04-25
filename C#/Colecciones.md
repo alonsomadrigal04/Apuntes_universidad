@@ -18,3 +18,4 @@ almacen.Add(p);
 almacen.Add(false);
 almacen.Add("string");
 ```
+
