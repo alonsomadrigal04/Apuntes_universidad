@@ -64,13 +64,6 @@ almacen.Sort();
 Pero sí decimos que ordene una lista de objetos no típicos, se hace de la siguiente forma:
 OPCION 1:
 	La clase T especifica el criterio de cómo se ordena un objeto de tipo T con respecto a otro objeto también de tipo T.
-
-  
-
-Para ello la clase T debe implementar el interfaz IComparable<T>.
-
-  
-
-Este interfaz especifica un único método, que tiene el siguiente perfil:
-
-**
+	Para ello, la clase T debe implementar la interfaz <font color="#c00000">IComparableT.</font>
+	Esta interfaz especifica un único método, que tiene el siguiente perfil:
+	**public int CompareTo(T t)**
