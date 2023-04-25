@@ -39,4 +39,10 @@ int pos = almacen.IndexOf(2.45f);      // pos vale -1.**
 
 ## List 
 Es muy parecido al arrayList anterior, pero con una restricción adicional:
-Todos los objetos que se almacenen deben ser de tipo <u>T</u>. Esto es llamado (Type Safe)
+Todos los objetos que se almacenen deben ser de tipo <u>T</u>. Esto es llamado (Type Safe) 
+```cs 
+// Operaciones básicas
+List<int>  almacen = new List<int>();  // Crea una Lista vacía de int
+
+List<string> otroAlmacen = new List<string>(40); //List de 40 posiciones iniciales para strings
+```
