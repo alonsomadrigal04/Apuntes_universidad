@@ -48,7 +48,7 @@ List<string> otroAlmacen = new List<string>(40); //List de 40 posiciones inicial
 
 int v = almacen[0];        // v tendrá el valor 3.
 almacen.Remove(8);         // Elimina de la Lista el entero 8
-int numElementos = almacen.Count;      // Devuelve el valor 2
+int numElementos = almacen.Count;      // e lo mimoh que poneh punto length parah las cadena y arrays
 ```
 <u>Contains e IndexOf</u> funcionan de la misma manera que [[#ArrayList]].
 
