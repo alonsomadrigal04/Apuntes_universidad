@@ -47,8 +47,12 @@
             "id": "5f4dc6e300ef8b03",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C#/Herencias.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C#/Herencias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C#/Herencias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +173,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C#/Herencias.md"
+              }
             }
           },
           {
@@ -199,9 +207,11 @@
   },
   "active": "5f4dc6e300ef8b03",
   "lastOpenFiles": [
-    "C#/Colecciones.md",
-    "C#/Herencias.md",
     "C#/Programación C Sharp.md",
+    "C#/Herencias.md",
+    "C#/C Sharp.md",
+    "C#/Clases y objetos.md",
+    "C#/Colecciones.md",
     "Teco/Jerarquia de Memoria.md",
     "Jerarquia de Memoria.png",
     "Teco/Electrónica analógica y digital.md",
@@ -216,8 +226,6 @@
     "Teco/Subrutinas.md",
     "Untitled.md",
     "Ingles/2023-04-17.md",
-    "C#/C Sharp.md",
-    "C#/Clases y objetos.md",
     "Images/C - Sharp/Jerarquia de clases.png",
     "Images/C - Sharp",
     "Ingles/2023-03-20.md",
