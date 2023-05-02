@@ -67,3 +67,6 @@ OPCION 1:
 	Para ello, la clase T debe implementar la interfaz <font color="#c00000">IComparableT.</font>
 	Esta interfaz especifica un único método, que tiene el siguiente perfil:
 	**public int CompareTo(T t)**
+
+
+
