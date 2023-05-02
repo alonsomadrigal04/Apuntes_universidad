@@ -70,3 +70,7 @@ OPCION 1:
 
 
 
+
+
+## Cola
+Colección de datos que funciona como una cola convencional, cuando alguien sale, siempre es el
