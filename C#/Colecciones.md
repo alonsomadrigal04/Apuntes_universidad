@@ -81,3 +81,7 @@ Colección de datos que funciona como una cola convencional, cuando alguien sale
 ### Funciones
 .Peek(); Mirar el primero de la cola sin tener que sacarlo.
 .Clear(); Borra todos los elementos de la cola.
+
+## Pila
+Solo permite añadir elementos y extraerlos por un único extremo.
+
