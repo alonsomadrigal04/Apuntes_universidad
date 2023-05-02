@@ -73,4 +73,11 @@ OPCION 1:
 
 
 ## Cola
-Colección de datos que funciona como una cola convencional, cuando alguien sale, siempre es el
+Colección de datos que funciona como una cola convencional, cuando alguien sale, siempre es el primero de la cola. <u>Funciona como una cola</u>.
+
+```cs
+.Enq
+```
+### Funciones
+.Peek(); Mirar el primero de la cola sin tener que sacarlo.
+.Clear(); Borra todos los elementos de la cola.
