@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "741e0b50c6e168b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teco/Examen TECO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Colecciones.md",
+                "file": "Teco/Examen TECO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Colecciones.md",
+                "file": "Teco/Examen TECO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Colecciones.md"
+                "file": "Teco/Examen TECO.md"
               }
             }
           },
@@ -156,19 +169,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f4dc6e300ef8b03",
+  "active": "741e0b50c6e168b5",
   "lastOpenFiles": [
+    "Teco/Teco.md",
+    "Teco/Examen TECO.md",
+    "C#/Colecciones.md",
     "C#/Herencias.md",
     "C#/Programación C Sharp.md",
     "C#/C Sharp.md",
     "C#/Clases y objetos.md",
-    "C#/Colecciones.md",
     "Teco/Jerarquia de Memoria.md",
     "Jerarquia de Memoria.png",
     "Teco/Electrónica analógica y digital.md",
     "Teco/Elementos del computador.md",
     "Teco/Teoría de Circuitos.md",
-    "Teco/Teco.md",
     "Teco/El procesador operaciones básicas.md",
     "Teco/El procesador Condicionales.md",
     "Diseño 2d/Apuntes.md",
@@ -198,7 +212,6 @@
     "Diseño 2d",
     "Untitled.canvas",
     "Images/Teco",
-    "Images",
-    "z.md"
+    "Images"
   ]
 }
