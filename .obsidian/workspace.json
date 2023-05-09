@@ -30,9 +30,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fdb0dee4bdec16a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
+          },
+          {
+            "id": "53b2f351eff1e175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C#/Complejidad Computacional.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,6 +99,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "c893af7045c81dfd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Examen TECO.md",
+                "file": "C#/Complejidad Computacional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Examen TECO.md",
+                "file": "C#/Complejidad Computacional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Examen TECO.md"
+                "file": "C#/Complejidad Computacional.md"
               }
             }
           },
@@ -169,8 +199,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "741e0b50c6e168b5",
+  "active": "53b2f351eff1e175",
   "lastOpenFiles": [
+    "C#/Complejidad Computacional.md",
     "Teco/Teco.md",
     "Teco/Examen TECO.md",
     "C#/Colecciones.md",
@@ -199,7 +230,6 @@
     "Teco/Dispositivos fotónicos.md",
     "Teco/Semiconductores.md",
     "Ingles/2023-02-22.md",
-    "Ingles/2023-02-01.md",
     "Images/Teco/Desplazamiento aritmetico (derecha).png",
     "C#",
     "Images/Teco/Vector_memoria.png",
