@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C#/Complejidad Computacional.md",
+                "file": "Teco/Semiconductores.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Complejidad Computacional.md",
+                "file": "Teco/Semiconductores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C#/Complejidad Computacional.md",
+                "file": "Teco/Semiconductores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C#/Complejidad Computacional.md"
+                "file": "Teco/Semiconductores.md"
               }
             }
           },
@@ -201,21 +201,23 @@
   },
   "active": "53b2f351eff1e175",
   "lastOpenFiles": [
+    "Teco/Dispositivos fotónicos.md",
+    "Teco/El procesador Condicionales.md",
+    "Teco/El procesador operaciones básicas.md",
+    "Teco/Elementos del computador.md",
+    "Teco/Semiconductores.md",
+    "Teco/Jerarquia de Memoria.md",
+    "Teco/Examen TECO.md",
+    "Teco/Electrónica analógica y digital.md",
     "C#/Complejidad Computacional.md",
     "Teco/Teco.md",
-    "Teco/Examen TECO.md",
     "C#/Colecciones.md",
     "C#/Herencias.md",
     "C#/Programación C Sharp.md",
     "C#/C Sharp.md",
     "C#/Clases y objetos.md",
-    "Teco/Jerarquia de Memoria.md",
     "Jerarquia de Memoria.png",
-    "Teco/Electrónica analógica y digital.md",
-    "Teco/Elementos del computador.md",
     "Teco/Teoría de Circuitos.md",
-    "Teco/El procesador operaciones básicas.md",
-    "Teco/El procesador Condicionales.md",
     "Diseño 2d/Apuntes.md",
     "Diseño 2d/Diseño 2d.md",
     "Diseño 2d/Tema - 04 Gráfico vectoriales.md",
@@ -227,8 +229,6 @@
     "Ingles/2023-03-20.md",
     "Ingles/2023-04-03.md",
     "Ingles/Inglés.md",
-    "Teco/Dispositivos fotónicos.md",
-    "Teco/Semiconductores.md",
     "Ingles/2023-02-22.md",
     "Images/Teco/Desplazamiento aritmetico (derecha).png",
     "C#",
