@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Electrónica analógica y digital.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Electrónica analógica y digital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Semiconductores.md",
+                "file": "Teco/Electrónica analógica y digital.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Semiconductores.md"
+                "file": "Teco/Electrónica analógica y digital.md"
               }
             }
           },
@@ -202,9 +202,9 @@
   "active": "53b2f351eff1e175",
   "lastOpenFiles": [
     "Teco/Teco.md",
+    "Teco/Semiconductores.md",
     "Teco/Subrutinas.md",
     "Teco/Jerarquia de Memoria.md",
-    "Teco/Semiconductores.md",
     "Teco/Dispositivos fotónicos.md",
     "Teco/El procesador Condicionales.md",
     "Teco/El procesador operaciones básicas.md",
