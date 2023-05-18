@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Electrónica analógica y digital.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Electrónica analógica y digital.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Electrónica analógica y digital.md",
+                "file": "Teco/Dispositivos fotónicos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Electrónica analógica y digital.md"
+                "file": "Teco/Dispositivos fotónicos.md"
               }
             }
           },
@@ -202,6 +202,7 @@
   },
   "active": "53b2f351eff1e175",
   "lastOpenFiles": [
+    "Teco/Electrónica analógica y digital.md",
     "Teco/Teco.md",
     "Teco/Semiconductores.md",
     "Teco/Subrutinas.md",
@@ -211,7 +212,6 @@
     "Teco/El procesador operaciones básicas.md",
     "Teco/Elementos del computador.md",
     "Teco/Examen TECO.md",
-    "Teco/Electrónica analógica y digital.md",
     "C#/Complejidad Computacional.md",
     "C#/Colecciones.md",
     "C#/Herencias.md",
