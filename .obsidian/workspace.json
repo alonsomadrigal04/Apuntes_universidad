@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teco/Dispositivos fotónicos.md",
+                "file": "Teco/Semiconductores.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teco/Dispositivos fotónicos.md",
+                "file": "Teco/Semiconductores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teco/Dispositivos fotónicos.md",
+                "file": "Teco/Semiconductores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teco/Dispositivos fotónicos.md"
+                "file": "Teco/Semiconductores.md"
               }
             }
           },
@@ -202,16 +202,16 @@
   },
   "active": "53b2f351eff1e175",
   "lastOpenFiles": [
+    "Teco/Subrutinas.md",
     "Teco/Semiconductores.md",
     "Teco/Jerarquia de Memoria.md",
-    "Teco/Dispositivos fotónicos.md",
+    "Teco/Examen TECO.md",
+    "Teco/Elementos del computador.md",
     "Teco/Electrónica analógica y digital.md",
-    "Teco/Teco.md",
-    "Teco/Subrutinas.md",
+    "Teco/Dispositivos fotónicos.md",
     "Teco/El procesador Condicionales.md",
     "Teco/El procesador operaciones básicas.md",
-    "Teco/Elementos del computador.md",
-    "Teco/Examen TECO.md",
+    "Teco/Teco.md",
     "C#/Complejidad Computacional.md",
     "C#/Colecciones.md",
     "C#/Herencias.md",
