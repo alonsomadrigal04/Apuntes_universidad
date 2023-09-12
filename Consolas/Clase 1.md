@@ -25,3 +25,5 @@ Teorema DeMorgan;
 ![[teorema DeMorgan_2.png]]
 
 ![[teorema DeMorgan_1.png]]
+
+TEngo que coger la tabla de verdad, buscar los 1's, si estan a 0 las niego, 
