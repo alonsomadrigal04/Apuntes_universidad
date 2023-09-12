@@ -31,3 +31,4 @@ Tengo que coger la tabla de verdad, buscar los 1's, si están a 0 las niego.
 En el resultado, si se niega varias veces la misma operación se "economiza", reutilizas la operación y cuesta menos. 
 ### El mapa de Karnaugh
 "Marcar las casillas que se corresponden con sus consecuentes"
+
