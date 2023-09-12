@@ -15,4 +15,7 @@ Las operaciones son simplemente orientativas, además es importante saber que NO
 ![[and.png]]
 
 ---
-"Combinacional, el resultado de salida depende de una combinación de elementos dentro del transistor lógico"
+"Combinacional, el resultado de salida depende de una combinación de elementos dentro del transistor lógico, no existe el concepto tiempo, simplemente cuando se activa se da."
+(A+(B+C))((B+C)(CD)) // (negación de A)
+
+
