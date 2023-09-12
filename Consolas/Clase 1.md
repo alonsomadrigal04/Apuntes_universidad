@@ -21,4 +21,7 @@ Las operaciones son simplemente orientativas, además es importante saber que NO
 Se cumplen las propiedades; **Conmutativa**, **Asociativa**, **Distributivas**
 
 
-Teo
+Teorema DeMorgan;
+![[teorema DeMorgan_2.png]]
+
+![[teorema DeMorgan_1.png]]
