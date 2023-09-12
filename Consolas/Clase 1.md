@@ -7,8 +7,11 @@ Operaciones básicas:
 "triangulo; información""circulo negación"
 ![[not 1.png]]
 
+Las operaciones son simplemente orientativas, además es importante saber que NO es SUMAR bits
 <center>Or</center>
-
 ![[or.png]]
 
-AND
+<center>AND</center>
+![[and.png]]
+
+---
