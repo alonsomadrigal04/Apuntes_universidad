@@ -21,9 +21,10 @@ Las operaciones son simplemente orientativas, además es importante saber que NO
 Se cumplen las propiedades; **Conmutativa**, **Asociativa**, **Distributivas**
 
 
-Teorema DeMorgan;
+### Teorema DeMorgan;
 ![[teorema DeMorgan_2.png]]
 
 ![[teorema DeMorgan_1.png]]
 
-TEngo que coger la tabla de verdad, buscar los 1's, si estan a 0 las niego, 
+### Formas Estandar
+Tengo que coger la tabla de verdad, buscar los 1's, si están a 0 las niego, 
