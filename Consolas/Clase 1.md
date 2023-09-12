@@ -15,3 +15,4 @@ Las operaciones son simplemente orientativas, además es importante saber que NO
 ![[and.png]]
 
 ---
+"Combinacional, el resultado de salida depende de una combinación de elementos dentro del transistor lógico"
