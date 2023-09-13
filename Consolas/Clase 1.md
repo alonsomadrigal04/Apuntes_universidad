@@ -35,6 +35,14 @@ En el resultado, si se niega varias veces la misma operación se "economiza", re
 
 | A   | B   | C   | Salida |
 | --- | --- | --- | ------ |
-|     |     |     |        |
-|     |     |     |        |
+| 0   | 0   | 0   | 1      |
+| 1   | 0   | 1   | 0      |
+|   1  | 0   | 0   | 1      |
+| 0   | 0   | 0   | 0      |
+| 1   | 0   | 0   | 0      |
+| 1   | 0   | 1   | 1      |
+| 1   | 0   | 0   | 0      |
+| 0   | 1   | 0   | 1      |
+
+
 
