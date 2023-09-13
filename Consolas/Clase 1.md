@@ -32,3 +32,9 @@ En el resultado, si se niega varias veces la misma operación se "economiza", re
 ### El mapa de Karnaugh
 "Marcar las casillas que se corresponden con sus consecuentes"
 ""
+
+| A   | B   | C   | Salida |
+| --- | --- | --- | ------ |
+|     |     |     |        |
+|     |     |     |        |
+
