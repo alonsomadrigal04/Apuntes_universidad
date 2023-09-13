@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cbb818106b5d9059",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,6 +180,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "69ea86c1e47089b9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -190,7 +210,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3769bb9f18c4f88a",
+  "active": "cbb818106b5d9059",
   "lastOpenFiles": [
     "teorema DeMorgan_1.png",
     "teorema DeMorgan_2.png",
