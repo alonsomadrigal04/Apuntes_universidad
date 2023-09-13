@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31a78cbe93ca34b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blender.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "436ea96a59123609",
@@ -119,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Consolas/Clase 1.md",
+                "file": "Blender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Consolas/Clase 1.md",
+                "file": "Blender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Consolas/Clase 1.md"
+                "file": "Blender.md"
               }
             }
           },
@@ -200,17 +211,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3769bb9f18c4f88a",
+  "active": "31a78cbe93ca34b5",
   "lastOpenFiles": [
-    "teorema DeMorgan_1.png",
-    "teorema DeMorgan_2.png",
-    "and.png",
-    "or.png",
-    "not 1.png",
-    "not.png",
+    "Images/not.png",
+    "Images/and.png",
+    "Blender.md",
+    "Consolas/Clase 1.md",
+    "Images/teorema DeMorgan_1.png",
+    "Images/teorema DeMorgan_2.png",
+    "Images/or.png",
+    "Images/not 1.png",
     "Consolas",
     "Empresas/Empresas.md",
-    "Consolas/Clase 1.md",
     "Teco/Jerarquia de Memoria.png",
     "C#/Colecciones.md",
     "Empresas",
@@ -237,11 +249,9 @@
     "Ingles/2023-04-17.md",
     "Images/C - Sharp/Jerarquia de clases.png",
     "Images/C - Sharp",
-    "Ingles/2023-03-20.md",
     "Images/Teco/Desplazamiento aritmetico (derecha).png",
     "C#",
     "Images/Teco/Vector_memoria.png",
-    "Images/Teco/S_H.png",
     "Diseño 2d",
     "Untitled.canvas",
     "Images/Teco",
