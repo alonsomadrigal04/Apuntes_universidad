@@ -42,19 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cbb818106b5d9059",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -210,7 +200,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cbb818106b5d9059",
+  "active": "3769bb9f18c4f88a",
   "lastOpenFiles": [
     "teorema DeMorgan_1.png",
     "teorema DeMorgan_2.png",
