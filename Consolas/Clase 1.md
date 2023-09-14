@@ -47,8 +47,9 @@ En el resultado, si se niega varias veces la misma operación se "economiza", re
 
 | AB/C | 1   | 0   |
 | ---- | --- | --- |
-| 00   |     |     |
-| 01   |     |     |
-| 11   |     |     |
-| 10   |     |     |
+| 00   |     | <font color="#ffff00">1</font>   |
+| 01   |     | <font color="#ffff00">1</font>   |
+| 11   | <font color="#ffff00">1</font>   |     |
+| 10   | <font color="#ffff00">1</font>   |     |
+
 
