@@ -45,6 +45,10 @@ En el resultado, si se niega varias veces la misma operación se "economiza", re
 | 1   | 1   | 1   | 1      | ABC       |
 
 
-
-
+| AB/C | 1   | 0   |
+| ---- | --- | --- |
+| 00   |     |     |
+| 01   |     |     |
+| 11   |     |     |
+| 10   |     |     |
 
