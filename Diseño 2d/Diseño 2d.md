@@ -1,3 +1,0 @@
-----
-- [[Apuntes]]
-- [[Tema - 04 Gráfico vectoriales]]

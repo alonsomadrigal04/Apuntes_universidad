@@ -1,0 +1,11 @@
+## Temas
+- [[Teoría de Circuitos]]
+- [[Semiconductores]]
+- [[Elementos del computador]]
+- [[Dispositivos fotónicos]]
+- [[Electrónica analógica y digital]]
+- [[Subrutinas]]
+- [[El procesador operaciones básicas]]
+- [[El procesador Condicionales]]
+- [[Jerarquia de Memoria]]
+- [[Examen TECO]]

@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "51dfa3fdbcf28776",
+        "id": "4cd23d06c316b6e4",
         "type": "tabs",
         "children": [
           {
-            "id": "31a78cbe93ca34b5",
+            "id": "32b0afbb9027f782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Empresas/Clase - 2 (Tema 3).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81cd6c822bc904f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ingles/1c1 - 2nd try/Adjectives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc87469379a94822",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Empresas/Clase - 3 (Tema 4).md",
+                "file": "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,23 +48,7 @@
             }
           },
           {
-            "id": "ab053b4203611a9e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "c893af7045c81dfd",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "ee5ad29fb44028a0",
+            "id": "7ca9da303cd55ca4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -97,13 +56,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "155687f7bc241c0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 397.5
+    "width": 394.5
   },
   "right": {
     "id": "436ea96a59123609",
@@ -119,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Empresas/Clase - 3 (Tema 4).md",
+                "file": "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Empresas/Clase - 3 (Tema 4).md",
+                "file": "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Empresas/Clase - 3 (Tema 4).md"
+                "file": "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md"
               }
             }
           },
@@ -200,53 +167,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc87469379a94822",
+  "active": "32b0afbb9027f782",
   "lastOpenFiles": [
+    "Images/Algoritmos/Cola.svg",
+    "Images/Algoritmos/LISTA ENLAZADA.svg",
+    "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
+    "2 Año/Algoritmos/Untitled Diagram.svg",
+    "2023-10-03.md",
+    "Images/Algoritmos/Merge-sort-example-300px.gif",
+    "Images/Algoritmos/Insertion-sort-example-300px.gif",
+    "Images/Algoritmos/Untitled Diagram.svg",
+    "Images/Algoritmos/Selection-Sort-Animation.gif",
+    "Images/Algoritmos/Untitled Diagram 1.svg",
+    "2 Año/Algoritmos/Clase - 2.md",
+    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
+    "2 Año/Algoritmos/Clase - 1.md",
+    "Images/Algoritmos/Bubble-sort-example-300px.gif",
+    "Images/Algoritmos/Bubble-sort-example-300px.gif.opdownload",
+    "Images/Algoritmos/1_3lEL82yCH_-iaq46dji91w.gif",
+    "Images/Algoritmos/1_3lEL82yCH_-iaq46dji91w.gif.opdownload",
+    "Images/Algoritmos/Merge-sort-example-300px.gif.opdownload",
     "Ingles/1c1 - 2nd try/Adjectives.md",
-    "Empresas/Clase - 3 (Tema 4).md",
-    "Ingles/1c1 - 2nd try/2023-10-02.md",
+    "Ingles/Inglés.md",
+    "1 Año/Diseño 2d/Apuntes.md",
+    "1 Año/C#/Complejidad Computacional.md",
+    "1 Año/Diseño 2d/Tema - 04 Gráfico vectoriales.md",
+    "1 Año/Diseño 2d/Diseño 2d.md",
+    "1 Año/C.md",
     "Ingles/1c1 - 2nd try/2023-09-27.md",
-    "Algoritmos/Clase - 2.md",
-    "Algoritmos/Algoritmos - Clase 1.md",
-    "Algoritmos/Untitled Diagram 1.svg",
-    "Algoritmos/Untitled Diagram.svg",
-    "Algoritmos/C ++.md",
-    "Images/Selection-Sort-Animation.gif",
-    "Untitled.canvas",
-    "Images/Insertion-sort-example-300px.gif",
+    "Ingles/1c1 - 2nd try/2023-10-02.md",
     "Ingles/1c1 - 1st try/2023-02-01.md",
+    "Images/Consolas/teorema DeMorgan_2.png",
+    "Images/Algoritmos",
+    "Images/Consolas",
+    "Untitled.canvas",
+    "2 Año",
+    "1 Año",
+    "2 Año/Empresas/Clase - 3 (Tema 4).md",
+    "Algoritmos/C ++.md",
     "Ingles/1c1 - 1st try",
-    "Empresas/Clase - 2 (Tema 3).md",
+    "2 Año/Empresas/Clase - 2 (Tema 3).md",
     "Ingles/1c1 - 2nd try",
-    "Empresas/Empresas.md",
-    "Empresas/Clase - 1.md",
+    "2 Año/Empresas/Empresas.md",
+    "2 Año/Empresas/Clase - 1.md",
     "Algoritmos/Untitled Diagram 3.svg.md",
-    "C#/Colecciones.md",
-    "Algoritmos/Untitled Diagram 3.svg",
-    "Algoritmos/Untitled Diagram 2.svg",
-    "Consolas/Clase - 2.md",
-    "Consolas/Clase 1.md",
-    "C#/Clases y objetos.md",
-    "C#/C Sharp.md",
-    "Diseño 2d/Tema - 04 Gráfico vectoriales.md",
-    "Diseño 2d/Diseño 2d.md",
-    "Diseño 2d/Apuntes.md",
-    "Blender.md",
-    "Algoritmos",
-    "Images/not.png",
-    "Images/and.png",
-    "Images/teorema DeMorgan_1.png",
-    "Consolas",
-    "Empresas",
-    "Teco/Examen TECO.md",
-    "Teco/Semiconductores.md",
-    "Teco/Subrutinas.md",
-    "Teco/Jerarquia de Memoria.md",
-    "Teco/Elementos del computador.md",
-    "Images/C - Sharp",
-    "C#",
-    "Diseño 2d",
-    "Images/Teco",
-    "Images"
+    "1 Año/C#/Colecciones.md",
+    "2 Año/Consolas/Clase - 2.md",
+    "2 Año/Consolas/Clase 1.md",
+    "1 Año/C#/Clases y objetos.md",
+    "2 Año/Algoritmos"
   ]
 }
