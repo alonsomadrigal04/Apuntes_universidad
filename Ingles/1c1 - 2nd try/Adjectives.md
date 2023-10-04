@@ -20,8 +20,9 @@ strolling around
 slightly
 deal-breaker 
 quaint - pintoresco
-
-
+spotless - inmaculado
+sprawling - en expasion 
+drawback - desventaja
 
 Cherished - Preciados. 
 dull - boring
@@ -31,5 +32,5 @@ sprawling - en expansion
 
 # Common mistakes
 ---
-- 
+
 

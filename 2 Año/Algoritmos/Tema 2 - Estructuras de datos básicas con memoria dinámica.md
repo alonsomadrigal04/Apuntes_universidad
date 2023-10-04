@@ -1,4 +1,4 @@
-
+- [ ] 
 # Por que utilizar estructuras de base de nodos
 
 Si utilizamos arrays en un programa, son sencillas, tienes que declarar el array y colocar el tamaño especifico de antemano. Una vez la creas dentro de ese array solamente hay valores basura o predeterminados.

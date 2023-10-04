@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
+                "file": "Ingles/1c1 - 2nd try/2023-10-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "907fdf89a1345213",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Año/Consolas/Clase - 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 233.5
   },
   "right": {
     "id": "436ea96a59123609",
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
+                "file": "2 Año/Consolas/Clase - 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
+                "file": "2 Año/Consolas/Clase - 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md"
+                "file": "2 Año/Consolas/Clase - 3.md"
               }
             }
           },
@@ -167,27 +180,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32b0afbb9027f782",
+  "active": "907fdf89a1345213",
   "lastOpenFiles": [
+    "2 Año/Consolas/Clase - 2.md",
+    "2 Año/Consolas/Clase - 3.md",
+    "Tareas.md",
+    "Ingles/1c1 - 2nd try/2023-10-04.md",
+    "Ingles/1c1 - 2nd try/Adjectives.md",
+    "Ingles/1c1 - 2nd try/2023-10-02.md",
+    "Images/Consolas/circuit (2).png",
+    "circuit.svg",
+    "circuit.png",
+    "Images/Consolas/circuit (1).png",
+    "2 Año/Consolas/Untitled Diagram.svg",
+    "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
+    "2 Año/Consolas/Clase - 1.md",
+    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
     "Images/Algoritmos/Cola.svg",
     "Images/Algoritmos/LISTA ENLAZADA.svg",
-    "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
     "2 Año/Algoritmos/Untitled Diagram.svg",
     "2023-10-03.md",
     "Images/Algoritmos/Merge-sort-example-300px.gif",
     "Images/Algoritmos/Insertion-sort-example-300px.gif",
-    "Images/Algoritmos/Untitled Diagram.svg",
-    "Images/Algoritmos/Selection-Sort-Animation.gif",
-    "Images/Algoritmos/Untitled Diagram 1.svg",
     "2 Año/Algoritmos/Clase - 2.md",
-    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
     "2 Año/Algoritmos/Clase - 1.md",
-    "Images/Algoritmos/Bubble-sort-example-300px.gif",
     "Images/Algoritmos/Bubble-sort-example-300px.gif.opdownload",
-    "Images/Algoritmos/1_3lEL82yCH_-iaq46dji91w.gif",
     "Images/Algoritmos/1_3lEL82yCH_-iaq46dji91w.gif.opdownload",
     "Images/Algoritmos/Merge-sort-example-300px.gif.opdownload",
-    "Ingles/1c1 - 2nd try/Adjectives.md",
     "Ingles/Inglés.md",
     "1 Año/Diseño 2d/Apuntes.md",
     "1 Año/C#/Complejidad Computacional.md",
@@ -195,9 +214,7 @@
     "1 Año/Diseño 2d/Diseño 2d.md",
     "1 Año/C.md",
     "Ingles/1c1 - 2nd try/2023-09-27.md",
-    "Ingles/1c1 - 2nd try/2023-10-02.md",
     "Ingles/1c1 - 1st try/2023-02-01.md",
-    "Images/Consolas/teorema DeMorgan_2.png",
     "Images/Algoritmos",
     "Images/Consolas",
     "Untitled.canvas",
@@ -211,10 +228,6 @@
     "2 Año/Empresas/Empresas.md",
     "2 Año/Empresas/Clase - 1.md",
     "Algoritmos/Untitled Diagram 3.svg.md",
-    "1 Año/C#/Colecciones.md",
-    "2 Año/Consolas/Clase - 2.md",
-    "2 Año/Consolas/Clase 1.md",
-    "1 Año/C#/Clases y objetos.md",
     "2 Año/Algoritmos"
   ]
 }
