@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4cd23d06c316b6e4",
+        "id": "937e894cbdf47239",
         "type": "tabs",
         "children": [
           {
-            "id": "32b0afbb9027f782",
+            "id": "a519802d0c987c51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingles/1c1 - 2nd try/2023-10-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "907fdf89a1345213",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Año/Consolas/Clase - 3.md",
+                "file": "2 Año/Algoritmos/Clase - 4.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Año/Consolas/Clase - 3.md",
+                "file": "2 Año/Algoritmos/Clase - 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Año/Consolas/Clase - 3.md",
+                "file": "2 Año/Algoritmos/Clase - 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Año/Consolas/Clase - 3.md"
+                "file": "2 Año/Algoritmos/Clase - 4.md"
               }
             }
           },
@@ -166,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,54 +166,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "907fdf89a1345213",
+  "active": "a519802d0c987c51",
   "lastOpenFiles": [
-    "2 Año/Consolas/Clase - 2.md",
     "2 Año/Consolas/Clase - 3.md",
+    "2 Año/Empresas/Clase - 3 (Tema 4).md",
+    "2 Año/Empresas/Empresas.md",
     "Tareas.md",
-    "Ingles/1c1 - 2nd try/2023-10-04.md",
+    "1 Año/C#/Clases y objetos.md",
+    "1 Año/C#/Colecciones.md",
+    "1 Año/C#/Herencias.md",
+    "1 Año/C#/Programación C Sharp.md",
+    "1 Año/C#/C Sharp.md",
+    "1 Año/C.md",
+    "2 Año/Algoritmos/Clase - 4.md",
+    "2 Año/Algoritmos/Clase - 2.md",
+    "2 Año/Algoritmos/Algoritmos.md",
+    "2 Año/Algoritmos/Arbol.svg",
+    "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
     "Ingles/1c1 - 2nd try/Adjectives.md",
+    "2 Año/Consolas/Consolas.md",
+    "2 Año/Consolas/Clase - 2.md",
+    "2 Año/Consolas/Clase - 1.md",
+    "2 Año/Empresas/Clase - 2 (Tema 3).md",
+    "2 Año/Algoritmos/Untitled Diagram.svg.md",
+    "2 Año/Empresas/Clase - 1.md",
+    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
+    "2 Año/Algoritmos/Untitled Diagram 1.svg",
+    "Ingles/1c1 - 2nd try/2023-10-04.md",
     "Ingles/1c1 - 2nd try/2023-10-02.md",
     "Images/Consolas/circuit (2).png",
     "circuit.svg",
     "circuit.png",
     "Images/Consolas/circuit (1).png",
     "2 Año/Consolas/Untitled Diagram.svg",
-    "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
-    "2 Año/Consolas/Clase - 1.md",
-    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
     "Images/Algoritmos/Cola.svg",
     "Images/Algoritmos/LISTA ENLAZADA.svg",
-    "2 Año/Algoritmos/Untitled Diagram.svg",
     "2023-10-03.md",
     "Images/Algoritmos/Merge-sort-example-300px.gif",
-    "Images/Algoritmos/Insertion-sort-example-300px.gif",
-    "2 Año/Algoritmos/Clase - 2.md",
     "2 Año/Algoritmos/Clase - 1.md",
     "Images/Algoritmos/Bubble-sort-example-300px.gif.opdownload",
     "Images/Algoritmos/1_3lEL82yCH_-iaq46dji91w.gif.opdownload",
     "Images/Algoritmos/Merge-sort-example-300px.gif.opdownload",
-    "Ingles/Inglés.md",
-    "1 Año/Diseño 2d/Apuntes.md",
-    "1 Año/C#/Complejidad Computacional.md",
-    "1 Año/Diseño 2d/Tema - 04 Gráfico vectoriales.md",
-    "1 Año/Diseño 2d/Diseño 2d.md",
-    "1 Año/C.md",
-    "Ingles/1c1 - 2nd try/2023-09-27.md",
-    "Ingles/1c1 - 1st try/2023-02-01.md",
     "Images/Algoritmos",
     "Images/Consolas",
     "Untitled.canvas",
     "2 Año",
     "1 Año",
-    "2 Año/Empresas/Clase - 3 (Tema 4).md",
-    "Algoritmos/C ++.md",
     "Ingles/1c1 - 1st try",
-    "2 Año/Empresas/Clase - 2 (Tema 3).md",
     "Ingles/1c1 - 2nd try",
-    "2 Año/Empresas/Empresas.md",
-    "2 Año/Empresas/Clase - 1.md",
-    "Algoritmos/Untitled Diagram 3.svg.md",
     "2 Año/Algoritmos"
   ]
 }

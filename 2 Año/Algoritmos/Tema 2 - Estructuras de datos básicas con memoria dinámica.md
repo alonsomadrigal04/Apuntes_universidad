@@ -1,4 +1,4 @@
-- [ ] 
+#Algoritmos
 # Por que utilizar estructuras de base de nodos
 
 Si utilizamos arrays en un programa, son sencillas, tienes que declarar el array y colocar el tamaño especifico de antemano. Una vez la creas dentro de ese array solamente hay valores basura o predeterminados.
@@ -30,4 +30,4 @@ Este tipo de estructura en base nodo, se utilizan para crear estructuras algo m�
 
 las colas con un tipo de estructura de dato lineal que sigue la regla de **First-In-First-Out**. Que es en esencia lo que literalmente significa Cola. 
 
-![[2 Año/Algoritmos/Untitled Diagram.svg]]![[Cola.svg]]
+![[Arbol.svg]]![[Cola.svg]]

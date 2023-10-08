@@ -1,3 +1,5 @@
+#empresas
+
 Entorno; se trata de todos los factores que rodean a la empresa. Cualquier cosa que pueda afectar directa o indirectamente al funcionamiento de la empresa. Puedes ser buenas o malas para ser aprovechadas.
 
 El Entorno <span style="background:#affad1">VUCA</span> es lo que se caracteriza en el entorno actual:

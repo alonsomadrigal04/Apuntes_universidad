@@ -1,16 +1,19 @@
-| Adj                 | Prep | note      |
-| ------------------- | ---- | --------- |
-| pretified           | of   |           |
-| brilliant           | at   |           |
-| interested          | in   |           |
-| dreadful            | at   |           |
-| fond       (like a lot)         | of   |           |
-| allergic            | to   |           |
-| proud               | of   |           |
-| addicted            | to   |           |
-| rubbish             | at   | coloquial |
-| puzzled  (confused) | by   |           |
-|                     |      |           |
+
+#Ingles 
+
+| Adj                     | Prep | note      |
+| ----------------------- | ---- | --------- |
+| pretified               | of   |           |
+| brilliant               | at   |           |
+| interested              | in   |           |
+| dreadful                | at   |           |
+| fond       (like a lot) | of   |           |
+| allergic                | to   |           |
+| proud                   | of   |           |
+| addicted                | to   |           |
+| rubbish                 | at   | coloquial |
+| puzzled  (confused)     | by   |           |
+|                         |      |           |
 
 # Vocal
 ---

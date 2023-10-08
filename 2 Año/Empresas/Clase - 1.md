@@ -1,5 +1,7 @@
 Definición de empresa según la economía: ---
 
+#empresas
+
 #examen
 ### Objetivos de la empresa privada
 ---

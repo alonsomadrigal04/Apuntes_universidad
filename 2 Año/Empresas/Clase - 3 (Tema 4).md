@@ -1,3 +1,4 @@
+#empresas
 
 La planificación es un pilar a la hora de empezar a producir un producto. Anticipación de las decisiones referidas a cómo se deben ajustar las capacidades del sistema productivo a la demanda para optimizar los recursos de la empresa.
 

@@ -1,5 +1,7 @@
  <u>Complejidad temporal</u> según los métodos utilizados;
 
+#Algoritmos 
+
 Fórmula para sumatorio;
 	$$ \frac {n \cdot (n+1)}{2} = O(n^2) $$
 

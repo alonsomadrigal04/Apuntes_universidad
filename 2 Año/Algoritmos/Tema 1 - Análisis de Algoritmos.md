@@ -1,6 +1,6 @@
 # Orden de 
 ---
-
+#Algoritmos 
 # Que es $O(n)$
 Cuando decimos que un algoritmo es de $O(n)$ queremos decir que es de _orden n_ donde n normalmente es la longitud de un vector, o simplemente una medida en lo referente a un dato al que se le aplica un algoritmo.
 

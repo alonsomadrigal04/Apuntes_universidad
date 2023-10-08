@@ -29,10 +29,10 @@
       }
     },
     {
-      "query": "C",
+      "query": "Algoritmos",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 16639
       }
     }
   ],
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.58044310657478,
-  "close": true
+  "close": false
 }
