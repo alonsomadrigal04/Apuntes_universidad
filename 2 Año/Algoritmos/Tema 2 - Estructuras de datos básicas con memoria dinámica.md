@@ -30,4 +30,60 @@ Este tipo de estructura en base nodo, se utilizan para crear estructuras algo m�
 
 las colas con un tipo de estructura de dato lineal que sigue la regla de **First-In-First-Out**. Que es en esencia lo que literalmente significa Cola. 
 
-![[Arbol.svg]]![[Cola.svg]]
+![[Cola.svg]]
+
+### Función Addtion()
+
+![[Addition.svg]]
+
+# Coste por de funciones básicas
+
+Según la siguiente tabla podemos observar cuanto tardan las diferentes funciones básicas de una estructura de ordenación. Añadir, buscar y eliminar.
+
+También lo estudiaremos en determinadas situaciones, como por ejemplo, cuando la lista esta ordenada o no lo esta, ver así si merece la pena tener previamente un vector/lista ordenado.
+
+## Vector
+
+| Función          | No ordenado | Ordenado |
+| ---------------- | ----------- | -------- |
+| Añadir           | O(1)        |   O(n)       |
+| Buscar           | O(n)        |    O(log n)      |
+| Eliminar         | O(n)        |     O(n)     |
+| Consultar Mínimo | O(1)        |    O(1)      |
+| Eliminar Mínimo  | O(n)        |      O(1)    |
+
+- Costes no ordenados (explicación)
+	- Añadir: <u>O(1)</u>, pues no tienes que recorrer el vector entero para tener que añadirlo, simplemente coges el ultimo termino y lo colocas allí.
+	
+	- Buscar: <u>0(n)</u> no podemos usar métodos de búsqueda habituales, pues esta requiere que se ordene primero el vector. Lo que causaría más gasto.
+	
+	- Eliminar: <u>O(n)</u> Así como Añadir, simplemente se tiene que borrar un dato en especifico, cuesta n pues tienes que primero encontrar dicho dato. Pero el problema llega cuando no es el ultimo dato. Si no es así, simplemente se tendría que sustituir el ultimo dato, por el que se pretende eliminar. 
+	
+	- Consultar Mínimo O(1); tener previamente una variable llamada mínimo agiliza este paso 
+	
+	- Eliminar Mínimo: O(n) pues  como tienes que eliminar un dato del vector y volver a colocarlo 
+
+- Costes Ordenados (explicación)
+	- Añadir: O(n), no se puede acortar añadiendo primero un sistema de búsqueda binaria. Pues posteriormente necesitamos recorrer de nuevo el vector para reordenar todos los números. (No podemos hacer lo mismo que en la lista <u>no ordenada</u>, recuérdese que es una lista ordenada)
+	
+	- Buscar(): O(log) el método de búsqueda mas optimizada es la búsqueda binaria. 
+	
+	- Eliminar: aprovechar la búsqueda del dato para reorganizar a todos los números.
+	
+	- Consultar mínimo: O(1) solamente tenemos que mirar el ultimo dato (talla - 1)
+	
+	- Eliminar mínimo: O(1) damos la vuelta al vector para poder borrar el ultimo dato, como esta ordenado, simplemente tendríamos que decir que ahora el mínimo es el penúltimo.
+
+En este caso la ordenación esta de mayor a menor, dependiendo de casos es preferible mantener mas optimizado la orden eliminar máximo o mínimo. Esto quiere decir, que dependiendo en que casos quieras utilizar el vector y para que, se pueden tomar medidas flexibles para que se adapte a las necesidades del programador.
+## Lista enlazada
+
+| Función          | No ordenado | Ordenado |
+| ---------------- | ----------- | -------- |
+| Añadir           | O(1)        | O(n)     |
+| Buscar           | O(n)        | O(log n) |
+| Eliminar         | O(n)        | O(log n)     |
+| Consultar Mínimo | O(1)        | O(1)     |
+| Eliminar Mínimo  | O(n)        | O(1)     |
+
+- Costes no ordenados (explicación)
+	- 

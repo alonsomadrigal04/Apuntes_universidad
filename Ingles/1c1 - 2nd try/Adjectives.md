@@ -19,13 +19,19 @@
 ---
 Overall, the pros outweigh the cons.
 off the radar
-strolling around
-slightly
+strolling around - Paseando
+slightly - un poco, ligeramente 
 deal-breaker 
 quaint - pintoresco
 spotless - inmaculado
 sprawling - en expasion 
 drawback - desventaja
+Commute - El común viaje de ir al trabajo
+when it comes to - en lo que se refiere a
+dweller - habitante
+scholarship - beca
+dove into - zambullirse (empezar una actividad entusiasmadamente)
+bankrupt - bancarrota
 
 Cherished - Preciados. 
 dull - boring

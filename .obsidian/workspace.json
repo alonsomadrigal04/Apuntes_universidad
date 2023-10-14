@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Año/Algoritmos/Clase - 4.md",
+                "file": "Ingles/1c1 - 2nd try/Adjectives.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,9 +51,9 @@
             "id": "7ca9da303cd55ca4",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "diagram-edit",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Images/Algoritmos/Addition.svg"
               }
             }
           },
@@ -64,13 +64,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "1bc506bd28e974c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 291.5
   },
   "right": {
     "id": "436ea96a59123609",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Año/Algoritmos/Clase - 4.md",
+                "file": "Images/Algoritmos/Addition.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Año/Algoritmos/Clase - 4.md",
+                "file": "Images/Algoritmos/Addition.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Año/Algoritmos/Clase - 4.md"
+                "file": "Images/Algoritmos/Addition.svg"
               }
             }
           },
@@ -166,10 +176,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a519802d0c987c51",
+  "active": "7ca9da303cd55ca4",
   "lastOpenFiles": [
+    "Ingles/1c1 - 2nd try/Adjectives.md",
+    "Images/Algoritmos/Addition.svg",
+    "2 Año/Consolas/Clase - 4.md",
+    "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
     "2 Año/Consolas/Clase - 3.md",
+    "2 Año/Algoritmos/Clase - 2.md",
+    "2 Año/Algoritmos/Clase - 4.md",
+    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
     "2 Año/Empresas/Clase - 3 (Tema 4).md",
+    "2 Año/Empresas/Clase - 2 (Tema 3).md",
+    "Images/Algoritmos/Cola.svg",
+    "2 Año/Algoritmos/Untitled Diagram.svg.md",
+    "2 Año/Algoritmos/Algoritmos.md",
+    "2 Año/Algoritmos/Arbol.svg",
     "2 Año/Empresas/Empresas.md",
     "Tareas.md",
     "1 Año/C#/Clases y objetos.md",
@@ -178,19 +200,10 @@
     "1 Año/C#/Programación C Sharp.md",
     "1 Año/C#/C Sharp.md",
     "1 Año/C.md",
-    "2 Año/Algoritmos/Clase - 4.md",
-    "2 Año/Algoritmos/Clase - 2.md",
-    "2 Año/Algoritmos/Algoritmos.md",
-    "2 Año/Algoritmos/Arbol.svg",
-    "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
-    "Ingles/1c1 - 2nd try/Adjectives.md",
     "2 Año/Consolas/Consolas.md",
     "2 Año/Consolas/Clase - 2.md",
     "2 Año/Consolas/Clase - 1.md",
-    "2 Año/Empresas/Clase - 2 (Tema 3).md",
-    "2 Año/Algoritmos/Untitled Diagram.svg.md",
     "2 Año/Empresas/Clase - 1.md",
-    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
     "2 Año/Algoritmos/Untitled Diagram 1.svg",
     "Ingles/1c1 - 2nd try/2023-10-04.md",
     "Ingles/1c1 - 2nd try/2023-10-02.md",
@@ -199,11 +212,7 @@
     "circuit.png",
     "Images/Consolas/circuit (1).png",
     "2 Año/Consolas/Untitled Diagram.svg",
-    "Images/Algoritmos/Cola.svg",
     "Images/Algoritmos/LISTA ENLAZADA.svg",
-    "2023-10-03.md",
-    "Images/Algoritmos/Merge-sort-example-300px.gif",
-    "2 Año/Algoritmos/Clase - 1.md",
     "Images/Algoritmos/Bubble-sort-example-300px.gif.opdownload",
     "Images/Algoritmos/1_3lEL82yCH_-iaq46dji91w.gif.opdownload",
     "Images/Algoritmos/Merge-sort-example-300px.gif.opdownload",

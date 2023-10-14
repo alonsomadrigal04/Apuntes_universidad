@@ -1,6 +1,6 @@
 Apuntes de clase
 [[2 Año/Algoritmos/Clase - 2|Clase - 2]]
-[[Clase - 4]]
+[[2 Año/Algoritmos/Clase - 4]]
 
 Temas Acabados
 [[Tema 1 - Análisis de Algoritmos]]
