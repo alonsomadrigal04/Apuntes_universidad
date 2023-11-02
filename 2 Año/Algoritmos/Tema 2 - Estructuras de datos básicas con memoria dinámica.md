@@ -1,5 +1,6 @@
 #Algoritmos
 # Por que utilizar estructuras de base de nodos
+---
 
 Si utilizamos arrays en un programa, son sencillas, tienes que declarar el array y colocar el tamaño especifico de antemano. Una vez la creas dentro de ese array solamente hay valores basura o predeterminados.
 
@@ -20,6 +21,7 @@ Para mantener una referencia a todos los valores en la estructura, cada nodo tie
 Sin embargo, las estructuras basadas en nodos tienen una desventaja, ya que no puedes acceder directamente a todos los valores como en los arreglos. A veces, tienes que invertir tiempo recorriendo la estructura para encontrar el elemento necesario.
 
 # Listas Enlazadas
+---
 
 Una lista enlazada consiste en una serie de nodos, los cuales cada uno tiene: un <u>dato</u>, y un <u>puntero</u> al siguiente nodo. El último Nodo apuntará a "null" indicando que es el último. Hay varias formas de crear estas listas, pero la mas común es la SIMPLEMENTE ENLAZADA.
 
@@ -37,6 +39,7 @@ las colas con un tipo de estructura de dato lineal que sigue la regla de **First
 ![[Addition.svg]]
 
 # Coste por de funciones básicas
+---
 
 Según la siguiente tabla podemos observar cuanto tardan las diferentes funciones básicas de una estructura de ordenación. Añadir, buscar y eliminar.
 
@@ -84,6 +87,3 @@ En este caso la ordenación esta de mayor a menor, dependiendo de casos es prefe
 | Eliminar         | O(n)        | O(log n)     |
 | Consultar Mínimo | O(1)        | O(1)     |
 | Eliminar Mínimo  | O(n)        | O(1)     |
-
-- Costes no ordenados (explicación)
-	- 

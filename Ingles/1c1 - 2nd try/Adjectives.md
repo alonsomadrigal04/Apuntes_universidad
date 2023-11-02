@@ -27,11 +27,18 @@ spotless - inmaculado
 sprawling - en expasion 
 drawback - desventaja
 Commute - El común viaje de ir al trabajo
-when it comes to - en lo que se refiere a
-dweller - habitante
+when it comes to - en lo que se refiere a - habitante
 scholarship - beca
 dove into - zambullirse (empezar una actividad entusiasmadamente)
 bankrupt - bancarrota
+ring ronda - circunvalación 
+
+## Unit 2
+deplete - mermar 
+backbone - espina dorsal
+streak - Marcha
+slacker. - haragan.
+laid-back - sin drama
 
 Cherished - Preciados. 
 dull - boring

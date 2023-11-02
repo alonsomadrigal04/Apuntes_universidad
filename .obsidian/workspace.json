@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "937e894cbdf47239",
+        "id": "b7343d2efd04ae49",
         "type": "tabs",
         "children": [
           {
-            "id": "a519802d0c987c51",
+            "id": "e27f4d1d1f9a3382",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingles/1c1 - 2nd try/Adjectives.md",
+                "file": "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc5ec1a81c671f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Año/Algoritmos/Tema 4 - Colas de prioridad mediante montículos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1af0e29d43a37713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingles/1c1 - 2nd try/2023-10-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a3be4def7de37b0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Año/Consolas/Clase - 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -76,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -96,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Algoritmos/Addition.svg",
+                "file": "2 Año/Consolas/Clase - 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Algoritmos/Addition.svg",
+                "file": "2 Año/Consolas/Clase - 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Algoritmos/Addition.svg"
+                "file": "2 Año/Consolas/Clase - 7.md"
               }
             }
           },
@@ -163,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,43 +213,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ca9da303cd55ca4",
+  "active": "a3be4def7de37b0c",
   "lastOpenFiles": [
-    "Ingles/1c1 - 2nd try/Adjectives.md",
+    "2 Año/Consolas/Consolas.md",
+    "2 Año/Consolas/Clase - 7.md",
+    "2 Año/Empresas/Empresas.md",
     "Images/Algoritmos/Addition.svg",
-    "2 Año/Consolas/Clase - 4.md",
+    "2 Año/Empresas/Clase - 5 (Tema 8 - Tema 9).md",
+    "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
+    "Ingles/1c1 - 2nd try/2023-10-30.md",
+    "2 Año/Algoritmos/Clase - 6.md",
     "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
-    "2 Año/Consolas/Clase - 3.md",
-    "2 Año/Algoritmos/Clase - 2.md",
-    "2 Año/Algoritmos/Clase - 4.md",
+    "2 Año/Algoritmos/Tema 4 - Colas de prioridad mediante montículos.md",
+    "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
+    "Tareas.md",
     "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
+    "2 Año/Algoritmos/Algoritmos.md",
+    "2 Año/Algoritmos/Clase - 2.md",
+    "2 Año/Consolas/Clase - 6.md",
+    "Images/Algoritmos/Untitled Diagram 2.svg",
+    "Ingles/1c1 - 2nd try/Adjectives.md",
+    "Ingles/1c1 - 2nd try/2023-10-25.md",
+    "Ingles/1c1 - 2nd try/2023-10-23.md",
+    "Images/Algoritmos/Untitled Diagram 3.svg",
+    "Images/Algoritmos/Untitled Diagram 2 1.svg",
+    "Images/Algoritmos/Untitled Diagram 1 1.svg",
+    "2 Año/Consolas/Clase - 1.md",
+    "2 Año/Consolas/Clase - 2.md",
+    "2 Año/Consolas/Clase - 3.md",
+    "2 Año/Consolas/Clase - 4.md",
+    "2 Año/Consolas/Clase - 5.md",
     "2 Año/Empresas/Clase - 3 (Tema 4).md",
     "2 Año/Empresas/Clase - 2 (Tema 3).md",
-    "Images/Algoritmos/Cola.svg",
-    "2 Año/Algoritmos/Untitled Diagram.svg.md",
-    "2 Año/Algoritmos/Algoritmos.md",
-    "2 Año/Algoritmos/Arbol.svg",
-    "2 Año/Empresas/Empresas.md",
-    "Tareas.md",
-    "1 Año/C#/Clases y objetos.md",
-    "1 Año/C#/Colecciones.md",
-    "1 Año/C#/Herencias.md",
-    "1 Año/C#/Programación C Sharp.md",
-    "1 Año/C#/C Sharp.md",
-    "1 Año/C.md",
-    "2 Año/Consolas/Consolas.md",
-    "2 Año/Consolas/Clase - 2.md",
-    "2 Año/Consolas/Clase - 1.md",
     "2 Año/Empresas/Clase - 1.md",
+    "Images/Algoritmos/Rotacion izq.svg",
+    "Images/Algoritmos/Arbol.svg",
+    "Images/Algoritmos/Fibonnachi.svg",
+    "Images/Algoritmos/Cola.svg",
     "2 Año/Algoritmos/Untitled Diagram 1.svg",
-    "Ingles/1c1 - 2nd try/2023-10-04.md",
-    "Ingles/1c1 - 2nd try/2023-10-02.md",
-    "Images/Consolas/circuit (2).png",
-    "circuit.svg",
-    "circuit.png",
-    "Images/Consolas/circuit (1).png",
-    "2 Año/Consolas/Untitled Diagram.svg",
-    "Images/Algoritmos/LISTA ENLAZADA.svg",
     "Images/Algoritmos/Bubble-sort-example-300px.gif.opdownload",
     "Images/Algoritmos/1_3lEL82yCH_-iaq46dji91w.gif.opdownload",
     "Images/Algoritmos/Merge-sort-example-300px.gif.opdownload",
