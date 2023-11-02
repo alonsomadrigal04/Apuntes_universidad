@@ -34,6 +34,20 @@
         "a": 1,
         "rgb": 16639
       }
+    },
+    {
+      "query": "Consolas",
+      "color": {
+        "a": 1,
+        "rgb": 12320512
+      }
+    },
+    {
+      "query": "Empresas",
+      "color": {
+        "a": 1,
+        "rgb": 65416
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.58044310657478,
+  "scale": 0.3804795006571122,
   "close": false
 }

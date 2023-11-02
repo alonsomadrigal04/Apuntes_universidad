@@ -65,4 +65,4 @@ eliminar(dato), que no tiene hijos; simplemente eliminar el dato.
 eliminar(dato), que tiene un hijo, se le asigna a su hijo. (sustituyes por el que querías eliminar)
 eliminar(dato), que tiene dos hijos, se le asigna al nodo el mínimo del subárbol derecho (sustituyes por el que querías eliminar). Si este mismo hijo (el mínimo) tuviera hijos por la derecha, tendríamos que sustituirlo por ese mismo.
 
-![[Arbol.svg]]
+![[Images/Algoritmos/Arbol.svg]]
