@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
+                "file": "2 Año/Algoritmos/Clase - 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,41 +48,11 @@
             }
           },
           {
-            "id": "7ca9da303cd55ca4",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Images/Algoritmos/Addition.svg"
-              }
-            }
-          },
-          {
             "id": "155687f7bc241c0d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
-            }
-          },
-          {
-            "id": "1bc506bd28e974c8",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Images/Algoritmos/Arbol 1.svg"
-              }
-            }
-          },
-          {
-            "id": "2c266a55ec1af855",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Images/Algoritmos/Arbol Binario.svg"
-              }
             }
           },
           {
@@ -96,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -116,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
+                "file": "2 Año/Algoritmos/Clase - 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
+                "file": "2 Año/Algoritmos/Clase - 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md"
+                "file": "2 Año/Algoritmos/Clase - 7.md"
               }
             }
           },
@@ -199,41 +169,41 @@
   },
   "active": "e27f4d1d1f9a3382",
   "lastOpenFiles": [
-    "Images/Algoritmos/Arbol Binario.svg",
-    "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
-    "Images/Algoritmos/Arbol 1.svg",
-    "Images/Algoritmos/Addition.svg",
-    "2 Año/Algoritmos/Clase - 4.md",
-    "2 Año/Algoritmos/Clase - 5.md",
-    "2 Año/Algoritmos/Clase - 7.md",
     "2 Año/Algoritmos/Clase - 6.md",
-    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
+    "2 Año/Algoritmos/Clase - 5.md",
+    "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
     "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
+    "Images/Algoritmos/Rotacion derecha complicada.svg",
+    "Images/Algoritmos/Rotación izq.svg",
+    "2 Año/Algoritmos/Tema 4 - Colas de prioridad mediante montículos.md",
+    "2 Año/Algoritmos/Clase - 7.md",
+    "Images/Algoritmos/AVL mal.svg",
+    "Images/Algoritmos/AVL bien.svg",
+    "Images/Algoritmos/Maximos nodos por conexion.svg",
+    "Images/Algoritmos/Eliminación_tipo3.svg",
+    "2 Año/Algoritmos/Clase - 4.md",
+    "Images/Algoritmos/Arbol Binario de Busqueda.svg",
+    "Images/Algoritmos/Arbol Binario 1.svg",
+    "Images/Algoritmos/Arbol Binario.svg",
+    "Images/Algoritmos/Arbol 1.svg",
+    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
     "2 Año/Consolas/Clase - 7.md",
     "2 Año/Consolas/Consolas.md",
     "2 Año/Empresas/Empresas.md",
     "2 Año/Empresas/Clase - 5 (Tema 8 - Tema 9).md",
     "Ingles/1c1 - 2nd try/2023-10-30.md",
-    "2 Año/Algoritmos/Tema 4 - Colas de prioridad mediante montículos.md",
     "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
     "Tareas.md",
     "2 Año/Algoritmos/Algoritmos.md",
     "2 Año/Algoritmos/Clase - 2.md",
     "2 Año/Consolas/Clase - 6.md",
-    "Images/Algoritmos/Untitled Diagram 2.svg",
     "Ingles/1c1 - 2nd try/Adjectives.md",
     "Ingles/1c1 - 2nd try/2023-10-25.md",
     "Ingles/1c1 - 2nd try/2023-10-23.md",
-    "Images/Algoritmos/Untitled Diagram 3.svg",
-    "Images/Algoritmos/Untitled Diagram 2 1.svg",
-    "Images/Algoritmos/Untitled Diagram 1 1.svg",
     "2 Año/Consolas/Clase - 1.md",
     "2 Año/Consolas/Clase - 2.md",
     "2 Año/Consolas/Clase - 3.md",
     "2 Año/Consolas/Clase - 4.md",
-    "Images/Algoritmos/Rotacion izq.svg",
-    "Images/Algoritmos/Arbol.svg",
-    "Images/Algoritmos/Fibonnachi.svg",
     "Images/Algoritmos/Bubble-sort-example-300px.gif.opdownload",
     "Images/Algoritmos/1_3lEL82yCH_-iaq46dji91w.gif.opdownload",
     "Images/Algoritmos/Merge-sort-example-300px.gif.opdownload",
