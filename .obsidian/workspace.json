@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Año/Algoritmos/Clase - 7.md",
+                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Año/Algoritmos/Clase - 7.md",
+                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Año/Algoritmos/Clase - 7.md",
+                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Año/Algoritmos/Clase - 7.md"
+                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md"
               }
             }
           },
@@ -169,14 +169,16 @@
   },
   "active": "e27f4d1d1f9a3382",
   "lastOpenFiles": [
-    "2 Año/Algoritmos/Clase - 6.md",
-    "2 Año/Algoritmos/Clase - 5.md",
-    "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
+    "2 Año/Algoritmos/Tema 4 - Colas de prioridad mediante montículos.md",
     "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
+    "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
+    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
+    "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
+    "2 Año/Algoritmos/Clase - 6.md",
+    "2 Año/Algoritmos/Clase - 7.md",
+    "2 Año/Algoritmos/Clase - 5.md",
     "Images/Algoritmos/Rotacion derecha complicada.svg",
     "Images/Algoritmos/Rotación izq.svg",
-    "2 Año/Algoritmos/Tema 4 - Colas de prioridad mediante montículos.md",
-    "2 Año/Algoritmos/Clase - 7.md",
     "Images/Algoritmos/AVL mal.svg",
     "Images/Algoritmos/AVL bien.svg",
     "Images/Algoritmos/Maximos nodos por conexion.svg",
@@ -186,13 +188,11 @@
     "Images/Algoritmos/Arbol Binario 1.svg",
     "Images/Algoritmos/Arbol Binario.svg",
     "Images/Algoritmos/Arbol 1.svg",
-    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
     "2 Año/Consolas/Clase - 7.md",
     "2 Año/Consolas/Consolas.md",
     "2 Año/Empresas/Empresas.md",
     "2 Año/Empresas/Clase - 5 (Tema 8 - Tema 9).md",
     "Ingles/1c1 - 2nd try/2023-10-30.md",
-    "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
     "Tareas.md",
     "2 Año/Algoritmos/Algoritmos.md",
     "2 Año/Algoritmos/Clase - 2.md",

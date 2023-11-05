@@ -1,5 +1,5 @@
 #Algoritmos
-# Por que utilizar estructuras de base de nodos
+# 1. Por que utilizar estructuras de base de nodos
 ---
 
 Si utilizamos arrays en un programa, son sencillas, tienes que declarar el array y colocar el tamaño especifico de antemano. Una vez la creas dentro de ese array solamente hay valores basura o predeterminados.
@@ -20,7 +20,7 @@ Para mantener una referencia a todos los valores en la estructura, cada nodo tie
 
 Sin embargo, las estructuras basadas en nodos tienen una desventaja, ya que no puedes acceder directamente a todos los valores como en los arreglos. A veces, tienes que invertir tiempo recorriendo la estructura para encontrar el elemento necesario.
 
-# Listas Enlazadas
+# 2. Listas Enlazadas
 ---
 
 Una lista enlazada consiste en una serie de nodos, los cuales cada uno tiene: un <u>dato</u>, y un <u>puntero</u> al siguiente nodo. El último Nodo apuntará a "null" indicando que es el último. Hay varias formas de crear estas listas, pero la mas común es la SIMPLEMENTE ENLAZADA.
@@ -28,24 +28,24 @@ Una lista enlazada consiste en una serie de nodos, los cuales cada uno tiene: un
 ![[LISTA ENLAZADA.svg]]
 Este tipo de estructura en base nodo, se utilizan para crear estructuras algo más complejas como son las Pilas o las Colas.
 
-## Colas
+## 2.1 Colas
 
 las colas con un tipo de estructura de dato lineal que sigue la regla de **First-In-First-Out**. Que es en esencia lo que literalmente significa Cola. 
 
 ![[Cola.svg]]
 
-### Función Addtion()
+### 2.1.1 Función Addtion()
 
 ![[Addition.svg]]
 
-# Coste por de funciones básicas
+# 3. Coste por de funciones básicas
 ---
 
 Según la siguiente tabla podemos observar cuanto tardan las diferentes funciones básicas de una estructura de ordenación. Añadir, buscar y eliminar.
 
 También lo estudiaremos en determinadas situaciones, como por ejemplo, cuando la lista esta ordenada o no lo esta, ver así si merece la pena tener previamente un vector/lista ordenado.
 
-## Vector
+## 3.1 Vector
 
 | Función          | No ordenado | Ordenado |
 | ---------------- | ----------- | -------- |
@@ -78,7 +78,7 @@ También lo estudiaremos en determinadas situaciones, como por ejemplo, cuando l
 	- Eliminar mínimo: O(1) damos la vuelta al vector para poder borrar el ultimo dato, como esta ordenado, simplemente tendríamos que decir que ahora el mínimo es el penúltimo.
 
 En este caso la ordenación esta de mayor a menor, dependiendo de casos es preferible mantener mas optimizado la orden eliminar máximo o mínimo. Esto quiere decir, que dependiendo en que casos quieras utilizar el vector y para que, se pueden tomar medidas flexibles para que se adapte a las necesidades del programador.
-## Lista enlazada
+## 3.2 Lista enlazada
 
 | Función          | No ordenado | Ordenado |
 | ---------------- | ----------- | -------- |

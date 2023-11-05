@@ -1,7 +1,7 @@
 # Orden de 
 ---
 #Algoritmos 
-# Que es $O(n)$
+# 1. Que es $O(n)$
 Cuando decimos que un algoritmo es de $O(n)$ queremos decir que es de _orden n_ donde n normalmente es la longitud de un vector, o simplemente una medida en lo referente a un dato al que se le aplica un algoritmo.
 
 > [!tldr] Valores de Orden
@@ -15,7 +15,7 @@ Cuando decimos que un algoritmo es de $O(n)$ queremos decir que es de _orden n_ 
 >
 
 
-## Mejor y peor caso
+## 1.1 Mejor y peor caso
 
 Los mejores y peores casos de un algoritmo se refiere como se ve afectado el crecimiento de la "recta" cuando el algoritmo toma un determinado valor.
 
@@ -51,7 +51,7 @@ Este algoritmo busca un dato concreto dentro de un vector:
 >Se trata de que el valor catalogado con esta etiqueta, no se <u>puede</u> modificar dentro de la función.  
 >Se llama: "<u>Argumento por referencia constante</u>"
 
-## Algoritmos de ordenación
+## 1.2 Algoritmos de ordenación
 
 Esta demostrado matemáticamente que no hay un método de ordenación capaz de ordenar un vector en un tiempo menor que $O(n \cdot \log{n}$).
 
