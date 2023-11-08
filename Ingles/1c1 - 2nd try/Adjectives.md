@@ -32,6 +32,9 @@ scholarship - beca
 dove into - zambullirse (empezar una actividad entusiasmadamente)
 bankrupt - bancarrota
 ring ronda - circunvalación 
+get to know -  conocer a fondo
+judgy - Criticon
+done deal  $\not=$ deal breaker.
 
 ## Unit 2
 deplete - mermar 
