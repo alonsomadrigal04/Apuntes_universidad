@@ -65,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,8 +167,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c28a3ba44d0760ea",
+  "active": "f2c1b09994db1f35",
   "lastOpenFiles": [
+    "Images/Algoritmos/Rotación izq.svg",
+    "Images/Algoritmos/Rotacion derecha complicada.svg",
+    "Images/Algoritmos/Maximos nodos por conexion.svg",
+    "Images/Algoritmos/Eliminación_tipo3.svg",
+    "Images/Algoritmos/Arbol Binario de Busqueda.svg",
+    "Images/Algoritmos/Arbol Binario 1.svg",
+    "Images/Algoritmos/AVL mal.svg",
+    "Images/Algoritmos/AVL bien.svg",
     "Images/Algoritmos/Addition.svg",
     "2 Año/Consolas/Clase - 8.md",
     "2 Año/Algoritmos/Algoritmos.md",
@@ -192,17 +201,10 @@
     "Tareas.md",
     "2 Año/Algoritmos/Clase - 2.md",
     "2 Año/Consolas/Clase - 6.md",
-    "Images/Algoritmos/Untitled Diagram 2.svg",
     "Ingles/1c1 - 2nd try/2023-10-25.md",
     "Ingles/1c1 - 2nd try/2023-10-23.md",
-    "Images/Algoritmos/Untitled Diagram 3.svg",
-    "Images/Algoritmos/Untitled Diagram 2 1.svg",
-    "Images/Algoritmos/Untitled Diagram 1 1.svg",
     "2 Año/Consolas/Clase - 1.md",
     "2 Año/Consolas/Clase - 2.md",
-    "Images/Algoritmos/Rotacion izq.svg",
-    "Images/Algoritmos/Arbol.svg",
-    "Images/Algoritmos/Fibonnachi.svg",
     "Images/Algoritmos/Bubble-sort-example-300px.gif.opdownload",
     "Images/Algoritmos/1_3lEL82yCH_-iaq46dji91w.gif.opdownload",
     "Images/Algoritmos/Merge-sort-example-300px.gif.opdownload",
