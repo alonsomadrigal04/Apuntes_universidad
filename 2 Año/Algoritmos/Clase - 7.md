@@ -24,7 +24,7 @@
 <u>MAX-HEAP</u> - Los hijos son mayores o iguales que el padre.
 
 ### <font color="#d7e3bc">Forma</font>
-Todos los niveles tienen que estar llenos, aunque el ultimo puede estar parcialmente vacío, y siempre se rellena de izquierda a derecha.
+<font color="#fdeada">Todos los niveles tienen que estar llenos, aunque el ultimo puede estar parcialmente vacío, y siempre se rellena de izquierda a derecha.</font>
 
 ### <font color="#d7e3bc">Representación</font> 
 Se puede representar el árbol con vector no ordenado:

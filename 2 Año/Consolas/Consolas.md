@@ -6,4 +6,4 @@ Apuntes de Consolas:
 [[2 Año/Consolas/Clase - 5|Clase - 5]]
 [[2 Año/Consolas/Clase - 6]]
 [[2 Año/Consolas/Clase - 7]]
-[[Clase - 8]]
+[[2 Año/Consolas/Clase - 8]]

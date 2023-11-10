@@ -8,11 +8,21 @@ Este algoritmo se basa en la idea de asignar códigos más cortos a los caracter
 
 Explicaremos el funcionamiento con un ejemplo:
 
-| a   | b   | c   | e   | a   |
+| a   | b   | c   | e   | f   |
 | --- | --- | --- | --- | --- |
 |     |     |     |     |     |
 
 
 # <font color="#ffc000">2. Divide y vencerás</font>
+---
+## <font color="#fac08f">Teorema Maestro</font>
+
+Se utiliza para analizar la complejidad de algoritmos recursivos, dividir y vencer. Proporciona una solución general para evaluar la complejidad temporal de tales algoritmos.
+La solución de la ecuación:
+$T(N) = aT(\frac{N}{b}) +\theta(N^k\log^p{N})$, <font color="#595959">con</font> $a\geq1, b>1, p\geq0$ 
+
+$$\{{O(N^{log_ba}) a>b^k\atop x + y = 4}$$
+
 
 # <font color="#ffc000">3. Programación dinámica</font>
+
