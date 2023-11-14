@@ -35,6 +35,7 @@ ring ronda - circunvalación
 get to know -  conocer a fondo
 judgy - Criticon
 done deal  $\not=$ deal breaker.
+premises - local
 
 ## Unit 2
 deplete - mermar 
