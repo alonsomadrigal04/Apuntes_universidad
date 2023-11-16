@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "6eec761d271e9d15",
-        "type": "split",
+        "id": "322910a46f22be07",
+        "type": "tabs",
         "children": [
           {
-            "id": "b7343d2efd04ae49",
-            "type": "tabs",
-            "dimension": 68.50490196078431,
-            "children": [
-              {
-                "id": "e27f4d1d1f9a3382",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 Año/Consolas/Clase - 9.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "2f858925331e235f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingles/1c1 - 2nd try/2023-11-13.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "322910a46f22be07",
-            "type": "tabs",
-            "dimension": 31.495098039215684,
-            "children": [
-              {
-                "id": "2f858925331e235f",
-                "type": "leaf",
-                "state": {
-                  "type": "diagram-edit",
-                  "state": {
-                    "file": "2 Año/Consolas/Untitled Diagram 3.svg"
-                  }
-                }
+            "id": "8d4f27ee5f3a3fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingles/1c1 - 2nd try/2023-11-15.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "436ea96a59123609",
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Año/Consolas/Untitled Diagram 3.svg",
+                "file": "Ingles/1c1 - 2nd try/2023-11-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Año/Consolas/Untitled Diagram 3.svg",
+                "file": "Ingles/1c1 - 2nd try/2023-11-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Año/Consolas/Untitled Diagram 3.svg"
+                "file": "Ingles/1c1 - 2nd try/2023-11-15.md"
               }
             }
           },
@@ -193,25 +180,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f858925331e235f",
+  "active": "f2c1b09994db1f35",
   "lastOpenFiles": [
-    "2 Año/Consolas/Clase - 9.md",
+    "Ingles/1c1 - 2nd try/2023-10-02.md",
+    "Ingles/1c1 - 2nd try/2023-11-15.md",
+    "Untitled.md",
+    "Ingles/1c1 - 2nd try/2023-11-13.md",
+    "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
+    "2 Año/Algoritmos/Tema 4 - Colas de prioridad mediante montículos.md",
+    "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
     "2 Año/Consolas/Untitled Diagram 3.svg",
+    "2 Año/Consolas/Clase - 9.md",
     "2 Año/Consolas/Untitled Diagram 2.svg",
     "2 Año/Consolas/Clase - 8.md",
     "2 Año/Consolas/Untitled Diagram 1.svg",
     "2 Año/Consolas/Untitled Diagram.svg",
     "2 Año/Consolas/Consolas.md",
-    "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
-    "2 Año/Algoritmos/Tema 4 - Colas de prioridad mediante montículos.md",
     "2 Año/Empresas/Clase - 6 (=).md",
     "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
     "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
     "2 Año/Algoritmos/Clase - 5.md",
     "2 Año/Algoritmos/Clase - 8.md",
-    "Ingles/1c1 - 2nd try/2023-11-13.md",
     "Ingles/1c1 - 2nd try/Adjectives.md",
-    "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
     "2 Año/Algoritmos/Clase - 6.md",
     "2 Año/Algoritmos/Clase - 2.md",
     "2 Año/Algoritmos/Códigos explicación.md",
@@ -228,8 +218,6 @@
     "2 Año/Algoritmos/Clase - 4.md",
     "2 Año/Consolas/Clase - 7.md",
     "2 Año/Empresas/Empresas.md",
-    "2 Año/Empresas/Clase - 5 (Tema 8 - Tema 9).md",
-    "Tareas.md",
     "Images/Algoritmos/Bubble-sort-example-300px.gif.opdownload",
     "Images/Algoritmos/1_3lEL82yCH_-iaq46dji91w.gif.opdownload",
     "Images/Algoritmos/Merge-sort-example-300px.gif.opdownload",
