@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingles/1c1 - 2nd try/2023-11-13.md",
+                "file": "Ingles/1c1 - 2nd try/2023-11-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a4644be5fe5a736",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92409dd07edcc036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Año/Algoritmos/Clase - 12.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6678c27947e014ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingles/1c1 - 2nd try/2023-11-15.md",
+                "file": "Ingles/1c1 - 2nd try/Adjectives.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingles/1c1 - 2nd try/2023-11-15.md",
+                "file": "2 Año/Algoritmos/Clase - 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingles/1c1 - 2nd try/2023-11-15.md",
+                "file": "2 Año/Algoritmos/Clase - 12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingles/1c1 - 2nd try/2023-11-15.md"
+                "file": "2 Año/Algoritmos/Clase - 12.md"
               }
             }
           },
@@ -180,44 +216,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2c1b09994db1f35",
+  "active": "92409dd07edcc036",
   "lastOpenFiles": [
-    "Ingles/1c1 - 2nd try/2023-10-02.md",
-    "Ingles/1c1 - 2nd try/2023-11-15.md",
-    "Untitled.md",
-    "Ingles/1c1 - 2nd try/2023-11-13.md",
-    "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
+    "Ingles/1c1 - 2nd try/2023-11-20.md",
+    "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
+    "2 Año/Algoritmos/Clase - 12.md",
+    "2023-12-04.md",
+    "2 Año/Algoritmos/Clase - 10.md",
+    "2 Año/Algoritmos/Untitled Diagram 1.svg",
+    "2 Año/Algoritmos/Untitled Diagram.svg",
     "2 Año/Algoritmos/Tema 4 - Colas de prioridad mediante montículos.md",
     "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
-    "2 Año/Consolas/Untitled Diagram 3.svg",
-    "2 Año/Consolas/Clase - 9.md",
-    "2 Año/Consolas/Untitled Diagram 2.svg",
-    "2 Año/Consolas/Clase - 8.md",
-    "2 Año/Consolas/Untitled Diagram 1.svg",
-    "2 Año/Consolas/Untitled Diagram.svg",
+    "2 Año/Algoritmos/Códigos explicación.md",
+    "2 Año/Algoritmos/Algoritmos.md",
+    "2 Año/Algoritmos/Clase - 7.md",
+    "2 Año/Consolas/Clase - 10.md",
+    "Images/Consolas/Untitled Diagram 3.svg",
+    "Images/Consolas/Untitled Diagram 2.svg",
+    "Images/Consolas/Untitled Diagram.svg",
     "2 Año/Consolas/Consolas.md",
+    "Ingles/1c1 - 2nd try/2023-11-15.md",
+    "2023-11-20.md",
+    "Ingles/1c1 - 2nd try/Adjectives.md",
+    "Ingles/1c1 - 2nd try/2023-11-13.md",
+    "2 Año/Algoritmos/Clase - 9.md",
+    "Ingles/1c1 - 2nd try/2023-10-02.md",
+    "Untitled.md",
+    "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
+    "2 Año/Consolas/Clase - 9.md",
+    "2 Año/Consolas/Clase - 8.md",
+    "Images/Consolas/Untitled Diagram 1.svg",
     "2 Año/Empresas/Clase - 6 (=).md",
     "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
     "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
     "2 Año/Algoritmos/Clase - 5.md",
-    "2 Año/Algoritmos/Clase - 8.md",
-    "Ingles/1c1 - 2nd try/Adjectives.md",
-    "2 Año/Algoritmos/Clase - 6.md",
-    "2 Año/Algoritmos/Clase - 2.md",
-    "2 Año/Algoritmos/Códigos explicación.md",
-    "2 Año/Algoritmos/Clase - 7.md",
     "Images/Algoritmos/Árbol a base de vector no ordenado.svg",
-    "2 Año/Algoritmos/Untitled Diagram.svg",
     "Images/Algoritmos/Arbol Binario de Busqueda.svg",
     "Images/Algoritmos/Rotación izq.svg",
     "Images/Algoritmos/Rotacion derecha complicada.svg",
-    "Images/Algoritmos/Maximos nodos por conexion.svg",
-    "2 Año/Algoritmos/Algoritmos.md",
-    "Ingles/1c1 - 2nd try/2023-11-06.md",
-    "Ingles/1c1 - 2nd try/2023-10-30.md",
-    "2 Año/Algoritmos/Clase - 4.md",
-    "2 Año/Consolas/Clase - 7.md",
-    "2 Año/Empresas/Empresas.md",
     "Images/Algoritmos/Bubble-sort-example-300px.gif.opdownload",
     "Images/Algoritmos/1_3lEL82yCH_-iaq46dji91w.gif.opdownload",
     "Images/Algoritmos/Merge-sort-example-300px.gif.opdownload",

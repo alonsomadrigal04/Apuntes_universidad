@@ -36,6 +36,8 @@ get to know -  conocer a fondo
 judgy - Criticon
 done deal  $\not=$ deal breaker.
 premises - local
+tease - picar
+bitch about - criticar de forma deshonrrada
 
 ## Unit 2
 deplete - mermar 
