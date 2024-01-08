@@ -122,6 +122,33 @@ La implementación en código de este algoritmo es similar a la de [[#2.1 Algori
 ```c++
 vector<int> BusquedaAnchura(int s)
 {
+	vector<int> distancia(vertices.size(), 0); // Inicializa todos los valores a 0
+	vector<bool> visitados(vertices.size(), false); // Todos los valores son false
+	queue<int> restantes;
+	int dst = 0;
+	
+	restantes.push(s);
+	visitados[s] = true;
+	while(!restantes.empty())
+	{
+		int v = restantes.front();
+		restantes.pop();
+		for(Arcos arco = vertices[v].primerArcoDeSalida; arco != nullptr; arco = arco->siguiente)
+		{
+			if(!visitados[arco->vecino])
+			{
+				restantes.push(arco->vecino);
+				visitados[arco->vecino] = true;
+				distancia[arco->vecino] = ++dst;
+			}
+		}
+	}
+	return distancia;
 	
 }
 ```
+
+# 4. <font color="#e36c09">Camino óptimo con pesos y algoritmo de Dijkstra</font>
+---
+
+## 4.1 
