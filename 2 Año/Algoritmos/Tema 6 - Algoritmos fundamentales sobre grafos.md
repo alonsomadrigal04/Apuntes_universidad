@@ -151,4 +151,71 @@ vector<int> BusquedaAnchura(int s)
 # 4. <font color="#e36c09">Camino óptimo con pesos y algoritmo de Dijkstra</font>
 ---
 
-## 4.1 
+## 4.1 <font color="#fac08f">Algoritmo de Dijkstra</font>
+
+Cuando nos encontramos con un grafo ponderado, ya no podemos usar el criterio anterior, pues este no lo tiene encuentra. Para ello hacemos uso de este algoritmo, de tipo voraz.
+
+> [!tldr] Algoritmos voraces
+En cada paso de este tipo de algoritmos, se elige la opción más beneficiosa en ese momento, sin preocuparse por las posibles consecuencias a largo plazo.
+
+En cada etapa, el algoritmo de Dijkstra selecciona un vértice, *v*, que tiene el menor coste
+entre todos los vértices desconocidos y declara que el camino más corto de *s* a v *es* conocido.
+El resto de una etapa consiste en actualizar los valores de coste.
+
+Esta vez el procedimiento es un poco distinto, la cola que necesitamos es una cola de Prioridad, pues debido a que tenemos que comprar siempre el menor coste posible. Es importante destacar también, que esta vez <u>la cola de booleanos no representa si hemos visitado un vértice</u>. Dijkstra tiene un coste de $O(|E| log |V|),$
+
+```c++
+#include <limits> // infinity
+
+vector<int> GrafoNoDirigido::arbolDeCaminosOptimosConPesos(int origen) const { 
+	
+	int cantidadDeVertices = vertices.size();
+	ColaDePrioridad colaDePrioridad(cantidadDeVertices);
+	vector<float> pesoCaminoOptimo(cantidadDeVertices, numeric_limits<float>::infinity());
+	vector<int> padre(cantidadDeVertices, -1);
+	vector<bool> estaEnLaColaDePrioridad(cantidadDeVertices, true);
+	
+	pesoCaminoOptimo[origen] = 0;
+	padre[origen] = -2;
+	
+	for (int v = 0; v < cantidadDeVertices; v++)
+      colaDePrioridad.insertar(v, pesoCaminoOptimo[v]);
+	
+	while (! colaDePrioridad.estaVacia()) 
+	{
+	      int verticeElegido = colaDePrioridad.eliminarMinimo();
+	      estaEnLaColaDePrioridad[verticeElegido] = false;
+	      for (Arco * arco = vertices[verticeElegido].primerArco; arco != nullptr; arco = arco->siguiente) 
+	    {
+			 int vecino = arco->vecino;
+			 if (estaEnLaColaDePrioridad[vecino]) 
+			 {
+			    float nuevoPeso = pesoCaminoOptimo[verticeElegido] + arco->peso;
+			    if (nuevoPeso < pesoCaminoOptimo[vecino]) 
+			    {
+				    pesoCaminoOptimo[vecino] = nuevoPeso;
+				    padre[vecino] = verticeElegido;
+				    colaDePrioridad.cambiarPrioridad(vecino, nuevoPeso);
+			    }
+			 }
+	    }
+	}
+	
+	return padre;
+}
+```
+
+> [!faq]- *¿Por que se utiliza colaDePrioridad.cambiarPrioridad(vecino, nuevoPeso);?*
+>- En ese punto del código, hemos encontrado una mejor ruta para llegar a ese vértice. Lo que hace esta línea de código es actualizar la mejor ruta, en la cola de prioridad. Es por eso que usamos este tipo de cola.
+
+> [!faq]- *¿Por que no usar una cola normal, como hemos hecho en anteriores algoritmos?*
+>- El fin de este código es encontrar siempre el <u>menor</u> coste para cada uno de los vértices. Es por ello, que cada vez que saquemos un elemento de la cola, este siempre tiene que ser el menor. Si sacásemos el ultimo que hemos visitado, meteríamos en la cola elementos repetidos varias veces.
+
+# 5. <font color="#e36c09">Árbol de recubrimiento óptimo y algoritmo de Prim </font>
+---
+
+> [!info] Definición
+Un árbol de recubrimiento optimo de un grafo no dirigido *G* es un árbol formado por arcos de grafos que conectan todos los vértices de G en el menor coste total.
+
+
+
