@@ -213,9 +213,107 @@ vector<int> GrafoNoDirigido::arbolDeCaminosOptimosConPesos(int origen) const {
 
 # 5. <font color="#e36c09">Árbol de recubrimiento óptimo y algoritmo de Prim </font>
 ---
+## 5.1 <font color="#fac08f">Definición</font>
 
 > [!info] Definición
-Un árbol de recubrimiento optimo de un grafo no dirigido *G* es un árbol formado por arcos de grafos que conectan todos los vértices de G en el menor coste total.
+Un árbol de recubrimiento óptimo de un grafo no dirigido *G* es un árbol formado por arcos de grafos que conectan todos los vértices de G en el menor coste posible. 
+El numero de Arcos totales del ARO es de $|V| - 1$
 
+El árbol de recubrimiento óptimo es:
+- Árbol: por que es acíclico.
+- Recubrimiento: por que cubre todos los vértices.
+- Óptimo: por razones obvias.
 
+Por ejemplo, si queremos aplicar un algoritmo que basado en un árbol de recubrimiento optimo de este grafo:
+![[Prim_1.png]]
 
+Obtendríamos el siguiente resultado:
+
+![[Prim_2.png]]
+
+## 5.2 <font color="#fac08f">Algoritmo de Prim</font>
+
+El algoritmo de Prim es un algoritmo de tipo voraz (greedy). Dado el enunciado del problema anterior, una forma de resolverlo es mediante el algoritmo de Prim. El cual se propone justamente el enunciado de un árbol de recubrimiento óptimo.
+
+```c++
+#include <limits> // infinity
+#include "ColaDePrioridad.h"
+
+vector<int> GrafoNoDirigido::arbolDeRecubrimientoOptimo() const { 
+	int cantidadDeVertices = vertices.size();
+	
+	ColaDePrioridad colaDePrioridad(cantidadDeVertices);
+	
+	vector<float> pesoCaminoOptimo(cantidadDeVertices, numeric_limits<float>::infinity());
+	vector<int> padre(cantidadDeVertices, -1);
+	vector<bool> estaEnLaColaDePrioridad(cantidadDeVertices, true);
+	
+	pesoCaminoOptimo[0] = 0;
+	padre[0] = -2;
+	
+	for (int v = 0; v < cantidadDeVertices; v++)
+	    colaDePrioridad.insertar(v, pesoCaminoOptimo[v]);
+	
+	while (! colaDePrioridad.estaVacia()) {
+	    int elegido = colaDePrioridad.eliminarMinimo();
+	    estaEnLaColaDePrioridad[elegido] = false;
+	    for (Arco * arco = vertices[elegido].primerArco; arco != nullptr; arco = arco->siguiente) {
+			int vecino = arco->vecino;
+			if (estaEnLaColaDePrioridad[vecino]) {
+			    float nuevoPeso = arco->peso;
+			    if (nuevoPeso < pesoCaminoOptimo[vecino]) {
+				    pesoCaminoOptimo[vecino] = nuevoPeso;
+				    padre[vecino] = elegido;
+				    colaDePrioridad.cambiarPrioridad(vecino, nuevoPeso);
+					}
+				}
+		    }
+		}
+	return padre;
+	}
+```
+## 5.3 <font color="#fac08f">Diferencias entre Prim y Dijkstra</font>
+
+Aunque se parezca que <font color="#548dd4">Prim</font> y <font color="#d99694">Dijkstra</font> son algoritmos parecidos <font color="#7f7f7f">(en lo que a código refiere)</font>, su propósito es completamente distinto. Aquí se explican las principales diferencias y como no confundirlos:
+- <u><font color="#548dd4">Prim</font></u>: Busca conectar todos los nodos del grafo de manera que la suma de los pesos de las aristas sea mínima.
+- <u><font color="#d99694">Dijkstra</font></u>: Encuentra los caminos más cortos desde un nodo de origen dado hacia todos los demás nodos en un grafo ponderado con pesos no negativos.
+- **<u><font color="#548dd4">Prim</font></u>:** Se centra en construir un árbol de expansión mínima, agregando aristas al conjunto de aristas del árbol paso a paso.
+- **<u><font color="#d99694">Dijkstra</font></u>:** Se centra en encontrar los caminos más cortos desde un nodo de origen a todos los demás nodos, calculando y actualizando las distancias acumulativas a medida que explora el grafo.
+# 6. <font color="#e36c09">Búsqueda en profundidad</font>
+---
+## 6.1 <font color="#fac08f">Búsqueda en profundidad</font>
+
+(Depth-first search) es una generalización de la traversa en preorden. Comienza en un vértice dado, procesa ese vértice y luego atraviesa recursivamente todos los vértices adyacentes a él. Si se realiza este proceso en un árbol, se visitan sistemáticamente todos los vértices en un tiempo total de $O(|E|)$, donde $|E| = O(|V|)$. Cuando se aplica a un grafo arbitrario, es necesario evitar ciclos marcando los vértices visitados y asegurándose de no visitar nuevamente los vértices ya marcados. La búsqueda en profundidad se realiza solo en nodos no visitados, evitando bucles infinitos.
+
+Para cada vértice, se inicializa un miembro de datos llamado "visited" a falso. En el caso de grafos no conectados o no fuertemente conectados, la estrategia podría no visitar algunos nodos, por lo que se busca un nodo no marcado y se aplica la búsqueda en profundidad allí. La garantía de que cada borde se encuentra solo una vez asegura que el tiempo total para realizar la traversa es $O(|E| + |V|)$, siempre que se utilicen listas de adyacencia.
+
+## 6.2<font color="#fac08f"> Grafos no dirigidos</font>
+
+Un grafo no dirigido está conectado si y solo si una búsqueda en profundidad iniciada desde cualquier nodo <u>visita cada nodo</u>. Dado que esta prueba es fácil de aplicar, se asumirá que los grafos con los que tratamos están conectados. En caso contrario, se pueden encontrar todos los componentes conectados y aplicar el algoritmo en cada uno de ellos por separado de forma <u>recursiva</u>.
+
+El árbol simulará la travesía que realizamos. Una numeración en preorden del árbol, utilizando solo bordes de árbol, nos dice el orden en el que se marcaron los vértices. Si el grafo no está conectado, procesar todos los nodos (y bordes) requiere varias llamadas a dfs, y cada una genera un árbol. Esta colección completa es un bosque de expansión en profundidad.
+
+Como ejemplo de búsqueda en profundidad, supongamos que comenzamos en el vértice A en el grafo de la Figura 9.62. Luego, marcamos A como visitado y llamamos recursivamente a dfs(B). dfs(B) marca B como visitado y llama recursivamente a dfs(C)...
+
+![[profundo_1.png]]![[profundo_2.png]]
+
+## 6.3 <font color="#fac08f">Grafos Dirigidos</font>
+
+Usando la misma estrategia que con grafos no dirigidos, los grafos dirigidos pueden ser recorridos en tiempo lineal mediante la búsqueda en profundidad. Si el grafo no está fuertemente conectado, una búsqueda en profundidad iniciada en algún nodo podría no visitar todos los nodos. En este caso, realizamos repetidamente búsquedas en profundidad, comenzando en algún nodo no marcado, hasta que todos los vértices hayan sido visitados.
+
+Un ejemplo practico es el siguiente grafo, teniendo en cuenta que partimos desde B:
+![[Captura de pantalla 2024-01-12 105207.png]]
+
+Desde B → (C, F) → A → D → E || H → J → I || G 
+
+![[Captura de pantalla 2024-01-12 105225.png]]
+
+## 6.4 <font color="#fac08f">Algortimo de Kosaraju-Sharir // Componentes fuertemente conexas</font>
+
+>[!info] Componentes fuertemente conexas
+>Cuando estamos hablando de vértices fuertemente conectados nos referimos que dados los vértices *v* y *w*, podemos ir de *v* → *w* y de *w* → *v*.
+
+  
+Al realizar dos búsquedas en profundidad, podemos verificar si un grafo dirigido es fuertemente conectado y, si no lo es, podemos producir los subconjuntos de vértices que están fuertemente conectados entre sí. Esto también se puede hacer en una sola búsqueda en profundidad, pero el método utilizado aquí es mucho más fácil de entender.
+
+Primero, se realiza una búsqueda en profundidad en el grafo de entrada G. Los vértices de G se numeran mediante un recorrido en postorden del bosque de expansión en profundidad y luego se invierten todas las aristas en G, formando Gr.
