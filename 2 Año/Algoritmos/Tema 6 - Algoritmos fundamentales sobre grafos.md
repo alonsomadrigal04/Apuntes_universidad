@@ -233,7 +233,7 @@ Obtendríamos el siguiente resultado:
 
 ## 5.2 <font color="#fac08f">Algoritmo de Prim</font>
 
-El algoritmo de Prim es un algoritmo de tipo voraz (greedy). Dado el enunciado del problema anterior, una forma de resolverlo es mediante el algoritmo de Prim. El cual se propone justamente el enunciado de un árbol de recubrimiento óptimo.
+El algoritmo de Prim es un algoritmo de tipo voraz (greedy). Dado el enunciado del problema anterior, una forma de resolverlo es mediante el algoritmo de Prim. El cual se propone justamente el enunciado de un árbol de recubrimiento óptimo. Prim tiene un coste de $O(|E| log |V|)$
 
 ```c++
 #include <limits> // infinity
@@ -301,6 +301,8 @@ Como ejemplo de búsqueda en profundidad, supongamos que comenzamos en el vérti
 
 Usando la misma estrategia que con grafos no dirigidos, los grafos dirigidos pueden ser recorridos en tiempo lineal mediante la búsqueda en profundidad. Si el grafo no está fuertemente conectado, una búsqueda en profundidad iniciada en algún nodo podría no visitar todos los nodos. En este caso, realizamos repetidamente búsquedas en profundidad, comenzando en algún nodo no marcado, hasta que todos los vértices hayan sido visitados.
 
+Esto es llamado Búsqueda en Profundidad o Deep-first Seach (DPS)
+
 Un ejemplo practico es el siguiente grafo, teniendo en cuenta que partimos desde B:
 ![[Captura de pantalla 2024-01-12 105207.png]]
 
@@ -316,4 +318,25 @@ Desde B → (C, F) → A → D → E || H → J → I || G
   
 Al realizar dos búsquedas en profundidad, podemos verificar si un grafo dirigido es fuertemente conectado y, si no lo es, podemos producir los subconjuntos de vértices que están fuertemente conectados entre sí. Esto también se puede hacer en una sola búsqueda en profundidad, pero el método utilizado aquí es mucho más fácil de entender.
 
-Primero, se realiza una búsqueda en profundidad en el grafo de entrada G. Los vértices de G se numeran mediante un recorrido en postorden del bosque de expansión en profundidad y luego se invierten todas las aristas en G, formando Gr.
+Primero, se realiza una búsqueda en profundidad en el grafo de entrada G. Los vértices de G se numeran mediante un recorrido en postorden del bosque de expansión en profundidad (no rallarse, simplemente hay que hacer un DPS) y luego se invierten todas las aristas en G, formando Gr.
+
+Cuando tengamos Gr, realizaremos un segundo DPS pero esta vez, empezando las llamadas recursivas de un nuevo DPS con el numero mas alto, o el ultimo explorado. Esto se consigue fácilmente con una pila. 
+
+Hagamos un ejemplo, tenemos el siguiente grafo $G$:
+
+![[Captura de pantalla 2024-01-13 141813.png]]
+
+1. Realizamos un primer DFS, para almacenar los nodos en un orden inverso basados en tiempos de finalización de cada nodo, usaremos una pila.
+
+| Segmentos | Pila (último → primero) |
+| --------- | ---- |
+| {0, 1, 2, 4} {0, 1, 2, 6, 5, 7} {0, 1, 3}          | 4, 7, 5, 6, 2, 3, 1, 0     |
+2. Realizamos una segunda DFS, empezando siempre estos por el vertice en el tope de la pila.
+
+| Segmentos                    |
+| ---------------------------- |
+| {0}, {1, 2, 4, 3}, {6, 7, 5} |
+Siendo estos la respuesta final.
+
+Hay que tener en cuenta que cualquier interpretación del algoritmo se usa de modo recursivo. El objetivo de este algoritmo es encontrar los distintos subconjuntos dentro de un grafo que estén fuertemente conexos.
+
