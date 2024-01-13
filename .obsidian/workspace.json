@@ -11,12 +11,8 @@
             "id": "92409dd07edcc036",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,6 +170,15 @@
   },
   "active": "92409dd07edcc036",
   "lastOpenFiles": [
+    "2023-12-04.md",
+    "Tareas.md",
+    "Untitled.md",
+    "Images/Algoritmos/Prim_1.png",
+    "Images/Algoritmos/Captura de pantalla 2024-01-12 105207.png",
+    "Images/Algoritmos/Captura 1 1.jpg",
+    "Images/Algoritmos/Captura 3.jpg",
+    "Images/Algoritmos/Captura 3 1.jpg",
+    "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
     "2 Año/Algoritmos/Clase - 10.md",
     "2 Año/Algoritmos/Clase - 12.md",
     "2 Año/Algoritmos/Clase - 8.md",
@@ -185,7 +186,6 @@
     "2 Año/Algoritmos/Clase - 5.md",
     "2 Año/Algoritmos/Clase - 2.md",
     "2 Año/Algoritmos/Algoritmos.md",
-    "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
     "Ingles/Inglés.md",
     "Ingles/1c1 - 2nd try/Adjectives.md",
     "Ingles/1c1 - 2nd try/2023-11-20.md",
@@ -201,19 +201,11 @@
     "Ingles/1c1 - 2nd try/2023-09-27.md",
     "Ingles/1c1 - 1st try/2023-02-06.md",
     "Ingles/1c1 - 1st try/2023-02-01.md",
-    "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
-    "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
     "2 Año/Algoritmos/Untitled Diagram 1.svg",
     "2 Año/Algoritmos/Untitled Diagram 2.svg",
     "2 Año/Algoritmos/Untitled Diagram 3.svg",
     "2 Año/Algoritmos/Untitled Diagram.svg",
-    "Excalidraw/Drawing 2024-01-04 10.30.09.excalidraw.md",
-    "Captura de pantalla 2024-01-13 141813.png",
-    "Captura de pantalla 2024-01-13 135059.png",
-    "Captura de pantalla 2024-01-12 105225.png",
-    "Captura de pantalla 2024-01-12 105207.png",
-    "profundo_1.png",
-    "profundo_2.png",
+    "Images/Algoritmos/Captura de pantalla 2024-01-13 141813.png",
     "Excalidraw",
     "Diagram.svg.xml",
     "Images/Algoritmos/Bubble-sort-example-300px.gif.opdownload",

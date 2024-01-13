@@ -18,7 +18,7 @@ Un grafo es <u>cíclico</u> cuando empieza en un nodo y acaba llegando al mismo 
 
 ## 1.2 <font color="#fac08f">Representación</font>
 
-![[Captura.jpg]]
+![[Captura 3.jpg]]
 
 ### 1.2.1 <font color="#fac08f">Matriz adyacente</font>
 
@@ -101,11 +101,11 @@ void GrafoDirigido::OrdenTopológico() const
 Dado como entrada un grafo ponderado, $G = (V, E)$, y un vértice distinguido, *s*, hallar el camino
 camino ponderado más corto desde *s* hasta cualquier otro vértice de *G*.
 
-![[Captura 1.jpg]]
+![[Captura 1 1.jpg]]
 
 En el siguiente grafo, si queremos encontrar el camino ponderado mas corto entre $v_1$ y $v_6$. El camino más corto es 6, ( $v_1$ → $v_4$ → $v_7$ → $v_6$ ). Si queremos el no ponderado es 2.
 
-![[Captura 2.jpg]]
+![[Captura 2 1.jpg]]
 
 En aquellos grafos con arcos ponderados <u>negativos</u>, existe la posibilidad que se cree un ciclo de coste negativo. Cuando esto ocurre el camino optimo, no esta definido. Pues si queremos encontrar el camino de: $v_5$ a $v_4$:     $v_5$ → $v_4$  >  $v_5$ → $v_4$ →  $v_2$ →  $v_5$ → $v_4$ > ...
 

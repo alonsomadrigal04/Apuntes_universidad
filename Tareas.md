@@ -1,4 +1,0 @@
-- [ ] Hacer apuntes Consolas (semanal) (s. 02 - 08)
-- [ ] Acabar apuntes de algoritmos Tema 2
-- [ ] Adelantar practica Consolas ('apuntar avance')
-- [ ] Ejercicios de Mates para el PUTO viernes
