@@ -292,6 +292,51 @@ Aunque se parezca que <font color="#548dd4">Prim</font> y <font color="#d99694">
 
 Para cada vértice, se inicializa un miembro de datos llamado "visited" a falso. En el caso de grafos no conectados o no fuertemente conectados, la estrategia podría no visitar algunos nodos, por lo que se busca un nodo no marcado y se aplica la búsqueda en profundidad allí. La garantía de que cada borde se encuentra solo una vez asegura que el tiempo total para realizar la traversa es $O(|E| + |V|)$, siempre que se utilicen listas de adyacencia.
 
+Teniendo en cuenta esto, el codigo es sencillo:
+
+```c++
+void BusquedaProfundidadDFS(int v, vector<bool>& visitados, vector<int>& seccion) const
+{
+	visitados[v] = true;
+	
+	for(Arco* arco = vertices[v].primerArcoSalida; arco != nullptr; arco = arco->siguiente)
+	{
+		int vecino = arco->vecino;
+		if(!visitados[vecino])
+		{
+			BusquedaProfundidadDFS(vecino, visitados, seccion);
+		}
+	}
+	seccion.push_back(v);
+}
+
+
+
+vector<vector<int>> Busquedaprofundidad() const
+{
+	vector<bool> visitados (vertices.size(), false);
+	vector<vector<int>> solucion;
+	
+	for(int i = 0; i < vertices.size(); i++)
+	{
+		vector<int> seccion;
+		if(!visitados[i]) // solo aquellos nodos no visitados
+		{
+			BusquedaProfundidadDFS(i, visitados, seccion)
+			solucion.push_back(seccion);
+		}
+	}
+	return solucion;
+}
+
+
+```
+
+
+> [!danger]- Errores tipicos
+> - En la funcion recursiva, poner el equivalente a "*seccion.push_back(v)*", dentro del for. Recuerda que la idea del bucle es añadir el nodo a la sección después de haber explorado todos sus *vecinos*.
+> - No pasar el valor seccion por referencia
+> - Inicializar la búsqueda por un valor aleatorio, usualmente se pone directamente "*BusquedaProfundidadDFS(**0**, visitados, seccion)*". Recuerda que tienes que hacer nuevas llamadas recursivas solamente a aquellos que no estén visitados.
 ## 6.2<font color="#fac08f"> Grafos no dirigidos</font>
 
 Un grafo no dirigido está conectado si y solo si una búsqueda en profundidad iniciada desde cualquier nodo <u>visita cada nodo</u>. Dado que esta prueba es fácil de aplicar, se asumirá que los grafos con los que tratamos están conectados. En caso contrario, se pueden encontrar todos los componentes conectados y aplicar el algoritmo en cada uno de ellos por separado de forma <u>recursiva</u>.
