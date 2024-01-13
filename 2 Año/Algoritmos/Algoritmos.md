@@ -16,3 +16,4 @@ Temas Acabados
 [[Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda]]
 [[Tema 4 - Colas de prioridad mediante montículos]]
 [[Tema 5 - Técnicas algorítmicas]]
+[[Tema 6 - Algoritmos fundamentales sobre grafos]]

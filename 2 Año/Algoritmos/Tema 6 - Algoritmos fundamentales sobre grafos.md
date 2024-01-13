@@ -1,3 +1,8 @@
+# Índice
+---
+En la siguiente página de Obsidian se encuentran lo siguientes algoritmos, basados en operaciones básicas de grafos. 
+
+
 # 1. <font color="#e36c09">Definición y representación</font>
 ---
 ## 1.1 <font color="#fac08f">Términos generales</font>
@@ -331,7 +336,7 @@ Hagamos un ejemplo, tenemos el siguiente grafo $G$:
 | Segmentos | Pila (último → primero) |
 | --------- | ---- |
 | {0, 1, 2, 4} {0, 1, 2, 6, 5, 7} {0, 1, 3}          | 4, 7, 5, 6, 2, 3, 1, 0     |
-2. Realizamos una segunda DFS, empezando siempre estos por el vertice en el tope de la pila.
+2. Realizamos una segunda DFS, empezando siempre estos por el vértice en el tope de la pila.
 
 | Segmentos                    |
 | ---------------------------- |
@@ -340,3 +345,66 @@ Siendo estos la respuesta final.
 
 Hay que tener en cuenta que cualquier interpretación del algoritmo se usa de modo recursivo. El objetivo de este algoritmo es encontrar los distintos subconjuntos dentro de un grafo que estén fuertemente conexos.
 
+```c++
+void Kosaraju1DFS(int v, vector<bool>& visitados, stack<int>& pila) 
+{
+    visitados[v] = true;
+	
+    for (Arco* arco = vertices[v].primerArco; arco != nullptr; arco = arco->siguiente) 
+	{
+        int vecino = arco->vecino;
+        if (!visitados[vecino]) 
+        {
+            Kosaraju1DFS(vecino, visitados, pila);
+	    }
+    }
+	
+    pila.push(v);
+}
+
+void Kosaraju2DFS(int v, vector<bool>& visitados, vector<vector<int>>& seccion)
+	{
+		visitados[v] = true;
+		
+		for(Arco* arco = vertices[v].primerArco; arco != nullptr; arco = arco->siguiente)
+		{
+			int vecino = arco->vecino;
+			if(!visitados[vecino])
+			{
+				Kosaraju2DFS(vecino, visitados, seccion);
+			}
+		}
+	
+	seccion.push_back(v);
+	}
+
+vector<vector<int>> Kosaraju() const {
+    vector<bool> visitados(vertices.size(), false);
+    vector<vector<int>> sol;
+    stack<int> pila;
+	
+    // Realiza un DFS desde cualquier nodo no visitado
+    for (int i = 0; i < vertices.size(); ++i) 
+    {
+        if (!visitados[i]) 
+        {
+            Kosaraju1DFS(i, visitados, pila);
+        }
+    }
+	
+	visitados.assign(vertices.size(), false);
+	// Realizamos el segundo DFS en base al orden de la pila
+	while(!pila.empty() )
+	{
+		int v = pila.top();
+		pila.pop();
+		vector<int> seccion;
+		if(!visitados[v])
+		{	
+			Kosaraju2DFS(v, visitados, seccion);
+			sol.push_back(seccion);
+		}
+	}
+	return sol;
+}
+```
