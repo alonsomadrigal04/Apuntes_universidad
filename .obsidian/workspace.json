@@ -11,8 +11,12 @@
             "id": "92409dd07edcc036",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md"
+              }
             }
           },
           {
@@ -170,6 +178,15 @@
   },
   "active": "92409dd07edcc036",
   "lastOpenFiles": [
+    "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
+    "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
+    "2 Año/Algoritmos/Tema 4 - Colas de prioridad mediante montículos.md",
+    "2 Año/Algoritmos/Tema 3 - Conjuntos y diccionarios mediante árboles de búsqueda.md",
+    "2 Año/Algoritmos/Tema 2 - Estructuras de datos básicas con memoria dinámica.md",
+    "2 Año/Algoritmos/Tema 1 - Análisis de Algoritmos.md",
+    "Images/Algoritmos/Untitled Diagram 1 2.svg",
+    "Images/Algoritmos/Untitled Diagram 4.svg",
+    "2 Año/Algoritmos/Clase - 4.md",
     "2023-12-04.md",
     "Tareas.md",
     "Untitled.md",
@@ -178,7 +195,6 @@
     "Images/Algoritmos/Captura 1 1.jpg",
     "Images/Algoritmos/Captura 3.jpg",
     "Images/Algoritmos/Captura 3 1.jpg",
-    "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
     "2 Año/Algoritmos/Clase - 10.md",
     "2 Año/Algoritmos/Clase - 12.md",
     "2 Año/Algoritmos/Clase - 8.md",
@@ -195,16 +211,8 @@
     "Ingles/1c1 - 2nd try/2023-10-30.md",
     "Ingles/1c1 - 2nd try/2023-10-25.md",
     "Ingles/1c1 - 2nd try/2023-10-23.md",
-    "Ingles/1c1 - 2nd try/2023-10-18.md",
-    "Ingles/1c1 - 2nd try/2023-10-04.md",
-    "Ingles/1c1 - 2nd try/2023-10-02.md",
-    "Ingles/1c1 - 2nd try/2023-09-27.md",
-    "Ingles/1c1 - 1st try/2023-02-06.md",
-    "Ingles/1c1 - 1st try/2023-02-01.md",
-    "2 Año/Algoritmos/Untitled Diagram 1.svg",
     "2 Año/Algoritmos/Untitled Diagram 2.svg",
     "2 Año/Algoritmos/Untitled Diagram 3.svg",
-    "2 Año/Algoritmos/Untitled Diagram.svg",
     "Images/Algoritmos/Captura de pantalla 2024-01-13 141813.png",
     "Excalidraw",
     "Diagram.svg.xml",

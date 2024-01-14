@@ -332,11 +332,12 @@ vector<vector<int>> Busquedaprofundidad() const
 
 ```
 
-
 > [!danger]- Errores tipicos
 > - En la funcion recursiva, poner el equivalente a "*seccion.push_back(v)*", dentro del for. Recuerda que la idea del bucle es añadir el nodo a la sección después de haber explorado todos sus *vecinos*.
 > - No pasar el valor seccion por referencia
 > - Inicializar la búsqueda por un valor aleatorio, usualmente se pone directamente "*BusquedaProfundidadDFS(**0**, visitados, seccion)*". Recuerda que tienes que hacer nuevas llamadas recursivas solamente a aquellos que no estén visitados.
+
+
 ## 6.2<font color="#fac08f"> Grafos no dirigidos</font>
 
 Un grafo no dirigido está conectado si y solo si una búsqueda en profundidad iniciada desde cualquier nodo <u>visita cada nodo</u>. Dado que esta prueba es fácil de aplicar, se asumirá que los grafos con los que tratamos están conectados. En caso contrario, se pueden encontrar todos los componentes conectados y aplicar el algoritmo en cada uno de ellos por separado de forma <u>recursiva</u>.

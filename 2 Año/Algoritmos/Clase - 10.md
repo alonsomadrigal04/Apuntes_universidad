@@ -38,8 +38,8 @@ Ordenación topológica;
 - a ⇾ b ; se tendría que ordenar primero la a y después la b. Y así con todos los vértices.
 Buscamos los vértices que tengan grado de entrada 0, y cuando ya resolvamos el problema y "eliminamos un nodo". Buscamos el nuevo vértice de grado de entrada 0.
 
-![[2 Año/Algoritmos/Untitled Diagram 1.svg]]
-![[2 Año/Algoritmos/Untitled Diagram.svg]]
+![[Untitled Diagram 1 2.svg]]
+![[Untitled Diagram 4.svg]]
 
 /// ACABAR ESQUEMA ///
 
