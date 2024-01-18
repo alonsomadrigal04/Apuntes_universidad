@@ -82,8 +82,8 @@ void GrafoDirigido::OrdenTopológico() const
 		int vertice = inidiceZero.front();
 		inidiceZero.pop();
 		solucion[cntVertices++] = vertice;
-		for(Arco * arco = vertices[vertice].primerArcoDeEntrada; arco->siguiente = nullptr; arco = arco->siguiente)
-			if(--arco->vecino == 0)
+		for(Arco * arco = vertices[vertice].primerArcoDeEntrada; arco != nullptr; arco = arco->siguiente)
+			if(--entradasRestantes[arco->vecino] == 0)
 				inidiceZero.push(arco->vecino);
 	}
 	
@@ -453,4 +453,46 @@ vector<vector<int>> Kosaraju() const {
 	}
 	return sol;
 }
+```
+
+
+
+```c++
+
+bool quesoAlcanzablePorTodosLosPutosRatones(int q, const vector<bool>& raton) const
+{
+	int cntVertices = vertices.size();
+	vector<int> ratones;
+	
+	for(int i = 0; i < cntVertices ; i++)
+		if(raton[i]) ratones.push(raton[i]);
+	
+	if(ratones.size() == 0)
+		throw "NO HAY PUTOS RATONES";
+	
+	if(ratones.size() == 1 && ratones[0] == q)
+		return true;
+	
+	vector<bool> esAlcanzable(cntVertices, false);
+	vector<bool> visitados(cntVertices, false);
+	
+	bool allAlcanzables = true;
+	esAlcanzable[q] = true;
+	
+	for(int i = 0; i < raton.size(); i++)
+	{
+		BusquedaDFS(i, esAlcanzable, allAlcanzable);
+		vector<bool> visitados(cntVertices, false);
+		if(allAlcanzables)
+			break;
+	}
+	return 
+}
+
+void BusquedaDFS(int v, vector<bool>& esAlcanzable)
+{
+	visitados[v] = true;
+	
+}
+
 ```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
+                "file": "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "436ea96a59123609",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
+                "file": "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
+                "file": "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md"
+                "file": "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md"
               }
             }
           },
@@ -178,6 +179,19 @@
   },
   "active": "92409dd07edcc036",
   "lastOpenFiles": [
+    "2 Año/Consolas/Consolas.md",
+    "2 Año/Consolas/Clase - 10.md",
+    "2 Año/Consolas/Clase - 9.md",
+    "2 Año/Consolas/Clase - 8.md",
+    "2 Año/Consolas/Clase - 7.md",
+    "2 Año/Consolas/Clase - 6.md",
+    "2 Año/Consolas/Clase - 3.md",
+    "2 Año/Consolas/Clase - 2.md",
+    "2 Año/Consolas/Clase - 1.md",
+    "2 Año/Empresas/Clase - 3 (Tema 4).md",
+    "2 Año/Empresas/Clase - 4 (Tema 5, Tema 6).md",
+    "2 Año/Empresas/Clase - 5 (Tema 8 - Tema 9).md",
+    "2 Año/Empresas/Clase - 6 (=).md",
     "2 Año/Algoritmos/Tema 6 - Algoritmos fundamentales sobre grafos.md",
     "2 Año/Algoritmos/Tema 5 - Técnicas algorítmicas.md",
     "2 Año/Algoritmos/Tema 4 - Colas de prioridad mediante montículos.md",
@@ -198,19 +212,6 @@
     "2 Año/Algoritmos/Clase - 10.md",
     "2 Año/Algoritmos/Clase - 12.md",
     "2 Año/Algoritmos/Clase - 8.md",
-    "2 Año/Algoritmos/Clase - 7.md",
-    "2 Año/Algoritmos/Clase - 5.md",
-    "2 Año/Algoritmos/Clase - 2.md",
-    "2 Año/Algoritmos/Algoritmos.md",
-    "Ingles/Inglés.md",
-    "Ingles/1c1 - 2nd try/Adjectives.md",
-    "Ingles/1c1 - 2nd try/2023-11-20.md",
-    "Ingles/1c1 - 2nd try/2023-11-15.md",
-    "Ingles/1c1 - 2nd try/2023-11-13.md",
-    "Ingles/1c1 - 2nd try/2023-11-06.md",
-    "Ingles/1c1 - 2nd try/2023-10-30.md",
-    "Ingles/1c1 - 2nd try/2023-10-25.md",
-    "Ingles/1c1 - 2nd try/2023-10-23.md",
     "2 Año/Algoritmos/Untitled Diagram 2.svg",
     "2 Año/Algoritmos/Untitled Diagram 3.svg",
     "Images/Algoritmos/Captura de pantalla 2024-01-13 141813.png",
