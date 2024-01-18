@@ -396,7 +396,7 @@ void Kosaraju1DFS(int v, vector<bool>& visitados, stack<int>& pila)
 {
     visitados[v] = true;
 	
-    for (Arco* arco = vertices[v].primerArco; arco != nullptr; arco = arco->siguiente) 
+    for (Arco* arco = vertices[v].primerArcoEntrada; arco != nullptr; arco = arco->siguiente) 
 	{
         int vecino = arco->vecino;
         if (!visitados[vecino]) 
@@ -412,7 +412,7 @@ void Kosaraju2DFS(int v, vector<bool>& visitados, vector<vector<int>>& seccion)
 	{
 		visitados[v] = true;
 		
-		for(Arco* arco = vertices[v].primerArco; arco != nullptr; arco = arco->siguiente)
+		for(Arco* arco = vertices[v].primerArcoSalida; arco != nullptr; arco = arco->siguiente)
 		{
 			int vecino = arco->vecino;
 			if(!visitados[vecino])
