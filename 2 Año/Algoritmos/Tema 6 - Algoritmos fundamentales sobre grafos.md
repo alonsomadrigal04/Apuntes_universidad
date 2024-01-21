@@ -457,6 +457,9 @@ vector<vector<int>> Kosaraju() const {
 
 
 
+
+
+Ejercicio random de Algoritmos:
 ```c++
 
 bool quesoAlcanzablePorTodosLosPutosRatones(int q, const vector<bool>& raton) const
